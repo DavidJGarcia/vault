@@ -1,3 +1,3 @@
 # Todo
 
-- [ ] buy milk 105907
+- [x] buy milk 105907
