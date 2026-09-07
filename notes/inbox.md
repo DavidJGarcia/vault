@@ -4,3 +4,4 @@
 - 2026-09-06 09:31 · 8:30 to 9:30 on September 20th is branch council.
 - 2026-09-06 09:31 · And Youth Council
 - 2026-09-06 09:32 · Visits on September 20th from 10:00 to 11:00
+- 2026-09-07 16:03 · Update ministering for Brother Rolf and his family.
