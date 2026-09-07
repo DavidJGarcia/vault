@@ -6,3 +6,4 @@
 - [ ] Follow up about Switch
 - [ ] finish gerbil cage
 - [ ] Deny arming of check-ins for index project on Claude
+- [ ] Update ministering for Brother Rolf and his family
