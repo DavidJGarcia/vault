@@ -2,3 +2,4 @@
 
 - [ ] unpack backpack
 - [ ] Swap out GFCI outlets
+- [ ] Update Wi-Fi settings for Xboxes
