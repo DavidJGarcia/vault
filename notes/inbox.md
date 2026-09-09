@@ -9,3 +9,4 @@
 - 2026-09-07 16:16 · 22 minutes from now remind me that the reminders are working.
 - 2026-09-09 11:21 · They send me all kinds of crap that is legit.
 - 2026-09-09 11:21 · That does require me to click on a single link.
+- 2026-09-09 13:39 · That is in the button.
