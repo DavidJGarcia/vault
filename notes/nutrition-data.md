@@ -136,3 +136,13 @@ note takes.
 - **A `CLAUDE.md` in `C:\Users\David\.config\index\jobs`.** Jobs run from that folder
   rather than from the clone, so a `CLAUDE.md` there loads into every capture too. Same
   effect, kept out of the repository.
+- **Telling me through the ring.** Reaches that one capture and nothing after it. The
+  record survives in the table, but on an ordinary "track two eggs" I do not read the
+  table first, so it would not fire.
+- **This document.** Same problem. I am reading it now because you asked about it;
+  nothing puts it in front of a meal note.
+
+Put the fallback in that line on purpose: if the file is missing or the key has been
+revoked, estimate the way I do today and say nothing about it, so a dead key degrades
+quietly instead of showing an error on your wrist. The same holds for any future key -
+the file is the secret, the prompt line is what makes it real.
