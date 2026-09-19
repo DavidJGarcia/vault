@@ -58,3 +58,47 @@ Put the fallback in that line on purpose: if the file is missing or the key has 
 revoked, estimate the way I do today and say nothing about it, so a dead key degrades
 quietly instead of showing an error on your wrist. The same holds for any future key -
 the file is the secret, the prompt line is what makes it real.
+
+## Option 2 - Open Food Facts (barcodes and packaged food)
+
+- No key, no signup, no rate limit for reasonable use. Open data under the ODbL licence.
+- Over 3 million products by barcode: name, brand, nutrition per 100 g or 100 ml,
+  ingredients, allergens, Nutri-Score, NOVA group.
+- Documented call: `https://world.openfoodfacts.org/api/v2/product/{barcode}.json`
+- Coverage is strongest in Europe, good in North America, and any single field can be
+  missing on any product.
+- Nothing for you to set up. It complements USDA rather than replacing it, and it is the
+  answer if you ever want to read a barcode off a package.
+
+## Packaged foods when you only say the name
+
+Asked September 18, 2026: what happens for packaged food if you never scan a barcode and
+just tell me what it is. Mostly it works, and USDA's Branded set is what makes it work.
+
+- The same search endpoint takes plain words and can be limited to label data:
+  `/v1/foods/search?query=clif bar chocolate chip&dataType=Branded&api_key=...`, with
+  `brandOwner=` to narrow to one manufacturer when a product name is generic.
+- Branded entries are the manufacturer's own label panel, so "Chobani nonfat plain" comes
+  back with the numbers printed on the cup instead of my estimate, and the receipt can
+  name USDA as the source.
+- What decides whether it lands is how you say it. Brand, product and flavour resolve to
+  one entry: "Clif Bar chocolate chip" is exact, "a protein bar" is not. When it is
+  ambiguous I will take the closest match and say on the wrist which one I took.
+- Label numbers are per the label's serving, which is often not the package. Say "the
+  whole bag" or "two bars" when it matters; otherwise I will assume one serving and say so.
+- Discontinued and reformulated products stay in the set, so an old entry can carry a
+  panel the current package no longer prints. Uncommon, worth knowing when a number looks
+  wrong.
+
+Open Food Facts is the weaker half here. Its v2 API searches structured fields - brand,
+category, nutrient - and has no full-text search; free text lives in the older
+`cgi/search.pl` endpoint and in the newer Search-a-licious service. It stays the right
+tool for a barcode and for imported products USDA missed, not the first thing tried on a
+spoken name.
+
+Nutritionix (Option 3) is the one built for this exact sentence, parsing "two slices of
+pizza and a coke" into items, and it carries restaurant menus USDA does not. That is the
+paid answer if naming things out loud keeps coming back wrong.
+
+**What you would do:** nothing beyond Option 1. Naming packaged food out loud starts
+working the moment the key file exists.
