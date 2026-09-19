@@ -127,3 +127,12 @@ capture starts fresh: I get my standing prompt, the one event, and whatever I de
 go read. A file that quietly appears in `~\.config\index\` is invisible to me until
 something I already read on every note names it. The line has to live in the path a meal
 note takes.
+- **The standing prompt, `worker\prompt.md` in the project-index clone.** The right
+  place: it is loaded on every capture, so one line there turns a file on disk into a
+  habit. Something like: "Food notes: if `C:\Users\David\.config\index\nutrition-key`
+  exists, read it and price the meal from USDA FoodData Central, naming USDA in the
+  receipt; if it is missing, estimate as now." I never write to your machine, so that
+  edit is yours, or one a Claude Code session in the clone makes for you.
+- **A `CLAUDE.md` in `C:\Users\David\.config\index\jobs`.** Jobs run from that folder
+  rather than from the clone, so a `CLAUDE.md` there loads into every capture too. Same
+  effect, kept out of the repository.
