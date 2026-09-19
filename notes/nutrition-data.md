@@ -102,3 +102,50 @@ paid answer if naming things out loud keeps coming back wrong.
 
 **What you would do:** nothing beyond Option 1. Naming packaged food out loud starts
 working the moment the key file exists.
+
+## Option 3 - Nutritionix (natural language, costs money at scale)
+
+- Around 1.9 million foods, including roughly 202,000 restaurant menu items across
+  209,000 US locations - the part USDA is weakest at.
+- Its natural-language endpoint turns "two slices of pizza and a coke" into structured
+  items with quantities, which is exactly the shape of what you say to the ring.
+  Reported accuracy on casual descriptions is about 85 percent.
+- There is a free developer tier; paid plans start around $299/month, with higher tiers
+  at $999 and enterprise from about $1,850.
+- Worth revisiting only if restaurant meals are a real share of what you eat and the free
+  tier's limits turn out to be too small. The parsing it sells is work I already do.
+
+## Option 4 - a local copy (no network, no limits)
+
+- USDA publishes the whole database as CSV: `food_nutrient.csv` about 1.3 GB,
+  `branded_food.csv` about 745 MB, `food.csv` about 140 MB.
+- Loaded into SQLite on this machine it answers instantly, offline, with no rate limit,
+  and I can query it with ordinary SQL instead of one HTTP call per food.
+- Costs a few GB of disk, an hour of setup, and a reload when USDA republishes, which is
+  a couple of times a year.
+- Sensible later, once the API version has proven it earns its keep.
+
+## Suggested order
+
+1. Get the USDA key and drop it in the file above. Five minutes, free, no card.
+2. Add the line naming the key file to `worker\prompt.md`, or to a `CLAUDE.md` in the jobs
+   folder, so every meal note goes looking for it.
+3. I use USDA for whole foods and for packaged food you name out loud, and Open Food Facts
+   for anything with a barcode.
+4. Nutritionix only if restaurant meals keep coming back as guesses.
+5. The local SQLite mirror only if you want food tracking to work with no network.
+
+## What changes on the wrist
+
+Receipts start naming the source: "2 eggs, 1 slice sourdough: 320 kcal (USDA)". A number
+with no source named is still my estimate, and you can tell the difference at a glance.
+
+## Sources
+
+- USDA FoodData Central API guide and key signup: https://fdc.nal.usda.gov/api-guide
+- USDA data documentation and bulk downloads: https://fdc.nal.usda.gov/data-documentation/
+- USDA search parameters, dataType=Branded and brandOwner: https://fdc.nal.usda.gov/help
+- Open Food Facts data and API: https://world.openfoodfacts.org/data
+- Open Food Facts search API v2, structured fields and no full text:
+  https://wiki.openfoodfacts.org/Open_Food_Facts_Search_API_Version_2
+- Nutritionix API: https://www.nutritionix.com/api
