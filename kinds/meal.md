@@ -23,3 +23,8 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         brands often, and the label beats an estimate. Transcription mangles brand
         names ("Kirtland Signatures" for Kirkland Signature) - resolve them and say
         what was resolved.
+        A bare number in a Track note is the count of that helping, not a running
+        total for the day. On September 19, 2026 "Track 11: Jesus." was read as a
+        running count and the cluster row was raised to eleven; he corrected it to
+        three nine minutes later. When a number looks like a jump, keep the helpings
+        already counted and say what was assumed.
