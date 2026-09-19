@@ -140,3 +140,44 @@ working the moment the key file exists.
   chain's own published nutrition, which is how the McDonald's cone and nuggets on
   September 18 got their numbers. Slower per meal, free, accurate for the big chains, and
   thin for independent restaurants - the one real gap that stays open.
+
+## Option 4 - a local copy (no network, no limits)
+
+- USDA publishes the whole database as CSV: `food_nutrient.csv` about 1.3 GB,
+  `branded_food.csv` about 745 MB, `food.csv` about 140 MB.
+- Loaded into SQLite on this machine it answers instantly, offline, with no rate limit,
+  and I can query it with ordinary SQL instead of one HTTP call per food.
+- Costs a few GB of disk, an hour of setup, and a reload when USDA republishes, which is
+  a couple of times a year.
+- At one person's volume the rate limit it avoids is never reached, so this is now about
+  working offline and nothing else. Sensible later, if ever.
+
+## Suggested order
+
+1. Get the USDA key and drop it in the file above. Five minutes, free, no card.
+2. Add the line naming the key file to `worker\prompt.md`, or to a `CLAUDE.md` in the jobs
+   folder, so every meal note goes looking for it.
+3. I use USDA for whole foods and for packaged food you name out loud, Open Food Facts for
+   anything with a barcode, and the chain's own published nutrition for restaurants.
+4. Nutritionix is off the table for a personal log - no free tier, no trial for this use.
+5. The local SQLite mirror only if you want food tracking to work with no network.
+
+## What changes on the wrist
+
+Receipts start naming the source: "2 eggs, 1 slice sourdough: 320 kcal (USDA)". A number
+with no source named is still my estimate, and you can tell the difference at a glance.
+
+## Sources
+
+- USDA FoodData Central API guide and key signup: https://fdc.nal.usda.gov/api-guide
+- USDA data documentation and bulk downloads: https://fdc.nal.usda.gov/data-documentation/
+- USDA search parameters, dataType=Branded and brandOwner: https://fdc.nal.usda.gov/help
+- Open Food Facts data and API: https://world.openfoodfacts.org/data
+- Open Food Facts search API v2, structured fields and no full text:
+  https://wiki.openfoodfacts.org/Open_Food_Facts_Search_API_Version_2
+- Nutritionix API: https://www.nutritionix.com/api
+- Nutritionix trial request page, commercial, research and enterprise only:
+  https://www.nutritionix.com/request-api-trial
+- Third-party pricing summaries read September 18, 2026:
+  https://calorieapi.com/blog/nutritionix-api-pricing and
+  https://selfhostednutrition.org/api/nutritionix-api-when-to-use/
