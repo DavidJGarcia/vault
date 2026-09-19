@@ -90,3 +90,53 @@ the file is the secret, the prompt line is what makes it real.
   missing on any product.
 - Nothing for you to set up. It complements USDA rather than replacing it, and it is the
   answer if you ever want to read a barcode off a package.
+
+## Packaged foods when you only say the name
+
+Asked September 18, 2026: what happens for packaged food if you never scan a barcode and
+just tell me what it is. Mostly it works, and USDA's Branded set is what makes it work.
+
+- The same search endpoint takes plain words and can be limited to label data:
+  `/v1/foods/search?query=clif bar chocolate chip&dataType=Branded&api_key=...`, with
+  `brandOwner=` to narrow to one manufacturer when a product name is generic.
+- Branded entries are the manufacturer's own label panel, so "Chobani nonfat plain" comes
+  back with the numbers printed on the cup instead of my estimate, and the receipt can
+  name USDA as the source.
+- What decides whether it lands is how you say it. Brand, product and flavour resolve to
+  one entry: "Clif Bar chocolate chip" is exact, "a protein bar" is not. When it is
+  ambiguous I will take the closest match and say on the wrist which one I took.
+- Label numbers are per the label's serving, which is often not the package. Say "the
+  whole bag" or "two bars" when it matters; otherwise I will assume one serving and say so.
+- Discontinued and reformulated products stay in the set, so an old entry can carry a
+  panel the current package no longer prints. Uncommon, worth knowing when a number looks
+  wrong.
+
+Open Food Facts is the weaker half here. Its v2 API searches structured fields - brand,
+category, nutrient - and has no full-text search; free text lives in the older
+`cgi/search.pl` endpoint and in the newer Search-a-licious service. It stays the right
+tool for a barcode and for imported products USDA missed, not the first thing tried on a
+spoken name.
+
+**What you would do:** nothing beyond Option 1. Naming packaged food out loud starts
+working the moment the key file exists.
+
+## Option 3 - Nutritionix (closed to personal use)
+
+- Around 1.9 million foods, including roughly 202,000 restaurant menu items across
+  209,000 US locations - the part USDA is weakest at.
+- Its natural-language endpoint turns "two slices of pizza and a coke" into structured
+  items with quantities, which is the shape of what you say to the ring. Reported
+  accuracy on casual descriptions is about 85 percent.
+- **The public free tier is gone.** After a decade of open developer signups Nutritionix
+  closed it, citing misuse of trial accounts. Trial keys now go only to commercial,
+  research and enterprise evaluations, by request. A one-person food log is none of
+  those, so there is no door to walk through.
+- Paid entry is listed by third parties at around 50 dollars a month for a hobby tier,
+  with production plans from roughly 500 to 2,000 dollars and up. The 299 figure first
+  written here was older published pricing; treat all of these as approximate, since
+  Nutritionix does not post a public price list.
+- So for you it is not a cost question but an access one, and the two things it sells you
+  already have: parsing your sentence is my job, and restaurant meals I price from the
+  chain's own published nutrition, which is how the McDonald's cone and nuggets on
+  September 18 got their numbers. Slower per meal, free, accurate for the big chains, and
+  thin for independent restaurants - the one real gap that stays open.
