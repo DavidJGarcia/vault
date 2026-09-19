@@ -120,3 +120,10 @@ with no source named is still my estimate, and you can tell the difference at a 
 - Open Food Facts search API v2, structured fields and no full text:
   https://wiki.openfoodfacts.org/Open_Food_Facts_Search_API_Version_2
 - Nutritionix API: https://www.nutritionix.com/api
+## How I would know to find the key there
+
+Asked September 18, 2026, about the key file above. Saving it is only half of it. Every
+capture starts fresh: I get my standing prompt, the one event, and whatever I decide to
+go read. A file that quietly appears in `~\.config\index\` is invisible to me until
+something I already read on every note names it. The line has to live in the path a meal
+note takes.
