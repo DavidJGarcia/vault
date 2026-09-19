@@ -43,6 +43,39 @@ here. Tell me it exists and I will start using it for every meal note.
 - Nothing for you to set up. It complements USDA rather than replacing it, and it is the
   answer if you ever want to read a barcode off a package.
 
+## Packaged foods when you only say the name
+
+Asked September 18, 2026: what happens for packaged food if you never scan a barcode and
+just tell me what it is. Mostly it works, and USDA's Branded set is what makes it work.
+
+- The same search endpoint takes plain words and can be limited to label data:
+  `/v1/foods/search?query=clif bar chocolate chip&dataType=Branded&api_key=...`, with
+  `brandOwner=` to narrow to one manufacturer when a product name is generic.
+- Branded entries are the manufacturer's own label panel, so "Chobani nonfat plain" comes
+  back with the numbers printed on the cup instead of my estimate, and the receipt can
+  name USDA as the source.
+- What decides whether it lands is how you say it. Brand, product and flavour resolve to
+  one entry: "Clif Bar chocolate chip" is exact, "a protein bar" is not. When it is
+  ambiguous I will take the closest match and say on the wrist which one I took.
+- Label numbers are per the label's serving, which is often not the package. Say "the
+  whole bag" or "two bars" when it matters; otherwise I will assume one serving and say so.
+- Discontinued and reformulated products stay in the set, so an old entry can carry a
+  panel the current package no longer prints. Uncommon, worth knowing when a number looks
+  wrong.
+
+Open Food Facts is the weaker half here. Its v2 API searches structured fields - brand,
+category, nutrient - and has no full-text search; free text lives in the older
+`cgi/search.pl` endpoint and in the newer Search-a-licious service. It stays the right
+tool for a barcode and for imported products USDA missed, not the first thing tried on a
+spoken name.
+
+Nutritionix (Option 3) is the one built for this exact sentence, parsing "two slices of
+pizza and a coke" into items, and it carries restaurant menus USDA does not. That is the
+paid answer if naming things out loud keeps coming back wrong.
+
+**What you would do:** nothing beyond Option 1. Naming packaged food out loud starts
+working the moment the key file exists.
+
 ## Option 3 - Nutritionix (natural language, costs money at scale)
 
 - Around 1.9 million foods, including roughly 202,000 restaurant menu items across
@@ -68,7 +101,8 @@ here. Tell me it exists and I will start using it for every meal note.
 ## Suggested order
 
 1. Get the USDA key and drop it in the file above. Five minutes, free, no card.
-2. I use USDA for whole foods and Open Food Facts for anything with a barcode.
+2. I use USDA for whole foods and for packaged food you name out loud, and Open Food Facts
+   for anything with a barcode.
 3. Nutritionix only if restaurant meals keep coming back as guesses.
 4. The local SQLite mirror only if you want food tracking to work with no network.
 
@@ -81,5 +115,8 @@ with no source named is still my estimate, and you can tell the difference at a 
 
 - USDA FoodData Central API guide and key signup: https://fdc.nal.usda.gov/api-guide
 - USDA data documentation and bulk downloads: https://fdc.nal.usda.gov/data-documentation/
+- USDA search parameters, dataType=Branded and brandOwner: https://fdc.nal.usda.gov/help
 - Open Food Facts data and API: https://world.openfoodfacts.org/data
+- Open Food Facts search API v2, structured fields and no full text:
+  https://wiki.openfoodfacts.org/Open_Food_Facts_Search_API_Version_2
 - Nutritionix API: https://www.nutritionix.com/api
