@@ -11,6 +11,27 @@ lets every number carry a source.
 
 Four ways to get there, cheapest first.
 
+## Scale: one person, tracking his own food
+
+Asked September 18, 2026. This is a private food log for one man in Manor, Texas - no
+app, no users, no product. That settles more of the question than it looks like.
+
+- **Rate limits stop mattering.** Ten to fifteen meals and snacks a day, a few lookups
+  each, is under 50 calls. USDA allows 1,000 an hour. There is no volume story here, so
+  no tier above the free key ever needs buying.
+- **Licences stop mattering.** USDA data is public domain (CC0). Open Food Facts is
+  ODbL, whose share-alike terms bite on redistributing a database, not on reading your
+  own numbers off one. Attribution obligations attach to apps that show data to other
+  people; a log on your own wrist shows it to you.
+- **Option 4 loses its main argument.** A local mirror was insurance against rate limits
+  and cost. At your volume neither is a threat, so it is only worth building if you want
+  meal tracking to work with no network.
+- **Nutritionix gets further away, not closer** - see Option 3. Personal use is the one
+  case it no longer sells to.
+
+The recommendation below does not change, and personal-only use makes it firmer: the
+free USDA key covers it, indefinitely, with nothing to pay and nothing to renew.
+
 ## Option 1 - USDA FoodData Central (do this one)
 
 - Free, public domain (CC0), run by the US Department of Agriculture.
@@ -69,83 +90,3 @@ the file is the secret, the prompt line is what makes it real.
   missing on any product.
 - Nothing for you to set up. It complements USDA rather than replacing it, and it is the
   answer if you ever want to read a barcode off a package.
-
-## Packaged foods when you only say the name
-
-Asked September 18, 2026: what happens for packaged food if you never scan a barcode and
-just tell me what it is. Mostly it works, and USDA's Branded set is what makes it work.
-
-- The same search endpoint takes plain words and can be limited to label data:
-  `/v1/foods/search?query=clif bar chocolate chip&dataType=Branded&api_key=...`, with
-  `brandOwner=` to narrow to one manufacturer when a product name is generic.
-- Branded entries are the manufacturer's own label panel, so "Chobani nonfat plain" comes
-  back with the numbers printed on the cup instead of my estimate, and the receipt can
-  name USDA as the source.
-- What decides whether it lands is how you say it. Brand, product and flavour resolve to
-  one entry: "Clif Bar chocolate chip" is exact, "a protein bar" is not. When it is
-  ambiguous I will take the closest match and say on the wrist which one I took.
-- Label numbers are per the label's serving, which is often not the package. Say "the
-  whole bag" or "two bars" when it matters; otherwise I will assume one serving and say so.
-- Discontinued and reformulated products stay in the set, so an old entry can carry a
-  panel the current package no longer prints. Uncommon, worth knowing when a number looks
-  wrong.
-
-Open Food Facts is the weaker half here. Its v2 API searches structured fields - brand,
-category, nutrient - and has no full-text search; free text lives in the older
-`cgi/search.pl` endpoint and in the newer Search-a-licious service. It stays the right
-tool for a barcode and for imported products USDA missed, not the first thing tried on a
-spoken name.
-
-Nutritionix (Option 3) is the one built for this exact sentence, parsing "two slices of
-pizza and a coke" into items, and it carries restaurant menus USDA does not. That is the
-paid answer if naming things out loud keeps coming back wrong.
-
-**What you would do:** nothing beyond Option 1. Naming packaged food out loud starts
-working the moment the key file exists.
-
-## Option 3 - Nutritionix (natural language, costs money at scale)
-
-- Around 1.9 million foods, including roughly 202,000 restaurant menu items across
-  209,000 US locations - the part USDA is weakest at.
-- Its natural-language endpoint turns "two slices of pizza and a coke" into structured
-  items with quantities, which is exactly the shape of what you say to the ring.
-  Reported accuracy on casual descriptions is about 85 percent.
-- There is a free developer tier; paid plans start around $299/month, with higher tiers
-  at $999 and enterprise from about $1,850.
-- Worth revisiting only if restaurant meals are a real share of what you eat and the free
-  tier's limits turn out to be too small. The parsing it sells is work I already do.
-
-## Option 4 - a local copy (no network, no limits)
-
-- USDA publishes the whole database as CSV: `food_nutrient.csv` about 1.3 GB,
-  `branded_food.csv` about 745 MB, `food.csv` about 140 MB.
-- Loaded into SQLite on this machine it answers instantly, offline, with no rate limit,
-  and I can query it with ordinary SQL instead of one HTTP call per food.
-- Costs a few GB of disk, an hour of setup, and a reload when USDA republishes, which is
-  a couple of times a year.
-- Sensible later, once the API version has proven it earns its keep.
-
-## Suggested order
-
-1. Get the USDA key and drop it in the file above. Five minutes, free, no card.
-2. Add the line naming the key file to `worker\prompt.md`, or to a `CLAUDE.md` in the jobs
-   folder, so every meal note goes looking for it.
-3. I use USDA for whole foods and for packaged food you name out loud, and Open Food Facts
-   for anything with a barcode.
-4. Nutritionix only if restaurant meals keep coming back as guesses.
-5. The local SQLite mirror only if you want food tracking to work with no network.
-
-## What changes on the wrist
-
-Receipts start naming the source: "2 eggs, 1 slice sourdough: 320 kcal (USDA)". A number
-with no source named is still my estimate, and you can tell the difference at a glance.
-
-## Sources
-
-- USDA FoodData Central API guide and key signup: https://fdc.nal.usda.gov/api-guide
-- USDA data documentation and bulk downloads: https://fdc.nal.usda.gov/data-documentation/
-- USDA search parameters, dataType=Branded and brandOwner: https://fdc.nal.usda.gov/help
-- Open Food Facts data and API: https://world.openfoodfacts.org/data
-- Open Food Facts search API v2, structured fields and no full text:
-  https://wiki.openfoodfacts.org/Open_Food_Facts_Search_API_Version_2
-- Nutritionix API: https://www.nutritionix.com/api
