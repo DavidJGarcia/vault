@@ -8,11 +8,11 @@ condenser-coil asks, were re-filed under it.
 
 Not for a question answered by summing his own rows: that is `nutrition_check`.
 
-props:  asked (the question as read) - topic - answer (the short answer he was given) -
-        details (whatever else the answer turned on) - reading (what the question was
-        taken to mean, when it needed reading) - repeat_of (record id, when he has asked
-        it before) - vault (file the answer was written to, when it was) - sources (list
-        of URLs) - searches (number) - assumed (list)
+props:  asked (the question as read) - topic - reading (what the question was taken to
+        mean, when it needed reading) - answer (the short answer he was given) - then one
+        named key per particular the answer turned on, flat, no nesting - repeat_of
+        (record id, when he has asked it before) - vault (the file the answer was written
+        to, when it was) - sources (list of URLs) - searches (number) - assumed (list)
 
 enrich: read the question against what else is going on that day - an open trip, a game
         tonight, something he bought an hour ago - and say on the wrist what you read it
@@ -24,4 +24,6 @@ ask:    "what did I ask about X"; "have I asked this before"; what the answer wa
 
 notes:  he asks in one short sentence with no context, and the context is almost always
         something else he said that day. A question asked twice earns a vault page: the
-        condenser coils came back a day later.
+        condenser coils came back a day later. Props merge on update rather than
+        replace, which is why the shape is flat - a key once written cannot be removed,
+        only set to null.
