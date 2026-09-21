@@ -28,3 +28,8 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         running count and the cluster row was raised to eleven; he corrected it to
         three nine minutes later. When a number looks like a jump, keep the helpings
         already counted and say what was assumed.
+        "a white X" is a transcription slip for "a bite of X": on September 21,
+        2026 "a white frozen pepperoni pizza" was filed as a whole white (alfredo)
+        pizza, 420 kcal, and he corrected it to a bite of an ordinary pepperoni
+        one, about 60 kcal, thirteen minutes later. A puzzling adjective in front
+        of a food is worth reading as a portion word first.
