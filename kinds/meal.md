@@ -33,3 +33,7 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         pizza, 420 kcal, and he corrected it to a bite of an ordinary pepperoni
         one, about 60 kcal, thirteen minutes later. A puzzling adjective in front
         of a food is worth reading as a portion word first.
+        Every meal receipt carries the day so far: total kcal and total protein
+        for his local day, including the meal just filed (his standing
+        instruction of September 21, 2026, in instructions.md). One query,
+        `--agg sum:kcal,sum:protein_g,count`; never a running total on a row.
