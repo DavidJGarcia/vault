@@ -3,6 +3,9 @@
 This repository is written by the ring assistant and read by Obsidian. Every change is a
 commit whose message is what was said. Files and what they accept:
 
+- `dates.md`: facts that belong to a day, one bullet each: `- 02-24 · Emily's birthday` for
+  something yearly, `- 2026-10-03 12:00 · Dentist` for a one-off. The morning briefing reads
+  it; a dated fact written nowhere else is a fact the briefing will not know.
 - `todo.md`: the checklist, `- [ ] item` lines under `# Todo`. Operations: add_line (heading
   "Todo"), tick (match an open item), list.
 - `journal/YYYY-MM-DD.md`: the wearer's own journal, one file per local day, entries under
