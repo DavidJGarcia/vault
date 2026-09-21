@@ -24,7 +24,6 @@ Markdown only. Every write by the agent is one commit that names the note it cam
 
 Kept for reference from the system before this one. Nothing files into them now.
 
-- `notes/inbox.md` — loose dated bullets.
-- `todo.md` — the old checklist. To-dos come back as records in phase 3.
-- `journal/` — dated entries.
-- `log/` — the old per-day log. The relay keeps the log now.
+- `archive/notes/inbox.md` — loose dated bullets.
+- `archive/todo.md` — the old checklist. To-dos came back as records.
+- `archive/log/` — the old per-day log. The relay keeps the log now.
