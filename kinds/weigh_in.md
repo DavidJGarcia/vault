@@ -25,3 +25,8 @@ notes:  he says "Weigh in at N" flatly, no unit, one decimal. He weighs more
         144.6 an hour later. Two readings an hour apart are two rows, not a
         correction — he corrects by saying so. instructions.md sets no target
         weight, so nothing is compared against one.
+        He also weighs in the evening, after eating: 146.4 at 19:27 on
+        September 26, 2026, against 144.6 that morning. Evening readings run
+        heavier than morning ones and are not comparable to them; compare
+        morning to morning. The ring sometimes transcribes his "Weigh in" as
+        "Weight in" \u2014 same note.
