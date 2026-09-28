@@ -1,2 +1,1 @@
-- 2026-09-28 08:00 · Travis County clerk opens · a sole-proprietor DBA is filed here, $23, not at the SOS
-- 2026-09-29 08:00 · Texas SOS business filings reopen as SOSPortal · the DBA route only for an LLC or corporation, Form 503, $25
+- 2026-09-29 08:00 · Texas SOS reopens as SOSPortal · where the LLC gets filed, not the county clerk
