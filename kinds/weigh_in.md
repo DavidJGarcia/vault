@@ -28,5 +28,8 @@ notes:  he says "Weigh in at N" flatly, no unit, one decimal. He weighs more
         He also weighs in the evening, after eating: 146.4 at 19:27 on
         September 26, 2026, against 144.6 that morning. Evening readings run
         heavier than morning ones and are not comparable to them; compare
-        morning to morning. The ring sometimes transcribes his "Weigh in" as
-        "Weight in" \u2014 same note.
+        morning to morning.
+        The ring mangles "Weigh in" often, and a bare number with a stub in
+        front of it is this kind: "Weight in 146.4", "Evening way in 145.2",
+        "Y in 141.4" (September 29, 2026) — all the same note.
+        He weighs early: 05:29 on September 29, 2026 is a morning reading.
