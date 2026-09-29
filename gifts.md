@@ -21,6 +21,19 @@ Wheel size is the one thing to settle before buying: Unicycle.com's beginner ser
 by inseam, not age. Sun Bicycles' Classic 20 is $139.99; Walmart carries 20 inch
 unicycles around $73.
 
+## Andrew and Cody
+
+| Item | Occasion | Price | Status | Added |
+|---|---|---|---|---|
+| Pop Up Bluey game, TOMY — one box for the two of them | Christmas, Friday December 25, 2026 | $18.99 | idea | Monday, September 28, 2026 |
+
+Said as "Christmas idea for Andrew and Cody: pop-up croc from Bluey" — matched to TOMY's
+Pop Up Bluey, the Bluey version of Pop Up Pirate: one Bluey figure, one barrel and
+twenty-four crocodile sticks, and the sticks are the croc. Two to four players, ages 4
+and up, so it is written down as one shared gift rather than one each. $18.99 on TOMY's
+own site, and widely stocked at Walmart and Amazon. His idea, not something they asked
+for.
+
 ## David
 
 Ideas he raised for Emily to get him, Monday September 14, 2026. No occasion named.
