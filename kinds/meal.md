@@ -37,3 +37,10 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         for his local day, including the meal just filed (his standing
         instruction of September 21, 2026, in instructions.md). One query,
         `--agg sum:kcal,sum:protein_g,count`; never a running total on a row.
+        "the usual" for breakfast, redefined September 30, 2026 by "Update the
+        usual to include 1 cup of blueberries and 3/8 cup of unsweetened vanilla
+        almond milk": 27 g Sprouts chocolate whey, 1/2 cup dry rolled oats (40 g),
+        1 cup fresh blueberries (148 g) and 3/8 cup unsweetened vanilla almond
+        milk (90 ml) - 345 kcal, 24.5 g protein. This replaces the 1 1/2 cups of
+        blueberries and no milk of September 22-25, 28 and 29. Expand "the usual"
+        from this line, and change it here when he changes the recipe again.
