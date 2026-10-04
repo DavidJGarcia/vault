@@ -41,3 +41,14 @@ new bead cures.
    spray come straight down. If the basin is already off, do its rim on a bench, and a
    plastic razor there rather than steel — china and stainless scratch where granite does
    not. A brand-new sink needs only the alcohol wipe.
+
+## Two names that rhyme
+
+Asked on the evening of October 3, 2026: "are you saying I can't use the liftoff spray on
+the granite?" No — the opposite.
+
+- **Lift Off** goes *on* the granite. Motsenbocker's Lift Off is water-based and labelled
+  safe on granite, marble and stone. Its only limit is dwell time: do not leave it on the
+  stone longer than 15 minutes.
+- **Goof Off** stays off the granite. A different product, xylene-based, flammable, not
+  listed for stone.
