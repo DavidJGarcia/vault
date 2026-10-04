@@ -89,3 +89,5 @@ do I need Lift Off or alcohol or anything else?"
   Just dry — no rinse water left behind.
 - Steel razor on the granite, plastic razor on the basin rim: china and stainless scratch.
 ## Protective gear
+
+Asked on the evening of October 3, 2026: should I be wearing protective gear while doing this? Two things, and only two.
