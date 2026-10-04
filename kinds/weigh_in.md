@@ -12,13 +12,17 @@ props:  weight_lb (number, one decimal as the scale reads) - when (morning,
 enrich: pounds when he names no unit — every weight in his records is pounds and
         he is in Texas. Take `when` from the hour he spoke, not from the word.
         Mark `fasted` true for a morning reading with no meal row yet that day.
-        On the wrist, give the change against the previous weigh-in and name
-        which one it is measured against; never store the difference on a row —
-        a later correction moves it. Trend comes from the rows:
-        `records --kind weigh_in --agg avg:weight_lb --by day`.
+        On the wrist, give the trend and not the change against the previous
+        weigh-in (his standing instruction of October 4, 2026, in
+        instructions.md): the morning series, each day's morning readings
+        averaged, the last 7 days against the 7 before. Never store a difference
+        or a trend on a row — both come from the rows, so a later correction
+        moves them. Read the rows for it (`records --kind weigh_in`) and keep
+        morning rows only; `--agg avg:weight_lb --by day` is no use on its own
+        because it averages evening readings in with the morning ones.
 
-ask:    "what did I weigh this morning"; "am I down this week"; weight by day,
-        and the trend across weeks.
+ask:    "what did I weigh this morning"; "am I down this week"; the morning trend
+        week over week.
 
 notes:  he says "Weigh in at N" flatly, no unit, one decimal. He weighs more
         than once in a morning: on September 26, 2026 he read 145.0 at 06:58 and
@@ -28,7 +32,7 @@ notes:  he says "Weigh in at N" flatly, no unit, one decimal. He weighs more
         He also weighs in the evening, after eating: 146.4 at 19:27 on
         September 26, 2026, against 144.6 that morning. Evening readings run
         heavier than morning ones and are not comparable to them; compare
-        morning to morning.
+        morning to morning, and keep an evening reading out of the morning trend.
         The ring mangles "Weigh in" often, and a bare number with a stub in
         front of it is this kind: "Weight in 146.4", "Evening way in 145.2",
         "Y in 141.4" (September 29, 2026) — all the same note.
@@ -40,6 +44,8 @@ notes:  he says "Weigh in at N" flatly, no unit, one decimal. He weighs more
         141.8, 143.6, a range of 5.6 lb inside nine days, with +4.2 lb over the three days
         from October 1 to October 4. A day-to-day change of two to four pounds is water and
         sodium, not fat — 4 lb of fat is about 14,000 kcal, and his logged days run
-        1,300-2,500 — so the change against the last reading belongs on the wrist as he
-        asked, but it is not the trend. For the trend, compare a week of mornings to the
-        week before.
+        1,300-2,500 — so the day-to-day number is noise and the trend is the signal, which
+        is why he asked for the trend instead on October 4, 2026.
+        The windows are short while the series is: on October 4, 2026 the earlier week held
+        only two mornings. When the earlier window has fewer than three days, give the
+        trend and say the baseline is thin, in those words or fewer.
