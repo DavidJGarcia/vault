@@ -140,3 +140,26 @@ plastic buys nothing here except a lower cut risk. Keeping the plastic blade is 
 then the Lift Off stops being optional: **alcohol does not dissolve cured silicone at any
 strength, and it will smear a thin film around rather than lift it off.** Film first, then
 the alcohol.
+
+## Gear if the Lift Off is skipped
+
+Asked on the evening of October 3, 2026: "if I'm not using the Lift Off do I need safety
+gear?" The gear was never only about the remover.
+
+- **Safety glasses: unchanged, and required.** Both reasons for them are mechanical. It is
+  overhead work, so silicone ribbons and scraping grit fall into the face, and a razor pulled
+  toward the off hand upside-down is the largest injury risk in the whole job. No chemical in
+  the room changes either one.
+- **Nitrile gloves: needed becomes optional.** The pH 11.9-12.1 of the Lift Off was the reason
+  they were called for. Without it the only chemical left is the alcohol, which defats skin and
+  nothing worse. Still the easy call over a long wipe - the SDS for 91% isopropyl names nitrile,
+  butyl or neoprene.
+- **Ventilation: still needed.** It was always for the alcohol, not the remover. 91% isopropyl
+  is a highly flammable liquid and vapor, and carries serious eye irritation on its own SDS with
+  a fifteen-minute eyewash as first aid - a second reason the glasses stay on even with no Lift
+  Off in the job. Window or bath fan, no flame.
+- **Respirator: not needed, either way.**
+
+And the step before has not moved: skipping the Lift Off only works behind a sharp steel blade
+held almost flat. With the plastic blade on the granite, the bottle is not optional - see the
+section above.
