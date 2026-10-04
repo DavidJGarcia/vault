@@ -18,6 +18,8 @@ pages like the morning briefing (views). Those are queried, not filed.
 - `instructions.md`: David's standing word to the assistant — who the people are, what the
   targets are, how he wants things filed. It is appended to the assistant's prompt for every
   job. Not yet written.
+- `travel.md`: travel reference — loyalty programme numbers and status, a section per
+  programme. Today: United MileagePlus.
 - `kinds/<kind>.md`: one document per kind of record, naming the properties every row of that
   kind carries, what to infer when he does not say it, the questions the rows answer, and what
   has been learned about how he talks about it. A kind is born on the second note of its sort.
