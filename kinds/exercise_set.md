@@ -1,0 +1,36 @@
+# exercise_set
+
+One set of one strength exercise, said at the machine. Born late: sixteen rows of this
+sort sat untyped from September 14, 15 and 16, 2026, the first from "Row, I left off on
+120." on the morning of September 14. The weekly pass of October 4, 2026 wrote this
+document and typed all sixteen, because without a kind "when did I last train" could
+not be asked at all.
+
+props:  exercise (string: the movement, named plainly - leg press, calf raise, lateral
+        raises, chest press, lat pulldown, row) - set (int: which set of that exercise
+        this is) - reps (number; null when he names a working weight and no count) -
+        weight_lb (number) - final_set (bool, when he says "final set") - segments
+        (list of {reps, weight_lb}, for a drop set said as one note) - ceiling_lb
+        (number, when he says what he could go up to rather than what he did) -
+        day (YYYY-MM-DD) - assumed (list)
+
+enrich: carry the exercise from the previous row of the session when he does not name
+        one - he names it on the first set and then says "second set", "final set".
+        Pounds always; he never says the unit. Set number from the words, else one
+        past the last row of that exercise today. On the wrist give the set as he
+        said it and what it was against the last time he did that movement, since
+        that is what the note is for.
+
+ask:    "when did I last train"; "what did I lift"; "am I going up on the leg press";
+        sessions per week is `records --kind exercise_set --agg count --by day`, and
+        the top weight per movement is `--agg max:weight_lb`.
+
+notes:  he logs a whole session set by set, one short note each, a minute or two apart,
+        and the session is a block of rows rather than one row. Three sessions on file,
+        all consecutive mornings: September 14 (row and lat pulldown, working weights
+        only), September 15 at 06:16-06:34 (leg extension, leg press, calf raise) and
+        September 16 at 19:17-19:44 (lateral raises, chest press) - the only evening one.
+        The ring transcribes a weight as a clock time: "15 at 1:40" is 140 lb and
+        "I could go up to 1:30" is 130 lb. "Can set" is "next set". Reps can be a
+        half - "8.5 at 80" is eight full reps and a partial.
+        Nothing has been logged since September 16, 2026.
