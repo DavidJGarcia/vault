@@ -52,3 +52,20 @@ the granite?" No — the opposite.
   stone longer than 15 minutes.
 - **Goof Off** stays off the granite. A different product, xylene-based, flammable, not
   listed for stone.
+
+## Where to buy it
+
+Asked on the evening of October 3, 2026: what shelf Lift Off is on at the Manor Home Depot.
+
+The Manor store is #6541, 13100 N FM 973, Manor TX 78653, (512) 319-4150 — Mon–Sat
+6 am to 10 pm, Sunday 8 am to 8 pm.
+
+Motsenbocker's Lift Off sits in the **Paint** department, on the paint strippers and
+removers shelf, alongside Goof Off, Klean-Strip and Goo Gone. The 16 oz silicone/caulk
+remover is internet #202103458, model 411-16 (sold elsewhere as 41117).
+
+Home Depot's aisle and bay numbers are per store and are not on the open web —
+homedepot.com refuses to be read by anything but a browser, and the number only appears
+once a store is selected. To get it: Home Depot app or site, set the store to Manor, search
+202103458, and the product page prints "Aisle N, Bay N" with how many are on the shelf. Or
+call the store and ask the paint desk.
