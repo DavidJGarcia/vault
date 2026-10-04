@@ -121,3 +121,22 @@ What not to buy:
   job here.
 - **Not medical alcohol prep pads.** 70%, and about two inches square - wrong strength, and
   nowhere near enough area for a counter underside and a basin rim.
+
+**The two-cloth wipe**, which is how sealant makers specify it for nonporous surfaces: damp
+a clean, soft, lint-free white cloth with the alcohol, wipe a stretch, then go over that
+same stretch with a second clean dry cloth before the alcohol has evaporated. The point is
+that the oil the alcohol lifted leaves with the cloth, instead of drying back down onto the
+stone. One wet cloth on its own just redistributes it.
+
+- No paper towel: it sheds fibre into the bond line.
+- No laundered shop rag: fabric softener deposits silicone oil, the single worst
+  contaminant for silicone adhesion.
+- Then let it flash off a minute or two, and bead onto dry stone.
+
+**The plastic blade changes the step before.** A plastic blade will not shear cured silicone
+off granite the way a flat steel razor does - it dulls against the silicone and leaves film
+behind. Granite is harder than steel and will not scratch under a razor held almost flat, so
+plastic buys nothing here except a lower cut risk. Keeping the plastic blade is fine, but
+then the Lift Off stops being optional: **alcohol does not dissolve cured silicone at any
+strength, and it will smear a thin film around rather than lift it off.** Film first, then
+the alcohol.
