@@ -21,3 +21,23 @@ records --kind meal --from <today 00:00 -05:00> --to <today 23:59 -05:00> \
 
 so a later correction to a meal moves the day with it. Two rows on the wrist is
 enough: what was eaten and its numbers, then the day so far.
+
+## Weight
+
+**October 4, 2026 — the trend on every weigh-in receipt.** When he weighs in, the
+reply gives the trend, not the change against the previous weigh-in. "From now on
+when I weigh in, I want information about the trend not the previous weigh-in."
+
+The trend is the morning series: average each day's morning readings, then compare
+the last 7 days to the 7 days before. Evening readings run heavier and stay out of
+it — compare morning to morning. The numbers come from the rows, never from
+anything stored on a row, so a later correction moves the trend with it:
+
+```
+records --kind weigh_in
+```
+
+morning rows only — the `--by day` aggregate averages evening readings in with the
+morning ones. Two rows on the wrist is enough: the reading, then the trend —
+"143.6" / "7-day avg 141.6, down 2.8". When the earlier week holds fewer than
+three mornings, give the trend and say the baseline is thin.
