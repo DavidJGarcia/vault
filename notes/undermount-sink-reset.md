@@ -101,3 +101,23 @@ And two things that are not gear:
 
 - **Ventilate for the alcohol, not for the remover.** Isopropyl and denatured alcohol are both flammable, and denatured carries methanol that is not good to breathe in a closed bathroom: crack the window or run the bath fan, and keep flame away. Lift Off itself is water-based and DOT-tested as not supporting combustion (MSDS fire and physical hazard 0, health 1), so **no respirator is needed** for any part of this job. A respirator would have been the answer if Goof Off had been the remover.
 - **Gloves do not stop a razor.** The cut risk is pulling a blade overhead toward the off hand - keep that hand clear of the blade path, and change a dull blade rather than forcing it.
+
+## Which alcohol, and how to wipe it
+
+Asked on the evening of October 3, 2026: "using a plastic blade for the granite, what kind
+of alcohol wipe do I need to use?"
+
+**Isopropyl alcohol, 91% or 99%, off the drug-store shelf.** This supersedes the "denatured
+alcohol" named in the answers earlier that evening. Denatured alcohol does work, but it is
+ethanol plus whatever denaturant the brand chose, and some denaturants leave a trace film -
+which is precisely what this step exists to remove. Isopropyl is a single compound sold at a
+stated purity: fastest to flash off, least residue left behind.
+
+What not to buy:
+
+- **Not 70% rubbing alcohol.** Nearly a third of the bottle is water: slow to flash off, it
+  leaves water on a surface that has to be bone dry, and some retail bottles carry glycerin
+  or fragrance. The water in 70% is there to make it a better disinfectant, which is not the
+  job here.
+- **Not medical alcohol prep pads.** 70%, and about two inches square - wrong strength, and
+  nowhere near enough area for a counter underside and a basin rim.
