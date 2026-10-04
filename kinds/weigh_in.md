@@ -33,3 +33,13 @@ notes:  he says "Weigh in at N" flatly, no unit, one decimal. He weighs more
         front of it is this kind: "Weight in 146.4", "Evening way in 145.2",
         "Y in 141.4" (September 29, 2026) — all the same note.
         He weighs early: 05:29 on September 29, 2026 is a morning reading.
+        Added by the weekly pass of October 4, 2026, from the ten rows on file: he weighs
+        most mornings but not every one — nothing on September 30 or October 2 — so a gap
+        of a day or two is ordinary and not worth remarking on. And the morning series
+        swings further than the trend does: 145.0, 144.6, 144.0, 142.0, 141.4, 139.4,
+        141.8, 143.6, a range of 5.6 lb inside nine days, with +4.2 lb over the three days
+        from October 1 to October 4. A day-to-day change of two to four pounds is water and
+        sodium, not fat — 4 lb of fat is about 14,000 kcal, and his logged days run
+        1,300-2,500 — so the change against the last reading belongs on the wrist as he
+        asked, but it is not the trend. For the trend, compare a week of mornings to the
+        week before.
