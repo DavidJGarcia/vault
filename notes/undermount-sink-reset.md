@@ -88,3 +88,4 @@ do I need Lift Off or alcohol or anything else?"
 - **Nothing else.** No primer, no sanding, no etching for 100% silicone on stone or china.
   Just dry — no rinse water left behind.
 - Steel razor on the granite, plastic razor on the basin rim: china and stainless scratch.
+## Protective gear
