@@ -94,3 +94,8 @@ Asked on the evening of October 3, 2026: should I be wearing protective gear whi
 
 - **Sealed or wraparound safety glasses.** This is overhead work, so everything released falls toward the face: silicone ribbons, scraping grit, Lift Off overspray and drips. Open-sided glasses do not help with spray coming down from above. This is the one piece that is not optional.
 - **Nitrile gloves.** Lift Off reads pH 11.9-12.1 at full strength on its own MSDS - oven-cleaner alkaline, despite being sold as the gentle, stone-safe remover. A splash on skin is nothing; an eyeful is an urgent-care trip, which is the other half of the reason for the glasses. The gloves also cover the denatured alcohol, which defats skin.
+
+And two things that are not gear:
+
+- **Ventilate for the alcohol, not for the remover.** Denatured alcohol is flammable and the methanol in it is not good to breathe in a closed bathroom: crack the window or run the bath fan, and keep flame away. Lift Off itself is water-based and DOT-tested as not supporting combustion (MSDS fire and physical hazard 0, health 1), so **no respirator is needed** for any part of this job. A respirator would have been the answer if Goof Off had been the remover.
+- **Gloves do not stop a razor.** The cut risk is pulling a blade overhead toward the off hand - keep that hand clear of the blade path, and change a dull blade rather than forcing it.
