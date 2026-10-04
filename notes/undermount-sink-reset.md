@@ -93,3 +93,4 @@ do I need Lift Off or alcohol or anything else?"
 Asked on the evening of October 3, 2026: should I be wearing protective gear while doing this? Two things, and only two.
 
 - **Sealed or wraparound safety glasses.** This is overhead work, so everything released falls toward the face: silicone ribbons, scraping grit, Lift Off overspray and drips. Open-sided glasses do not help with spray coming down from above. This is the one piece that is not optional.
+- **Nitrile gloves.** Lift Off reads pH 11.9-12.1 at full strength on its own MSDS - oven-cleaner alkaline, despite being sold as the gentle, stone-safe remover. A splash on skin is nothing; an eyeful is an urgent-care trip, which is the other half of the reason for the glasses. The gloves also cover the denatured alcohol, which defats skin.
