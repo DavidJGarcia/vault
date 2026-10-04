@@ -18,5 +18,6 @@ notes:  he speaks one dimension per note, terse, mid-measuring, and often correc
         updates the row it refines rather than making a second row, so the subject has one row
         per dimension and a query cannot double-count. The 2026-09-12 clarification note is
         kept as an untyped row carrying `folded_into`, because its value now lives on the
-        width row. Early rows also carry a redundant `measurement` key: `update --props`
-        merges and cannot remove a key, so it stays.
+        width row. Keep `dimension` and `surface` separate; the early rows also carried a
+        redundant `measurement` key ("inside length") and it has been taken off with
+        `update --unset`.
