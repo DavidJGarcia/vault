@@ -70,3 +70,22 @@ homedepot.com refuses to be read by anything but a browser, and the number only 
 once a store is selected. To get it: Home Depot app or site, set the store to Manor, search
 202103458, and the product page prints "Aisle N, Bay N" with how many are on the shelf. Or
 call the store and ask the paint desk.
+
+## Which steps can be skipped
+
+Asked on the evening of October 3, 2026: "if I scrape both sides well with my razor blade,
+do I need Lift Off or alcohol or anything else?"
+
+- **Lift Off is optional - but only with a steel blade.** It exists for the thin silicone
+  film a dull or steeply held blade leaves behind. A sharp steel blade held almost flat on
+  granite does get the stone bare, and then the bottle is redundant. Check before buying:
+  raking light across the underside shows any haze or sheen, and a fingernail drags on film
+  but glides on bare stone. With a plastic blade on the granite, buy the bottle - see below.
+- **The alcohol wipe is not optional.** Isopropyl 91% or better, on both faces, last thing
+  before the bead, left to flash off dry. Silicone will not bond through dust, finger oil
+  or scraping grit, and this is the step a failed DIY re-set usually skipped.
+- The two are not substitutes. Lift Off removes silicone the blade missed; alcohol removes
+  everything that is not silicone.
+- **Nothing else.** No primer, no sanding, no etching for 100% silicone on stone or china.
+  Just dry - no rinse water left behind.
+- Steel razor on the granite, plastic razor on the basin rim: china and stainless scratch.
