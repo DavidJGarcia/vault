@@ -91,3 +91,5 @@ do I need Lift Off or alcohol or anything else?"
 ## Protective gear
 
 Asked on the evening of October 3, 2026: should I be wearing protective gear while doing this? Two things, and only two.
+
+- **Sealed or wraparound safety glasses.** This is overhead work, so everything released falls toward the face: silicone ribbons, scraping grit, Lift Off overspray and drips. Open-sided glasses do not help with spray coming down from above. This is the one piece that is not optional.
