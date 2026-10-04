@@ -164,3 +164,4 @@ And the step before has not moved: skipping the Lift Off only works behind a sha
 held almost flat. With the plastic blade on the granite, the bottle is not optional - see the
 section above.
 test-probe-ignore
+- **Steel razor, not plastic, on the granite underside.** Asked on the evening of October 3, 2026 whether the granite needs a plastic blade or whether a razor held carefully is fine. The razor, and it was never the plastic one here: granite runs 6-7 on the Mohs scale against about 5.5 for a hardened steel blade, so the blade gives up before the stone does, and stone fabricators lift silicone and grout haze off granite with single-edge blades as a matter of course.
