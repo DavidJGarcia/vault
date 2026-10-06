@@ -10,6 +10,7 @@ kind `gift_idea`.
 |---|---|---|---|---|
 | *The Land of Stories: A Treasury of Classic Fairy Tales*, Chris Colfer, illustrated by Brandon Dorman — hardcover, Little, Brown, ISBN 9780316355919 | Christmas, Friday December 25, 2026 | about $31 new | idea | Sunday, September 20, 2026 |
 | A unicycle — brand and wheel size not chosen | Christmas, Friday December 25, 2026 | about $70 to $250; a good starter runs a little over $100 | idea | Sunday, September 20, 2026 |
+| A weighted blanket, kids size — weight not chosen | Christmas, Friday December 25, 2026 | about $30 to $80; a 5 lb kids blanket runs around $50 | idea | Monday, October 5, 2026 |
 
 Said as "Land of Story: Treasury of Classic Fairy Tales is on Abby's Christmas list" —
 matched to the 2016 treasury, 35+ fairy tales and nursery rhymes with a Land of Stories
@@ -20,6 +21,13 @@ Wheel size is the one thing to settle before buying: Unicycle.com's beginner ser
 12 to 16 inch wheels for ages 3 to 9 and 20 inch for ages 8 to 14, and the right one goes
 by inseam, not age. Sun Bicycles' Classic 20 is $139.99; Walmart carries 20 inch
 unicycles around $73.
+
+The weighted blanket was said Monday October 5, 2026, as "Abby wants a weighted blanket
+for Christmas". Her weight decides the blanket's: about 10% of body weight plus a pound
+or two, so 3 to 5 lb for a 30 to 50 lb child and 5 to 7 lb for 50 to 70 lb. Kids sizes
+are 36 by 48 inches (ages 4 to 8) and 40 by 60 inches (ages 7 to 12). Aricove's kids
+blanket is $80 in either size, ZonLi runs $29 to $59, Dreamland's toddler one is $109.
+Safety: she has to be able to push it off herself, and it sits below the neck.
 
 ## Andrew and Cody
 
