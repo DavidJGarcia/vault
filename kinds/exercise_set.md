@@ -30,7 +30,10 @@ notes:  he logs a whole session set by set, one short note each, a minute or two
         all consecutive mornings: September 14 (row and lat pulldown, working weights
         only), September 15 at 06:16-06:34 (leg extension, leg press, calf raise) and
         September 16 at 19:17-19:44 (lateral raises, chest press) - the only evening one.
-        The ring transcribes a weight as a clock time: "15 at 1:40" is 140 lb and
-        "I could go up to 1:30" is 130 lb. "Can set" is "next set". Reps can be a
-        half - "8.5 at 80" is eight full reps and a partial.
+        The ring mangles the weight more than anything else he says, and the fix is the
+        same every time - read it as pounds: a clock time ("15 at 1:40" is 140 lb, "I
+        could go up to 1:30" is 130 lb), a currency amount ("10 at GBP 130" is 130 lb),
+        or a bare "1 lb". When it is unreadable, say on the wrist what was assumed - he
+        corrects it in the next breath, as he did at 06:31 on October 6. "Can set" is
+        "next set". Reps can be a half - "8.5 at 80" is eight full reps and a partial.
         Nothing has been logged since September 16, 2026.
