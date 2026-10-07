@@ -44,3 +44,9 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         milk (90 ml) - 345 kcal, 24.5 g protein. This replaces the 1 1/2 cups of
         blueberries and no milk of September 22-25, 28 and 29. Expand "the usual"
         from this line, and change it here when he changes the recipe again.
+        "a third cup" is 1/3 cup, not the third cup of three. On October 7, 2026
+        "I'm having a third cup of pumpkin spice popcorn" was filed as three cups of
+        drizzled kettle corn, 335 kcal, and he corrected it six minutes later to
+        1/3 cup of LesserEvil Pumpkin Spice Popcorn, 18 kcal. Read a fraction word
+        before an ordinal: "a half cup", "a third cup", "a quarter cup" are
+        measures.
