@@ -50,3 +50,11 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         1/3 cup of LesserEvil Pumpkin Spice Popcorn, 18 kcal. Read a fraction word
         before an ordinal: "a half cup", "a third cup", "a quarter cup" are
         measures.
+        A note comparing two ingredients revises the row just filed rather than
+        filing a new one. On October 7, 2026 a homemade beef taco was filed at
+        5:43 pm, and five minutes later "I'm having more beans than beef" - beans
+        were never mentioned in the first note. Read as the fill ratio of that
+        taco: beans added as the larger share (1/2 cup refried pinto), the beef
+        halved from 4 oz to 2 oz, the fill the same size overall - 405 kcal to
+        415, protein 32 g to 24 g. He describes one plate across two captures, so
+        a short follow-up with no verb of eating is usually a correction.
