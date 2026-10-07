@@ -32,6 +32,24 @@ The records behind this document are kind `personal_fact` (see
   roughly 1.7× bodyweight on the leg press, 0.85× on the chest press — trained
   but not unusually muscular, so the BMI figure is not adjusted far down.
   See `kinds/question.md`, record of October 7, 2026.
+- **Visible abs would be about 8 lb down, a six-pack 13–16 lb.** He asked on
+  Wednesday, October 7, 2026 at 7:16 am, half an hour after the body fat
+  question. Abs begin to show for men around 14–15% body fat and a plainly
+  defined six-pack around 10–12%. Holding lean mass constant, the 141.4 lb
+  seven-day morning average at an estimated 20% fat is 113.2 lb of lean mass,
+  which puts 15% at **133 lb**, 12% at **129 lb** and 10% at **126 lb** — BMI
+  21.8, 21.1 and 20.6, still inside the normal band at its lean end. On the
+  1.6 lb a week he has been losing, that is mid-November for the first and
+  mid-December for the second. Two things move it: the whole chain rests on the
+  20% estimate above, which carries ±4 points, and holding lean mass constant is
+  the optimistic case — losing 1.6 lb a week from an already-normal BMI costs
+  some lean mass, which pushes the target weight lower than the arithmetic says.
+- **No abdominal work is logged.** Across every `exercise_set` row — leg press,
+  leg curl, calf raise, chest press, incline press, pec deck fly, lateral raise,
+  lat pulldown, row, tricep extension — nothing trains the abs directly.
+  Definition is ab muscle thickness as much as fat cover, so direct ab work
+  would raise the body fat percentage at which they show and lower the weight he
+  would need to reach.
 
 ## Work
 
@@ -70,3 +88,5 @@ The records behind this document are kind `personal_fact` (see
   above by about 2.3 points a decade.
 - Any measured body fact beyond height and weight — no waist, no caliper, no
   DEXA, so nothing says how much of the weight he is losing is fat.
+- **What he is aiming at.** He has asked twice in one morning about body
+  composition, but has never named a goal weight, a target body fat, or a date.
