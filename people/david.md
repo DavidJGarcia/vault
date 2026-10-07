@@ -90,3 +90,15 @@ The records behind this document are kind `personal_fact` (see
   DEXA, so nothing says how much of the weight he is losing is fat.
 - **What he is aiming at.** He has asked twice in one morning about body
   composition, but has never named a goal weight, a target body fat, or a date.
+
+## Gear
+
+- **He charges with his own cables, Lightning and USB-C.** Said Wednesday,
+  October 7, 2026 at 10:41 am, seven seconds after rejecting three magnetic power
+  banks that had cables moulded in: "I don't like the built-in cables. Try
+  again." / "I just want it to be able to charge via those." So "charges with
+  both Lightning and USB-C", his words that morning, means **ports**, not built-in
+  cables: a USB-C port, and a USB-A port for an older Lightning cable. A USB-C-only
+  pack still works, but only with a USB-C-to-Lightning cable.
+- **A Lightning phone puts him on an iPhone 14 or older** - the 15 onward is
+  USB-C. Which phone he carries has never been said.
