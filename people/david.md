@@ -20,6 +20,18 @@ The records behind this document are kind `personal_fact` (see
   `instructions.md` says the trend is read morning to morning. BMI is always
   computed from those rows and this height, never stored, so a correction to
   either moves it.
+- **Body fat has never been measured; the estimate is 18–22%.** He asked on
+  Wednesday, October 7, 2026 at 6:48 am where it would be estimated from his
+  height, weight and performance. With nothing measured, the answer is the
+  Deurenberg 1991 equation on BMI — body fat % = 1.20 × BMI + 0.23 × age −
+  10.8 × sex (male 1) − 5.4 — which at BMI 23.2 reduces to 11.6 + 0.23 × age:
+  18.5% at 30, 19.7% at 35, 20.8% at 40, 22.0% at 45. **His age is the missing
+  term** and worth more than anything else he could tell the agent here. The
+  equation carries ±4.1 points of standard error and cannot see muscle; a waist
+  measure (US Navy method) or a caliper would beat it. His lifting is moderate —
+  roughly 1.7× bodyweight on the leg press, 0.85× on the chest press — trained
+  but not unusually muscular, so the BMI figure is not adjusted far down.
+  See `kinds/question.md`, record of October 7, 2026.
 
 ## Work
 
@@ -54,5 +66,7 @@ The records behind this document are kind `personal_fact` (see
   something else. "I work at the accounting firm Armanino" is the whole of it.
 - Whether he is a CPA.
 - How long he has been there.
-- His age, and any body fact beyond height and weight — no body composition, so
-  nothing says how much of the weight he is losing is fat.
+- **His age** — the one gap that changes a number: it moves the body fat estimate
+  above by about 2.3 points a decade.
+- Any measured body fact beyond height and weight — no waist, no caliper, no
+  DEXA, so nothing says how much of the weight he is losing is fat.
