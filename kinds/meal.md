@@ -58,3 +58,8 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         halved from 4 oz to 2 oz, the fill the same size overall - 405 kcal to
         415, protein 32 g to 24 g. He describes one plate across two captures, so
         a short follow-up with no verb of eating is usually a correction.
+        A restated ingredient is a confirmation, not a second helping. On October 7,
+        2026 the taco of 5:43 pm already listed guacamole, and at 5:49 pm he said
+        "Oh and guacamole." - the row stayed at 2 Tbsp and the receipt said it was
+        already counted. When he names an ingredient the row already holds, say so
+        rather than adding it again; he gives a quantity when he means more.
