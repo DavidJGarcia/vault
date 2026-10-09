@@ -63,3 +63,11 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         "Oh and guacamole." - the row stayed at 2 Tbsp and the receipt said it was
         already counted. When he names an ingredient the row already holds, say so
         rather than adding it again; he gives a quantity when he means more.
+        "N more" can mean a food no row holds, and the total he names can cover
+        helpings that were never spoken. On October 9, 2026 "I'm having 8 more."
+        was filed as eight 0.78 oz Rice Krispies Treats bars, 720 kcal, that bar
+        being the only thing counted so far that day; two minutes later he
+        corrected it to "8 more whole almonds for a total of 18". The 10 earlier
+        almonds had never been captured, so the row was made to carry all 18,
+        127 kcal. When "more" has no antecedent in the day's rows, say plainly
+        what it was read against.
