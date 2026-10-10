@@ -42,3 +42,50 @@ new bead cures.
    spray come straight down. If the basin is already off, do its rim on a bench, and a
    plastic razor there rather than steel - china and stainless scratch where granite does
    not. A brand-new sink needs only the alcohol wipe.
+
+## Two names that rhyme
+
+Asked on the evening of October 3, 2026: "are you saying I can't use the liftoff spray on
+the granite?" No - the opposite.
+
+- **Lift Off** goes *on* the granite. Motsenbocker's Lift Off is water-based and labelled
+  safe on granite, marble and stone. Its only limit is dwell time: do not leave it on the
+  stone longer than 15 minutes.
+- **Goof Off** stays off the granite. A different product, xylene-based, flammable, not
+  listed for stone.
+
+## Where to buy it
+
+Asked on the evening of October 3, 2026: what shelf Lift Off is on at the Manor Home Depot.
+
+The Manor store is #6541, 13100 N FM 973, Manor TX 78653, (512) 319-4150 - Mon-Sat
+6 am to 10 pm, Sunday 8 am to 8 pm.
+
+Motsenbocker's Lift Off sits in the **Paint** department, on the paint strippers and
+removers shelf, alongside Goof Off, Klean-Strip and Goo Gone. The 16 oz silicone/caulk
+remover is internet #202103458, model 411-16 (sold elsewhere as 41117).
+
+Home Depot's aisle and bay numbers are per store and are not on the open web -
+homedepot.com refuses to be read by anything but a browser, and the number only appears
+once a store is selected. To get it: Home Depot app or site, set the store to Manor, search
+202103458, and the product page prints "Aisle N, Bay N" with how many are on the shelf. Or
+call the store and ask the paint desk.
+
+## Which steps can be skipped
+
+Asked on the evening of October 3, 2026: "if I scrape both sides well with my razor blade,
+do I need Lift Off or alcohol or anything else?"
+
+- **Lift Off is optional - but only with a steel blade.** It exists for the thin silicone
+  film a dull or steeply held blade leaves behind. A sharp steel blade held almost flat on
+  granite does get the stone bare, and then the bottle is redundant. Check before buying:
+  raking light across the underside shows any haze or sheen, and a fingernail drags on film
+  but glides on bare stone. With a plastic blade on the granite, buy the bottle - see below.
+- **The alcohol wipe is not optional.** Isopropyl 91% or better, on both faces, last thing
+  before the bead, left to flash off dry. Silicone will not bond through dust, finger oil
+  or scraping grit, and this is the step a failed DIY re-set usually skipped.
+- The two are not substitutes. Lift Off removes silicone the blade missed; alcohol removes
+  everything that is not silicone.
+- **Nothing else.** No primer, no sanding, no etching for 100% silicone on stone or china.
+  Just dry - no rinse water left behind.
+- Steel razor on the granite, plastic razor on the basin rim: china and stainless scratch.
