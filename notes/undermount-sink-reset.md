@@ -101,3 +101,65 @@ And two things that are not gear:
 
 - **Ventilate for the alcohol, not for the remover.** Isopropyl and denatured alcohol are both flammable, and denatured carries methanol that is not good to breathe in a closed bathroom: crack the window or run the bath fan, and keep flame away. Lift Off itself is water-based and DOT-tested as not supporting combustion (MSDS fire and physical hazard 0, health 1), so **no respirator is needed** for any part of this job. A respirator would have been the answer if Goof Off had been the remover.
 - **Gloves do not stop a razor.** The cut risk is pulling a blade overhead toward the off hand - keep that hand clear of the blade path, and change a dull blade rather than forcing it.
+
+## Which alcohol, and how to wipe it
+
+Asked on the evening of October 3, 2026: "using a plastic blade for the granite, what kind
+of alcohol wipe do I need to use?"
+
+**Isopropyl alcohol, 91% or 99%, off the drug-store shelf.** This supersedes the "denatured
+alcohol" named in the answers earlier that evening. Denatured alcohol does work, but it is
+ethanol plus whatever denaturant the brand chose, and some denaturants leave a trace film -
+which is precisely what this step exists to remove. Isopropyl is a single compound sold at a
+stated purity: fastest to flash off, least residue left behind.
+
+What not to buy:
+
+- **Not 70% rubbing alcohol.** Nearly a third of the bottle is water: slow to flash off, it
+  leaves water on a surface that has to be bone dry, and some retail bottles carry glycerin
+  or fragrance. The water in 70% is there to make it a better disinfectant, which is not the
+  job here.
+- **Not medical alcohol prep pads.** 70%, and about two inches square - wrong strength, and
+  nowhere near enough area for a counter underside and a basin rim.
+
+**The two-cloth wipe**, which is how sealant makers specify it for nonporous surfaces: damp
+a clean, soft, lint-free white cloth with the alcohol, wipe a stretch, then go over that
+same stretch with a second clean dry cloth before the alcohol has evaporated. The point is
+that the oil the alcohol lifted leaves with the cloth, instead of drying back down onto the
+stone. One wet cloth on its own just redistributes it.
+
+- No paper towel: it sheds fibre into the bond line.
+- No laundered shop rag: fabric softener deposits silicone oil, the single worst
+  contaminant for silicone adhesion.
+- Then let it flash off a minute or two, and bead onto dry stone.
+
+**The plastic blade changes the step before.** A plastic blade will not shear cured silicone
+off granite the way a flat steel razor does - it dulls against the silicone and leaves film
+behind. Granite is harder than steel and will not scratch under a razor held almost flat, so
+plastic buys nothing here except a lower cut risk. Keeping the plastic blade is fine, but
+then the Lift Off stops being optional: **alcohol does not dissolve cured silicone at any
+strength, and it will smear a thin film around rather than lift it off.** Film first, then
+the alcohol.
+
+## Gear if the Lift Off is skipped
+
+Asked on the evening of October 3, 2026: "if I'm not using the Lift Off do I need safety
+gear?" The gear was never only about the remover.
+
+- **Safety glasses: unchanged, and required.** Both reasons for them are mechanical. It is
+  overhead work, so silicone ribbons and scraping grit fall into the face, and a razor pulled
+  toward the off hand upside-down is the largest injury risk in the whole job. No chemical in
+  the room changes either one.
+- **Nitrile gloves: needed becomes optional.** The pH 11.9-12.1 of the Lift Off was the reason
+  they were called for. Without it the only chemical left is the alcohol, which defats skin and
+  nothing worse. Still the easy call over a long wipe - the SDS for 91% isopropyl names nitrile,
+  butyl or neoprene.
+- **Ventilation: still needed.** It was always for the alcohol, not the remover. 91% isopropyl
+  is a highly flammable liquid and vapor, and carries serious eye irritation on its own SDS with
+  a fifteen-minute eyewash as first aid - a second reason the glasses stay on even with no Lift
+  Off in the job. Window or bath fan, no flame.
+- **Respirator: not needed, either way.**
+
+And the step before has not moved: skipping the Lift Off only works behind a sharp steel blade
+held almost flat. With the plastic blade on the granite, the bottle is not optional - see the
+section above.
