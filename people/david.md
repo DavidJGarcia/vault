@@ -20,6 +20,22 @@ The records behind this document are kind `personal_fact` (see
   `instructions.md` says the trend is read morning to morning. BMI is always
   computed from those rows and this height, never stored, so a correction to
   either moves it.
+- **The weight has been flat for two weeks, and the 1.6 lb a week is no longer the
+  rate.** Corrected by the weekly pass of Saturday, October 10, 2026. On October 6
+  a least-squares fit of nine morning days (September 26 to October 6) gave
+  −1.58 lb a week, and that figure went on the wrist and into the two bullets
+  below. With October 7 (141.8) and October 9 (143.2) added, the same fit over all
+  eleven morning days reads **−0.70 lb a week**, and the seven-day comparison his
+  standing instruction asks for is **flat**: 142.13 lb over the six mornings of
+  October 3–9 against 142.32 over the five of September 26 to October 2, down
+  0.19 lb. Over the last six mornings alone the fit is +0.3 lb a week, which is
+  nothing. The steep part — 144.8 on September 26 to 139.4 on October 1 — was the
+  week he came home from San Ramon, and it has not continued.
+- **So roughly 1,865 kcal a day is about his maintenance.** He ate 13,053 kcal across
+  October 3–9 (1,865 a day, 109 g of protein) against 11,275 the week before
+  (1,611 a day, 75 g), and the morning average did not move in either week. That is
+  two weeks, and it cannot see what was eaten and never spoken, but it is the best
+  figure his own rows support.
 - **Body fat has never been measured; the estimate is 18–22%.** He asked on
   Wednesday, October 7, 2026 at 6:48 am where it would be estimated from his
   height, weight and performance. With nothing measured, the answer is the
@@ -38,67 +54,20 @@ The records behind this document are kind `personal_fact` (see
   defined six-pack around 10–12%. Holding lean mass constant, the 141.4 lb
   seven-day morning average at an estimated 20% fat is 113.2 lb of lean mass,
   which puts 15% at **133 lb**, 12% at **129 lb** and 10% at **126 lb** — BMI
-  21.8, 21.1 and 20.6, still inside the normal band at its lean end. On the
-  1.6 lb a week he has been losing, that is mid-November for the first and
-  mid-December for the second. Two things move it: the whole chain rests on the
-  20% estimate above, which carries ±4 points, and holding lean mass constant is
-  the optimistic case — losing 1.6 lb a week from an already-normal BMI costs
-  some lean mass, which pushes the target weight lower than the arithmetic says.
+  21.8, 21.1 and 20.6, still inside the normal band at its lean end. **The dates
+  that answer carried are withdrawn:** it said mid-November and mid-December on the
+  strength of 1.6 lb a week, and at the 0.70 lb a week the fuller series now shows,
+  133 lb is **early January 2027**; at the flat seven-day comparison there is no
+  date at all. Three things move it: the whole chain rests on the 20% estimate
+  above, which carries ±4 points; holding lean mass constant is the optimistic
+  case, since losing weight from an already-normal BMI costs some lean mass and
+  pushes the target lower than the arithmetic says; and nothing moves at all at
+  1,865 kcal a day.
 - **No abdominal work is logged.** Across every `exercise_set` row — leg press,
-  leg curl, calf raise, chest press, incline press, pec deck fly, lateral raise,
-  lat pulldown, row, tricep extension — nothing trains the abs directly.
-  Definition is ab muscle thickness as much as fat cover, so direct ab work
-  would raise the body fat percentage at which they show and lower the weight he
-  would need to reach.
-
-## Work
-
-- **He works at Armanino, an accounting firm.** Said Monday, October 5, 2026 at
-  9:09 am — the first time an employer has been named in any capture.
-- **Armanino** is a top-20 US accounting, tax and consulting firm. Headquarters:
-  2700 Camino Ramon, Suite 350, San Ramon, California, inside the Bishop Ranch
-  office park. About twenty offices nationwide.
-- **The nearest office is Austin** — 515 Congress Ave, Suite 1025, opened August
-  2021, about twenty miles from Manor. Whether he works there, works remotely, or
-  both has never been said.
-- **The San Ramon trip of September 21–24, 2026 was a trip to headquarters.** That
-  is an inference, but a firm one: the HQ is in Bishop Ranch, and the corporate
-  tasting menu he ate on the Tuesday was at Delarosa Bishop Ranch, a walk from
-  those offices. `trips/2026-09-21-san-ramon.md` could only record the purpose as
-  "work, inferred"; this is what it was.
-- **Names that come up as work** — Cody (two emails owed since September 14, both
-  still open) and Earl (a follow-up owed since September 16, urgent, still open).
-  How they relate to Armanino has not been said.
-- **A workday, the one time he clocked both ends:** in at 9:04 am, out at 4:50 pm,
-  Monday September 28, 2026 — 7h 46m. See `kinds/work_clock.md`.
-- **Also his own filing work:** a Texas LLC on SOSPortal and a DBA
-  (`notes/texas-dba-filing.md`), which is separate from the firm.
-
-## Where he is
-
-- Manor, Texas, in the Austin metro. Timezone America/Chicago.
-
-## What has never been said
-
-- **His title, his team, and what he actually does** — tax, audit, consulting or
-  something else. "I work at the accounting firm Armanino" is the whole of it.
-- Whether he is a CPA.
-- How long he has been there.
-- **His age** — the one gap that changes a number: it moves the body fat estimate
-  above by about 2.3 points a decade.
-- Any measured body fact beyond height and weight — no waist, no caliper, no
-  DEXA, so nothing says how much of the weight he is losing is fat.
-- **What he is aiming at.** He has asked twice in one morning about body
-  composition, but has never named a goal weight, a target body fat, or a date.
-
-## Gear
-
-- **He charges with his own cables, Lightning and USB-C.** Said Wednesday,
-  October 7, 2026 at 10:41 am, seven seconds after rejecting three magnetic power
-  banks that had cables moulded in: "I don't like the built-in cables. Try
-  again." / "I just want it to be able to charge via those." So "charges with
-  both Lightning and USB-C", his words that morning, means **ports**, not built-in
-  cables: a USB-C port, and a USB-A port for an older Lightning cable. A USB-C-only
-  pack still works, but only with a USB-C-to-Lightning cable.
-- **A Lightning phone puts him on an iPhone 14 or older** - the 15 onward is
-  USB-C. Which phone he carries has never been said.
+  leg curl, leg extension, calf raise, chest press, incline press, pec deck fly,
+  lateral raise, lat pulldown, front pulldown, row, rear delts, biceps curl,
+  tricep extension — nothing trains the abs directly. Definition is ab muscle
+  thickness as much as fat cover, so direct ab work would raise the body fat
+  percentage at which they show and lower the weight he would need to reach.
+  Still true on October 10, 2026, after the four sessions of October 5–8. Where he
+  stands on each machine is `notes/gym.md`.
