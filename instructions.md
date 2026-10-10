@@ -41,3 +41,23 @@ morning rows only — the `--by day` aggregate averages evening readings in with
 morning ones. Two rows on the wrist is enough: the reading, then the trend —
 "143.6" / "7-day avg 141.6, down 2.8". When the earlier week holds fewer than
 three mornings, give the trend and say the baseline is thin.
+
+## Home
+
+**October 9, 2026 — never more than 5 days without emptying the litter robot.**
+"Just emptied the litter robot. Don't ever let me go more than 5 days without
+emptying it."
+
+A reminder stands for it: timer `t_c4c588a5c59f2085`, "Empty the litter robot",
+`every:5d` at 18:00, next Wednesday October 14, 2026. The evening hour is
+deliberate — five days after a 10 p.m. emptying is a night-time fire that waits
+for morning and lands past the five days, so the reminder sits inside the window
+rather than on its edge.
+
+The rule is a maximum, so the clock restarts at each emptying. When a note says
+the litter robot was emptied: file the emptying, then `timer get
+t_c4c588a5c59f2085` and `timer put --id t_c4c588a5c59f2085` with `at` moved to
+that day plus five days at 18:00, keeping the row and its repeat. Say on the
+wrist when the next one is due. Emptying means the waste drawer of the
+Litter-Robot; the kids' trash-and-litter turns in `home/chores.md` are a
+different thing and do not satisfy it.
