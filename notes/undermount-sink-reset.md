@@ -89,3 +89,15 @@ do I need Lift Off or alcohol or anything else?"
 - **Nothing else.** No primer, no sanding, no etching for 100% silicone on stone or china.
   Just dry - no rinse water left behind.
 - Steel razor on the granite, plastic razor on the basin rim: china and stainless scratch.
+
+## Protective gear
+
+Asked on the evening of October 3, 2026: should I be wearing protective gear while doing this? Two things, and only two.
+
+- **Sealed or wraparound safety glasses.** This is overhead work, so everything released falls toward the face: silicone ribbons, scraping grit, Lift Off overspray and drips. Open-sided glasses do not help with spray coming down from above. This is the one piece that is not optional.
+- **Nitrile gloves.** Lift Off reads pH 11.9-12.1 at full strength on its own MSDS - oven-cleaner alkaline, despite being sold as the gentle, stone-safe remover. A splash on skin is nothing; an eyeful is an urgent-care trip, which is the other half of the reason for the glasses. The gloves also cover the alcohol, which defats skin.
+
+And two things that are not gear:
+
+- **Ventilate for the alcohol, not for the remover.** Isopropyl and denatured alcohol are both flammable, and denatured carries methanol that is not good to breathe in a closed bathroom: crack the window or run the bath fan, and keep flame away. Lift Off itself is water-based and DOT-tested as not supporting combustion (MSDS fire and physical hazard 0, health 1), so **no respirator is needed** for any part of this job. A respirator would have been the answer if Goof Off had been the remover.
+- **Gloves do not stop a razor.** The cut risk is pulling a blade overhead toward the off hand - keep that hand clear of the blade path, and change a dull blade rather than forcing it.
