@@ -23,7 +23,7 @@ pages like the morning briefing (views). Those are queried, not filed.
 - `kinds/<kind>.md`: one document per kind of record, naming the properties every row of that
   kind carries, what to infer when he does not say it, the questions the rows answer, and what
   has been learned about how he talks about it. A kind is born on the second note of its sort.
-  Today: `meal`, `exercise_set`, `todo`, `measurement`.
+  Today: `meal`, `exercise_set`, `todo`, `measurement`, `cart`, `proposal`, `lookup`.
 - Topic documents may be added where nothing fits, named plainly, at most one folder deep,
   lowercase, `.md`.
 
