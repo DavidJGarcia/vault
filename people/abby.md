@@ -18,3 +18,10 @@ amoxicillin and cefadroxil carry the closely related hydroxy version. Cephalospo
 with dissimilar side chains — cefuroxime, ceftriaxone — are the low-risk ones. That is
 background for the conversation, not a substitute for it: her doctor decides what she
 can take.
+
+## Temperament
+
+**The most optimistic person he knows.** Said Sunday, October 11, 2026 - "Abby is
+the most optimistic person who ever", the sentence cut off where the idiom closes
+("who ever lived"). The missing words are an intensifier, not a reversal, so the
+trait stands as he said it.
