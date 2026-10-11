@@ -60,3 +60,29 @@ the Bible, in either testament:
 Judged on the spellings above, three of which are unverified, so a different
 spelling could change the answer for that one name - Aaron being the case that
 would.
+
+## Where the names come from
+
+He asked on Sunday, October 11, 2026 at 2:17 pm, two minutes after the biblical
+question, about the three besides Natalia.
+
+- **Arum** - Latin *arum*, from Ancient Greek *aron*, the arum plant (*Arum
+  maculatum*, lords-and-ladies), perhaps from an Egyptian word for reed. It is
+  a real given name in two places: Javanese and Indonesian *arum*, "fragrant"
+  (also spelled Harum), and Korean *Areum*, a native word meaning "beauty",
+  written with no hanja. Baby-name sites that give it a Hebrew meaning
+  ("awakened", "elevated") are not supported by any dictionary of Hebrew names.
+- **Torum** - a Latin noun, *torum* for *torus*: a swelling, a muscle, a couch
+  or bed. In Tamil *toṟum* is a grammatical particle, "each, every". It is not
+  an English or European given name. Its one real home as a name is Siberian:
+  **Num-Torum** (Numi-Torem), "Upper God", the sky father of the Khanty and
+  Mansi of western Siberia, where *torum* means sky, weather, god. The nearest
+  ordinary names are Torin (Irish), Toran (Scots), Tarun (Sanskrit), Tōru
+  (Japanese, "to pass through"), Torun (Turkic, "grandchild").
+- **Albium** - not a name in any language. The Latin root *albus*, "white,
+  bright", gives the Roman nomen Albius and the Albia gens, the cognomen
+  Albinus, and from those Albin, Alban, Aubin, Alvin and Albina. *Albium* looks
+  like a Latin neuter built off *albus* rather than anything attested.
+
+As above, this is the origin of what the ring heard. If Arum is really Aaron it
+is Hebrew; if Albium is Albin or Alvin it is the *albus* root after all.
