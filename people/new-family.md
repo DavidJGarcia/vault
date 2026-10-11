@@ -36,3 +36,27 @@ work names on file (Cody, Earl).
 
 The records behind this document are kind `person_fact` (see
 `kinds/person_fact.md`), one row per name, each with field `family`.
+
+## Are they biblical names? No
+
+He asked on Sunday, October 11, 2026 at 2:15 pm. None of the four appears in
+the Bible, in either testament:
+
+- **Natalia** - Latin, from *natalis*, "birthday", for *natale Domini*, the
+  birth of the Lord. A fourth-century Christian coinage for daughters born near
+  Christmas: Christian, but later than Scripture. Natalie and Nataliya are the
+  same name.
+- **Arum** - not in Scripture. In English it is a plant genus (*Arum
+  maculatum*, lords-and-ladies). The nearest biblical name is **Harum**, a man
+  of Judah and father of Aharhel, 1 Chronicles 4:8, where it occurs once and
+  means roughly "exalted"; Arumah is a place, Judges 9:41. If the ring misheard
+  **Aaron**, that name is plainly biblical - the brother of Moses. Arun is
+  Sanskrit, "the dawn".
+- **Torum** - not in Scripture in any spelling. Torah is the Law, not a given
+  name. Torin is Irish, Toran Scots or Sanskrit, Tarun Sanskrit.
+- **Albium** - not in Scripture. Latin *albus*, "white", is the root behind
+  Albinus, Albin, Alban and Alvin, all Roman or Germanic.
+
+Judged on the spellings above, three of which are unverified, so a different
+spelling could change the answer for that one name - Aaron being the case that
+would.
