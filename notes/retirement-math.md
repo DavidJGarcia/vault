@@ -66,3 +66,48 @@ $87,100 of Social Security plus a $1M portfolio does not fund $180,000 a year
 indefinitely, but it changes the shape of the problem: the portfolio only has to
 cover the $92,900 gap, which is a 9.3% draw and lasts roughly 12–13 years at the
 median rather than 6.4. Thirty years of that gap would need about $2.3M.
+
+## The same draw with a growing supplement
+
+Asked October 13, 2026, minutes after the Monte Carlo above. Same $1M, same
+$180,000 a year, but outside income supplements it: $2,000/mo in year 1,
+$4,000/mo in year 2, $6,000/mo in year 3, climbing $2,000/mo every year.
+
+**The money stops running out.** The portfolio only covers the gap, and the gap
+closes:
+
+| Year | Supplement | Portfolio draw |
+| --- | --- | --- |
+| 1 | $24,000 | $156,000 |
+| 2 | $48,000 | $132,000 |
+| 3 | $72,000 | $108,000 |
+| 4 | $96,000 | $84,000 |
+| 5 | $120,000 | $60,000 |
+| 6 | $144,000 | $36,000 |
+| 7 | $168,000 | $12,000 |
+| 8 | $192,000 | none — income exceeds the spend |
+
+Seven years of draws totalling **$588,000**, with a present value of about
+**$533,000** at the 5.6% median rate. Half the million is enough; the other half
+compounds. From year 8 the portfolio is never touched again.
+
+| Confidence | Balance at year 8 |
+| --- | --- |
+| Worst 1-in-20 | $280,000 |
+| Worst 1-in-10 | $340,000 |
+| Median | $680,000 |
+
+The median path reaches roughly **$2.4M** in today's dollars by year 30, left
+alone, on top of a supplement that by then is $62,000 a month.
+
+**What would break it.** Running dry takes something like −21% real every year
+for six consecutive years, a cumulative −78%. Run the ladder through the three
+worst openings on record and all three survive: a 2000 start leaves about $250k
+at year 8, a 1973 start about $150k, and a 1929 start comes through with roughly
+$50k at its thinnest before the 1933 recovery — intact, but only just. Call it
+under 1 path in 1,000.
+
+Same assumptions as above: real returns, 7.0% arithmetic mean, 17% SD, no taxes
+or fees. Both the spend and the supplement are in today's dollars. If instead
+the supplement were fixed nominal dollars while the spend tracked inflation, the
+bridge stretches about two more years of small draws and nothing else changes.
