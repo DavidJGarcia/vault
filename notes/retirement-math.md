@@ -159,3 +159,51 @@ this is a four-year hole, not a permanent one.
 Same assumptions and same method as the sections above: real returns, 7.0%
 arithmetic mean, 17% SD, draws at the start of each year, no taxes or fees,
 closed-form percentiles rather than a drawn-path simulation.
+
+## What the supplement would have to be for $400,000 to work
+
+Asked October 13, 2026, straight after the $400,000 run. Same $180,000 a year,
+same $400,000 start, the supplement still growing in a straight line — but how
+steep does the line have to be?
+
+Write the step as $m a month: the supplement is $m/mo in year 1, $2m in year 2,
+$3m in year 3, and the portfolio covers only what the supplement does not. A
+steeper line shortens the bridge from both ends — fewer years, and smaller draws
+in the years that remain.
+
+| Step | What it survives |
+| --- | --- |
+| $2,000/mo | nothing — this is the case above, dry in year 4 |
+| **$2,600/mo** | the median path, and nothing worse |
+| **$2,900/mo** | a sustained −6%/yr decade |
+| $3,150/mo | a 2000–2002 opening |
+| $3,200/mo | a 1929–1932 opening |
+| **$3,400/mo** | a 1973–1974 opening, the worst on record here |
+
+So **call it $3,500/mo** — $3,500 in year 1, $7,000 in year 2, $10,500 in year 3,
+$14,000 in year 4, and from year 5 the supplement is $17,500/mo, $210,000 a year,
+more than the spend. That is a four-year bridge instead of seven:
+
+| Year | Supplement | Portfolio draw |
+| --- | --- | --- |
+| 1 | $42,000 | $138,000 |
+| 2 | $84,000 | $96,000 |
+| 3 | $126,000 | $54,000 |
+| 4 | $168,000 | $12,000 |
+| 5 | $210,000 | none — income exceeds the spend |
+
+$300,000 of draws, present value about **$288,000** against the $400,000 on hand.
+The median path leaves roughly **$140,000** untouched from year 5 on. A 1973
+opening leaves about $11,000 at its thinnest and recovers. At $3,400/mo that
+1973 path finishes year 4 with about $1,000 — it survives on paper and nothing
+else, which is why the number to say out loud is $3,500.
+
+Why the jump from $2,600 to $3,500 buys so much: the first-year draw is 35% of
+the balance at $2,600/mo and 29% at $3,500/mo, and one fewer year of drawing
+removes the draw that a bad opening makes unaffordable. The whole question is
+decided in years 1–3, as in every section above.
+
+Same assumptions and method throughout: real returns, 7.0% arithmetic mean, 17%
+SD, 5.6% median compounding, draws at the start of each year, no taxes or fees,
+spend and supplement both in today's dollars. Thresholds solved backwards
+through the ladder; the historical ones run the actual opening sequences by hand.
