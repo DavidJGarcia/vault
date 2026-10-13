@@ -111,3 +111,51 @@ Same assumptions as above: real returns, 7.0% arithmetic mean, 17% SD, no taxes
 or fees. Both the spend and the supplement are in today's dollars. If instead
 the supplement were fixed nominal dollars while the spend tracked inflation, the
 bridge stretches about two more years of small draws and nothing else changes.
+
+## The same supplement, starting from $400,000
+
+Asked October 13, 2026, straight after the $1M version. Everything identical —
+$180,000 a year, the supplement climbing $2,000/mo each year — except the
+portfolio starts at **$400,000**.
+
+The bridge is the same seven years of draws, $588,000 nominal and about
+**$533,000** in present value. $400,000 is roughly **$133,000 short of it**, so
+the money runs out before the supplement takes over.
+
+The median path, year by year:
+
+| Year | Draw | Left after the draw | Grown at 5.6% |
+| --- | --- | --- | --- |
+| 1 | $156,000 | $244,000 | $258,000 |
+| 2 | $132,000 | $126,000 | $133,000 |
+| 3 | $108,000 | $25,000 | $26,000 |
+| 4 | $84,000 | empty about four months in | — |
+
+| Confidence | Years the money lasts |
+| --- | --- |
+| Worst 1-in-20 | 2.7 |
+| Worst 1-in-10 | 2.8 |
+| Median | 3.3 |
+| Best 1-in-10 | 4.0 |
+| Best 1-in-20 | 4.4 |
+
+The band is narrower than the $1M case because the draws are front-loaded
+against a small balance — returns barely get a chance to matter. The three worst
+openings on record all land in year 3: a 1973 start 2.4 years, 1929 2.6, 2000
+2.7.
+
+**The hole.** Years 4 through 7 are unfunded: gaps of $84,000, $60,000, $36,000
+and $12,000, about **$166,000** after the $26,000 the portfolio leaves behind.
+From year 8 the supplement exceeds the spend and the problem ends on its own, so
+this is a four-year hole, not a permanent one.
+
+**Two ways to close it.**
+
+- More capital: about **$533,000** to bridge it at median returns, **$660,000**
+  to survive a sustained −6%/yr decade.
+- Less spending: **$156,000/yr ($13,000/mo)** is what $400,000 bridges exactly
+  at the median, and **$144,000/yr ($12,000/mo)** holds even through a bad run.
+
+Same assumptions and same method as the sections above: real returns, 7.0%
+arithmetic mean, 17% SD, draws at the start of each year, no taxes or fees,
+closed-form percentiles rather than a drawn-path simulation.
