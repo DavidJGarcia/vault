@@ -20,6 +20,28 @@ sits inside it. The two notes agree.
 There is now a line for him in `dates.md`, so the morning briefing carries the
 birthday.
 
+## Flag football
+
+He plays flag football. The team is for **6th through 8th grade**, said Tuesday,
+October 13, 2026 at 8:13 pm. The league itself has never been named, and neither
+has his grade.
+
+**The ball is youth size, not junior.** A 6th-8th grade team is sized for its
+oldest players: Youth/Intermediate, also called TDY or size 7 - about 11 to
+11.25 inches, 12.3 to 13.5 ounces. Junior (size 6, ages 9-12) is what 4th-6th
+grade uses, and Amazon's own listings label it that way. He will be in this
+division three years, so youth is right whichever grade he is in now.
+
+Four junior balls were put in the Amazon and Walmart carts at 8:05-8:08 pm,
+before the grade span was known, and taken back out at 8:23-8:30 pm. What stands
+in the carts now:
+
+- Amazon: Nike All-Field 4.0 Football, Youth Size, $29.95
+- Walmart: MacGregor Youth Composite Football, Youth 12-14, $22.14
+
+Leagues often hand out the game ball, in which case this is a practice ball and
+the size matters less - but it still wants to be the one he throws on Saturdays.
+
 ## Where he sits among the six
 
 He is the first of the six whose age has been said, so birth order is still
@@ -33,4 +55,6 @@ been placed at all.
 
 - Whether he is a son - "my 12-year-old" does not say, and Derek is read as a
   boy's name only on the name itself.
-- Anything else: no school, no allergies, no interests, nothing on a gift list.
+- Which grade he is in, and which league or team plays the flag football.
+- Anything else: no school, no allergies, no other interests, nothing on a gift
+  list.
