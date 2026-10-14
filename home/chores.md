@@ -11,11 +11,15 @@ not the kids' trash-and-litter turn below.
 stands for it, every 5 days at 6 p.m., and it is moved forward each time he says
 he emptied it. The rule itself is in `instructions.md`.
 
-| Emptied | By |
-|---|---|
-| Friday, October 9, 2026, 10:15 p.m. | David himself |
+| Emptied | By | Since the last |
+|---|---|---|
+| Friday, October 9, 2026, 10:15 p.m. | David himself | — |
+| Wednesday, October 14, 2026, 7:27 a.m. | David himself | 4 days 9 hours |
 
-Next due: Wednesday, October 14, 2026.
+Next due: Monday, October 19, 2026.
+
+Each emptying is now a record of its own kind, `litter_emptying`, born on the
+October 14 one.
 
 ## Trash and kitty litter
 
@@ -37,4 +41,4 @@ filed on September 28, 2026 and is no longer in the records, so he took it off
 `/notes/todo` himself. Corrected here by the weekly pass of October 4, 2026, which
 found this document claiming a to-do that does not exist. Nothing now tracks the
 owed turn. Nothing has been said about these turns since September 28 — the
-October 9 emptying above was his own, and does not settle Abby's.
+October 9 and October 14 emptyings above were his own, and do not settle Abby's.
