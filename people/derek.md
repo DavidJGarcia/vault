@@ -37,18 +37,19 @@ October 13, 2026 at 8:28 pm. So nothing contradicts youth, and nothing confirms
 it either; the general standard stands until the league or a coach says
 otherwise.
 
-Four junior balls were put in the Amazon and Walmart carts at 8:05-8:08 pm,
-before the grade span was known, and taken back out at 8:23-8:30 pm. What stands
-in the carts now:
+**His ball: the Nike All-Field 4.0, Youth Size, $29.95.** Ordered from Amazon
+Tuesday, October 13, 2026 at 8:49 pm, on his word "go ahead and order that
+football" - order 106-7343058-2285054, $32.42 with tax, arriving Wednesday,
+October 14. It was the recommendation given at 8:41 pm: 4.8 stars on 32 ratings
+against the MacGregor's 5, and an all-surface tackified cover for grass, turf and
+pavement.
 
-- Amazon: Nike All-Field 4.0 Football, Youth Size, $29.95 - **the
-  recommendation**, given 8:41 pm: 4.8 stars on 32 ratings against the
-  MacGregor's 5 ratings, and an all-surface tackified cover for grass, turf and
-  pavement.
-- Walmart: MacGregor Youth Composite Football, Youth 12-14, $22.14 - the same
-  size for $7.81 less, a sound school-PE ball with a thin review base.
-
-Nothing has been bought. Both are still only in the carts.
+The six balls looked at that evening are done with. Four junior ones went into
+the Amazon and Walmart carts at 8:05-8:08 pm, before the grade span was known,
+and came back out at 8:23-8:30 pm. The runner-up, the MacGregor Youth Composite
+12-14 at $22.14 on Walmart - the same size for $7.81 less, a sound school-PE ball
+with a thin review base - came out of the Walmart cart with the order. Neither
+cart holds a football now.
 
 Leagues often hand out the game ball, in which case this is a practice ball and
 the size matters less - but it still wants to be the one he throws on Saturdays.
