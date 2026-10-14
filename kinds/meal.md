@@ -37,17 +37,20 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         for his local day, including the meal just filed (his standing
         instruction of September 21, 2026, in instructions.md). One query,
         `--agg sum:kcal,sum:protein_g,count`; never a running total on a row.
-        "the usual" for breakfast, redefined October 14, 2026 by "Please update
-        the usual to only be 1/3 cup of dried rolled oats (uncooked)": 27 g
-        Sprouts chocolate whey (100 kcal, 18 g protein), 1/3 cup dry rolled oats,
-        27 g (100 kcal, 3.3 g), 1 cup fresh blueberries, 148 g (84 kcal, 1.1 g)
-        and 3/8 cup unsweetened vanilla almond milk, 90 ml (11 kcal, 0.4 g) -
-        295 kcal, 22.8 g protein; about 44 g carbs, 4.1 g fat, 8.0 g fiber.
-        The oats were 1/2 cup dry (40 g, 150 kcal) from the start until that
-        note, and before September 30, 2026 the blueberries were 1 1/2 cups
-        with no milk. Expand "the usual" from this line, and change it here when
-        he changes the recipe again. A redefinition is forward-looking - the
-        mornings already filed stay as they were eaten - unless it lands within
+        "the usual" for breakfast, redefined October 14, 2026 at 11:46 am by "The
+        usual should be 1 serving or 2 scoops, or 46 g of Orgain organic protein
+        powder, which has 150 calories and 21 g of protein": 46 g Orgain Organic
+        Protein plant-based powder, 2 scoops (150 kcal, 21 g protein), 1/3 cup
+        dry rolled oats, 27 g (100 kcal, 3.3 g), 1 cup fresh blueberries, 148 g
+        (84 kcal, 1.1 g) and 3/8 cup unsweetened vanilla almond milk, 90 ml
+        (11 kcal, 0.4 g) - 345 kcal, 25.8 g protein; about 54 g carbs, 7 g fat,
+        10 g fiber. The powder was 27 g Sprouts chocolate whey (100 kcal, 18 g
+        protein) until that note - the Orgain replaces it, it is not a second
+        scoop beside it. The oats were 1/2 cup dry (40 g, 150 kcal) until 9:41
+        that same morning, and before September 30, 2026 the blueberries were
+        1 1/2 cups with no milk. Expand "the usual" from this line, and change it
+        here when he changes the recipe again. A redefinition is forward-looking -
+        the mornings already filed stay as they were eaten - unless it lands within
         minutes of that morning's own row, as on September 30, 2026, when it
         revises that row too.
         "a third cup" is 1/3 cup, not the third cup of three. On October 7, 2026
