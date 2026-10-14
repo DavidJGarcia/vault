@@ -32,12 +32,23 @@ oldest players: Youth/Intermediate, also called TDY or size 7 - about 11 to
 grade uses, and Amazon's own listings label it that way. He will be in this
 division three years, so youth is right whichever grade he is in now.
 
+**The league's own site says nothing about ball size** - David checked, Tuesday,
+October 13, 2026 at 8:28 pm. So nothing contradicts youth, and nothing confirms
+it either; the general standard stands until the league or a coach says
+otherwise.
+
 Four junior balls were put in the Amazon and Walmart carts at 8:05-8:08 pm,
 before the grade span was known, and taken back out at 8:23-8:30 pm. What stands
 in the carts now:
 
-- Amazon: Nike All-Field 4.0 Football, Youth Size, $29.95
-- Walmart: MacGregor Youth Composite Football, Youth 12-14, $22.14
+- Amazon: Nike All-Field 4.0 Football, Youth Size, $29.95 - **the
+  recommendation**, given 8:41 pm: 4.8 stars on 32 ratings against the
+  MacGregor's 5 ratings, and an all-surface tackified cover for grass, turf and
+  pavement.
+- Walmart: MacGregor Youth Composite Football, Youth 12-14, $22.14 - the same
+  size for $7.81 less, a sound school-PE ball with a thin review base.
+
+Nothing has been bought. Both are still only in the carts.
 
 Leagues often hand out the game ball, in which case this is a practice ball and
 the size matters less - but it still wants to be the one he throws on Saturdays.
