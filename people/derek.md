@@ -2,22 +2,23 @@
 
 Derek, one of David's six kids (David, Derek, Abigail, Jeffrey, Andrew, Cody).
 This document was started Tuesday, October 13, 2026 from "My 12-year-old's name
-is Derek." - the first note that says anything about him on his own. Until now
+is Derek." - the first note that says anything about him on his own. Until then
 he was only a name on the roster in `gifts.md`.
 
-## Age
+## Birthday
 
-**He is 12.** Said Tuesday, October 13, 2026 at 8:04 pm, flatly, as a fact to
-keep rather than a question.
+**Sunday, November 10, 2013.** Said Tuesday, October 13, 2026 at 8:13 pm, an
+hour after his age.
 
-The number is only true for a year, so what is worth keeping is the window it
-implies: a 12-year-old on October 13, 2026 was born between **October 14, 2013
-and October 13, 2014**, and he turns 13 between October 14, 2026 and
-October 13, 2027. Read his age from that window, never from the 12.
+He is **12**, and turns **13 on Tuesday, November 10, 2026**. Read his age from
+the date, never from a number written down.
 
-**The birthday itself has never been said**, so there is no line for him in
-`dates.md` and the morning briefing does not know it. That one date would
-replace the window with a fact.
+The date closes the window his age implied: a 12-year-old on October 13, 2026
+was born between October 14, 2013 and October 13, 2014, and November 10, 2013
+sits inside it. The two notes agree.
+
+There is now a line for him in `dates.md`, so the morning briefing carries the
+birthday.
 
 ## Where he sits among the six
 
@@ -30,7 +31,6 @@ been placed at all.
 
 ## What has never been said
 
-- His birthday.
 - Whether he is a son - "my 12-year-old" does not say, and Derek is read as a
   boy's name only on the name itself.
 - Anything else: no school, no allergies, no interests, nothing on a gift list.
