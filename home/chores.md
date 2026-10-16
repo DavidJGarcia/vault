@@ -30,15 +30,23 @@ turns at the pair.
 |---|---|
 | Saturday, September 26, 2026 | David (his son) |
 | Monday, September 28, 2026 | Derek |
-| not yet taken | Abby — still owed, as of September 28, 2026 |
+| Thursday, October 15, 2026 | Derek — his second turn |
+| not yet taken | Abby — still owed, as of October 15, 2026 |
 
 He tracks this out loud: "David is doing the trash and kitty litter today"
 (September 26), "Derek's taking out trash and kitty litter but Abby still needs to
-take her turn" (September 28).
+take her turn" (September 28), "Derek is doing trash and kitty litter today"
+(October 15).
+
+Changing the litter is not emptying the Litter-Robot drawer above, and a turn here
+never moves that reminder.
 
 **Abby's turn is not on any list.** A to-do, "Get Abby to do trash and litter", was
 filed on September 28, 2026 and is no longer in the records, so he took it off
 `/notes/todo` himself. Corrected here by the weekly pass of October 4, 2026, which
 found this document claiming a to-do that does not exist. Nothing now tracks the
-owed turn. Nothing has been said about these turns since September 28 — the
-October 9 and October 14 emptyings above were his own, and do not settle Abby's.
+owed turn, and Derek has now taken two of the three turns on record.
+
+Seventeen days passed between the September 28 turn and the October 15 one with
+nothing said about these chores, so the record of turns is what he says out loud
+rather than a schedule.
