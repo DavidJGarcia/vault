@@ -61,3 +61,28 @@ that day plus five days at 18:00, keeping the row and its repeat. Say on the
 wrist when the next one is due. Emptying means the waste drawer of the
 Litter-Robot; the kids' trash-and-litter turns in `home/chores.md` are a
 different thing and do not satisfy it.
+
+## To-dos
+
+**October 16, 2026 — every open to-do in the morning briefing, except the
+backlog.** "In my morning updates I want to see all of my to-dos that aren't on
+the backlog, even if it means multiple messages."
+
+The briefing's to-do section is no longer a judgment call about which ones
+matter today. Every open to-do without `backlog` is named, overdue first, then
+due today, then the rest in his order:
+
+```
+records --kind todo --open --order ord
+```
+
+When they do not fit the message with the rest of the morning, send more
+messages (reverse order, headline last) — he asked for that explicitly, so the
+list is never trimmed to fit seven rows.
+
+A to-do is backlog only when his own words put it there ("backlog to-do",
+"personal backlog"): that sets `props.backlog: true`, and keeps it off the
+briefing while leaving it on /notes/todo and in "what's on my list". Nothing
+else counts as backlog — not age, not position on the list. On this date two
+rows carry it (a new mattress for Abby, finish Granddaddy's book) and six open
+to-dos are in the briefing.
