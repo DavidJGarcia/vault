@@ -80,3 +80,11 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         almonds had never been captured, so the row was made to carry all 18,
         127 kcal. When "more" has no antecedent in the day's rows, say plainly
         what it was read against.
+        "skills" is a transcription slip for "Skittles". On October 15, 2026 at 8:56pm
+        "I have four individual skills." was filed as a fragment, unactionable because it
+        named no domain; twelve minutes later "I was saying I did 4 Skittles." showed the
+        sentence had been "I had four individual Skittles" — four pieces, 16 kcal
+        (rec_20261016T02104124016620e97b, filed at the 8:56pm moment, not at the
+        clarification). A short complete sentence with a count in it and nothing to act on
+        is worth testing as food first: the odd noun is usually a mangled brand or candy,
+        and "individual" in front of a plural is him counting pieces.
