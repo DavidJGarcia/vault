@@ -27,13 +27,21 @@ notes:  four rows. The weekly pass of October 4, 2026 found an earlier one left 
         long lag, 334 s on the September 17 note, which fits a capture the ring struggled
         to send.
         The fourth, "I have four individual skills", Thursday, October 15, 2026 at 8:56pm,
-        is the other shape: a whole sentence, subject and predicate, that is still
-        unactionable because it names no domain and nothing around it supplies one. So the
-        kind is not only truncated captures — a sentence can arrive complete and orphaned,
-        and it is filed here just the same.
+        has a different cause: the recording was whole and the transcription was not. He
+        said it again twelve minutes later — "I was saying I did 4 Skittles" — and the
+        sentence was "I had four individual Skittles". It looked complete and orphaned only
+        because *skills* is an ordinary word standing where *Skittles* was, so nothing in it
+        read as broken; five candidate readings were written down and all five were about
+        domains that were never there. **When a short, complete sentence carries a count and
+        still names nothing to act on, test the odd noun as a mis-heard food before
+        concluding the context is missing** — a count of something eaten is the commonest
+        note he makes. This document said for ten minutes that the shape was a sentence
+        arriving complete and orphaned; it was arriving complete and corrupted.
         The receipt says which words arrived and asks for the note again rather than
         guessing. A fragment never ticks, closes or sets anything. When he says it whole,
-        file that note properly and set `resolved` here — which happened once, on
+        file that note properly and set `resolved` here — which has happened twice: on
         September 29, when "I was trying to say that I unpacked from my trip already"
-        resolved that morning's row. The September 17 one is still unresolved and by now
-        almost certainly unrecoverable.
+        resolved that morning's row, and on October 15, when the Skittles note resolved the
+        fourth. Both times he reached for the same opening, "I was saying" or "I was trying
+        to say", so that opening is a signal to look for an unresolved fragment first. The
+        September 17 one is still unresolved and by now almost certainly unrecoverable.
