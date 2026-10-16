@@ -88,3 +88,10 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         clarification). A short complete sentence with a count in it and nothing to act on
         is worth testing as food first: the odd noun is usually a mangled brand or candy,
         and "individual" in front of a plural is him counting pieces.
+        "cheese and crackers" can be Cheez-Its, one food and not two. On October 16,
+        2026 at 1:52 pm "I'm having cheese and crackers." was filed as an ounce of
+        cheddar with six Ritz-style crackers, 215 kcal; 68 seconds later "Not cheese
+        and crackers, Cheese-It brand snack crackers." corrected it to one 30 g
+        serving of Cheez-It Original, 150 kcal, 3 g protein. "Cheese-It" is the
+        transcription of Cheez-It. When a note names a cheese-flavored cracker, ask
+        whether the cheese is a separate item before adding it.
