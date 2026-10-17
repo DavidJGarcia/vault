@@ -95,3 +95,9 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         serving of Cheez-It Original, 150 kcal, 3 g protein. "Cheese-It" is the
         transcription of Cheez-It. When a note names a cheese-flavored cracker, ask
         whether the cheese is a separate item before adding it.
+        "Bucky's" is Buc-ee's, the Texas chain, and he eats its branded candy: on
+        October 17, 2026 "three Bucky's Blast Pop mints" was filed from the tin's
+        label (sugar-free, 6 kcal per 2-piece serving, so 3 kcal a mint; cherry,
+        lemon-lime and blue raspberry share one label, so the flavor does not change
+        the number). A Buc-ee's product name has label numbers and is worth looking
+        up rather than estimating.
