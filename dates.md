@@ -2,3 +2,6 @@
 - 05-11 · Dad's birthday (born 1955)
 - 11-10 · Derek's birthday (born 2013)
 - 2026-10-19 · School back after Manor ISD fall break (first day of the second nine weeks)
+- 2026-10-19 · Early voting opens in Texas (runs through Friday October 30)
+- 2026-10-23 · Last day to apply for a ballot by mail (November 3 election)
+- 2026-11-03 · Election day, Texas general election
