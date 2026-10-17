@@ -1,3 +1,4 @@
 - 10-05 · Ruby's birthday (born 2021)
 - 05-11 · Dad's birthday (born 1955)
 - 11-10 · Derek's birthday (born 2013)
+- 2026-10-19 · School back after Manor ISD fall break (first day of the second nine weeks)
