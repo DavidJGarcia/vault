@@ -40,3 +40,14 @@ The records behind this document are kind `personal_fact` (see
   real intake is this or higher. Either way, eating to the 1600–1700 window has not
   moved the weight in three weeks, so it is maintenance, not a cut. A real deficit
   is nearer 1,400–1,500 a day, with the protein floor held to protect muscle.
+- **The targets in use are the agent's own, not his.** 140 g of protein a day and
+  1600–1700 kcal, derived October 12, 2026 when he asked "Which should I be
+  targeting to build or maintain muscle while losing fat?" — 140 g is 2.2 g/kg at
+  141.8 lb, the top of the range for holding muscle in a deficit. He has never
+  stated a target of his own, and these numbers now sit behind every "what should I
+  eat" answer (`kinds/nutrition_check.md`). The week of October 10–16 ran 121 g a
+  day against the 140, clearing it on two days of seven; the two misses were Sunday
+  the 11th (61 g) and the zoo day, Friday the 16th (71 g). The pattern is plain in
+  the rows: the days that clear 140 g have one deliberate protein anchor in them —
+  a 200 g chicken breast, or a protein shake and a second meat portion — and the
+  days that miss are days of grazing.
