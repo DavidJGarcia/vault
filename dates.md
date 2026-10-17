@@ -5,3 +5,4 @@
 - 2026-10-19 · Early voting opens in Texas (runs through Friday October 30)
 - 2026-10-23 · Last day to apply for a ballot by mail (November 3 election)
 - 2026-11-03 · Election day, Texas general election
+- 01-01 · David William's birthday (born 2012)
