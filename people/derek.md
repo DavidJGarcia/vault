@@ -56,17 +56,28 @@ the size matters less - but it still wants to be the one he throws on Saturdays.
 
 ## Where he sits among the six
 
-He is the first of the six whose age has been said, so birth order is still
-open. What the other notes imply: Abby is somewhere around 7 to 9 - the
+**He is the second of the two kids now placed, below David William.** Saturday,
+October 17, 2026: "David William is my oldest son. He's 14. He'll turn 15 on
+January 1st." The namesake, who had never been placed at all when this document
+was written, is the oldest son, born January 1, 2012 - about 22 months above
+Derek. See `people/david-william.md`.
+
+So Derek is the **second oldest boy**, and probably the second oldest of the six.
+What the other notes still only imply: Abby is somewhere around 7 to 9 - the
 treasury on her Christmas list is written for ages 7 to 9 - and Andrew and Cody
-are 4 or older, from the Bluey game chosen for the two of them. On that much,
-Derek is one of the older ones. The kid called David, the namesake, has never
-been placed at all.
+are 4 or older, from the Bluey game chosen for the two of them. Jeffrey has never
+been placed.
+
+His own grade follows from his birthday on the Texas cutoff (five by September 1):
+kindergarten in 2019-20 puts him in **7th grade** in 2026-27, which agrees with
+the 6th-8th grade flag football team. That is an inference, not something he said.
 
 ## What has never been said
 
 - Whether he is a son - "my 12-year-old" does not say, and Derek is read as a
-  boy's name only on the name itself.
-- Which grade he is in, and which league or team plays the flag football.
+  boy's name only on the name itself. His brother being called "my oldest son"
+  does not settle it either way.
+- Which grade he is in (inferred above), and which league or team plays the flag
+  football.
 - Anything else: no school, no allergies, no other interests, nothing on a gift
   list.
