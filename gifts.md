@@ -51,18 +51,22 @@ See `people/david-william.md`.
 
 | Item | Occasion | Price | Status | Added |
 |---|---|---|---|---|
-| Headphones — an ordinary adult pair; type and brand not chosen | Christmas, Friday December 25, 2026 | about $80 to $350; a solid teen pick runs $80 to $120 | idea | Saturday, October 17, 2026 |
+| Headphones — an ordinary adult pair; type and brand not chosen | Christmas, Friday December 25, 2026 | about $80 to $350; a solid teen pick runs $85 to $120 | idea | Saturday, October 17, 2026 |
 | A charger for his room — connector not chosen | Christmas, Friday December 25, 2026 | about $15 to $25 for a brick and a long cable; $30 to $60 for a bedside station | idea | Saturday, October 17, 2026 |
 
 **His age is settled, and it settles the headphones.** A minute after the gift note he
 said: "David William is my oldest son. He's 14. He'll turn 15 on January 1st." At 14 he
 is a teenager, so buy an **ordinary adult-grade pair** — the volume-limited kids sets
 with an 85 dB cap (JLab JBuddies Pro, iClever BTH12, Puro BT2200-Plus, JBL Junior 470NC)
-are for under about twelve and are off the list. Adult over-ears run roughly $80 to $350;
-the Sony WH-CH720N around $100 and the Soundcore Space One around $80 are the usual
-value picks at that age, and the AirPods-class options are a different budget. He will
-have an opinion about which: over-ear or earbuds, wired or Bluetooth, noise cancelling or
-not — none of it was said, and at 14 it is worth asking him.
+are for under about twelve and are off the list.
+
+Adult over-ears run roughly $80 to $350. The two value picks at that age, checked
+Saturday October 17, 2026: the **Sony WH-CH720N**, $149 list and commonly sold near $88,
+rated the best wireless pair under $100; and the **Soundcore Space One** at $99.99, the
+best noise cancelling in the same band. Either is a real pair of headphones rather than a
+children's one. He will have an opinion about which: over-ear or earbuds, wired or
+Bluetooth, noise cancelling or not — none of it was said, and at 14 it is worth asking
+him.
 
 **His birthday is January 1**, a week after Christmas, so the two occasions run together.
 Two gifts in one week, or one of these held back for the birthday, is his call.
