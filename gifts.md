@@ -42,24 +42,30 @@ and up, so it is written down as one shared gift rather than one each. $18.99 on
 own site, and widely stocked at Walmart and Amazon. His idea, not something they asked
 for.
 
-## David William — his son
+## David William — his son, 14
 
 Said Saturday October 17, 2026, as "For Christmas David William would like headphones
 and a charger for his room." The middle name is how he separates the boy from himself;
 it is the first time it has been said, and the first gift idea on file for this child.
+See `people/david-william.md`.
 
 | Item | Occasion | Price | Status | Added |
 |---|---|---|---|---|
-| Headphones — type and brand not chosen | Christmas, Friday December 25, 2026 | about $25 to $120; a solid pick runs around $50 | idea | Saturday, October 17, 2026 |
+| Headphones — an ordinary adult pair; type and brand not chosen | Christmas, Friday December 25, 2026 | about $80 to $350; a solid teen pick runs $80 to $120 | idea | Saturday, October 17, 2026 |
 | A charger for his room — connector not chosen | Christmas, Friday December 25, 2026 | about $15 to $25 for a brick and a long cable; $30 to $60 for a bedside station | idea | Saturday, October 17, 2026 |
 
-**His age is the one thing to settle, and it decides both.** Derek, 12, is the only one
-of the six kids whose age is on file. Under about twelve, headphones should be a
-volume-limited set with an 85 dB cap — JLab JBuddies Pro around $35 at Target, iClever
-BTH12 in the same band, Puro BT2200-Plus at $99 to $119 for the better safety pair, JBL
-Junior 470NC as the premium kids option. A teenager wants an ordinary pair and will have
-an opinion about which, and adult-grade over-ears run $80 to $350. Over-ear or earbuds,
-wired or Bluetooth, noise cancelling or not: none of it was said.
+**His age is settled, and it settles the headphones.** A minute after the gift note he
+said: "David William is my oldest son. He's 14. He'll turn 15 on January 1st." At 14 he
+is a teenager, so buy an **ordinary adult-grade pair** — the volume-limited kids sets
+with an 85 dB cap (JLab JBuddies Pro, iClever BTH12, Puro BT2200-Plus, JBL Junior 470NC)
+are for under about twelve and are off the list. Adult over-ears run roughly $80 to $350;
+the Sony WH-CH720N around $100 and the Soundcore Space One around $80 are the usual
+value picks at that age, and the AirPods-class options are a different budget. He will
+have an opinion about which: over-ear or earbuds, wired or Bluetooth, noise cancelling or
+not — none of it was said, and at 14 it is worth asking him.
+
+**His birthday is January 1**, a week after Christmas, so the two occasions run together.
+Two gifts in one week, or one of these held back for the birthday, is his call.
 
 The charger reads as a phone charger for his bedroom — a wall brick and a cable long
 enough to reach the bed — rather than a laptop charger, a battery pack or a charging
@@ -82,7 +88,8 @@ Ideas he raised for Emily to get him, Monday September 14, 2026. No occasion nam
 - He says "is on X's list" for what someone else wants, and "I'm thinking X could get me"
   for what he wants.
 - Ideas arrive in runs: one note, then "another idea could be", carrying the same giver.
-- His six kids are David, Derek, Abigail (Abby), Jeffrey, Andrew and Cody.
+- His six kids are David, Derek, Abigail (Abby), Jeffrey, Andrew and Cody. David William,
+  14, is the oldest; Derek is 12.
 - **Two sections are named David**, because his eldest shares his name. "David William"
   is the boy; "David — himself" is him. He used the middle name unprompted to draw that
   line, so take a bare "David" in a gift note as needing the question asked.
