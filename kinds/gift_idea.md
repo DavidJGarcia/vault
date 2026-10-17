@@ -18,13 +18,19 @@ enrich: identify the product properly when he names one loosely — full title, 
         it came from and keep the URLs in sources. Name the occasion from how he said it:
         "on X's Christmas list" is christmas, source their_list, occasion_date the coming
         December 25. A present he says someone could get him is his_idea with himself as
-        recipient. status stays idea until a later note says it was bought or given.
+        recipient. status stays idea until a later note says it was bought or given. When
+        the item is generic — "headphones", "a unicycle" — do not invent a product: give a
+        range with the named options in price_basis, and say in the receipt the one fact
+        that would settle the purchase (the child's age, a wheel size, a connector).
 
 ask:    "what is on Abby's Christmas list"; ideas by recipient; what is still unbought
         before a date; roughly what the list costs.
 
-notes:  he says "is on X's list" for what someone else wants, and "I'm thinking X could
-        get me" for what he wants. Ideas arrive in runs — one note, then "another idea
-        could be", which carries the same giver and occasion as the note before it. One
-        item per record so each can be bought on its own. His six kids are David, Derek,
-        Abigail (Abby), Jeffrey, Andrew and Cody.
+notes:  he says "is on X's list" for what someone else wants, "X would like Y" for the
+        same thing, and "I'm thinking X could get me" for what he wants. Ideas arrive in
+        runs — one note, then "another idea could be", which carries the same giver and
+        occasion as the note before it. Two items named in one sentence are two records,
+        one each, so each can be bought on its own. His six kids are David, Derek,
+        Abigail (Abby), Jeffrey, Andrew and Cody — and his eldest shares his name, so
+        "David William", said Saturday October 17, 2026, is the boy and a bare "David" in
+        a gift note needs the question asked.
