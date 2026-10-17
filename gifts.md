@@ -42,7 +42,33 @@ and up, so it is written down as one shared gift rather than one each. $18.99 on
 own site, and widely stocked at Walmart and Amazon. His idea, not something they asked
 for.
 
-## David
+## David William — his son
+
+Said Saturday October 17, 2026, as "For Christmas David William would like headphones
+and a charger for his room." The middle name is how he separates the boy from himself;
+it is the first time it has been said, and the first gift idea on file for this child.
+
+| Item | Occasion | Price | Status | Added |
+|---|---|---|---|---|
+| Headphones — type and brand not chosen | Christmas, Friday December 25, 2026 | about $25 to $120; a solid pick runs around $50 | idea | Saturday, October 17, 2026 |
+| A charger for his room — connector not chosen | Christmas, Friday December 25, 2026 | about $15 to $25 for a brick and a long cable; $30 to $60 for a bedside station | idea | Saturday, October 17, 2026 |
+
+**His age is the one thing to settle, and it decides both.** Derek, 12, is the only one
+of the six kids whose age is on file. Under about twelve, headphones should be a
+volume-limited set with an 85 dB cap — JLab JBuddies Pro around $35 at Target, iClever
+BTH12 in the same band, Puro BT2200-Plus at $99 to $119 for the better safety pair, JBL
+Junior 470NC as the premium kids option. A teenager wants an ordinary pair and will have
+an opinion about which, and adult-grade over-ears run $80 to $350. Over-ear or earbuds,
+wired or Bluetooth, noise cancelling or not: none of it was said.
+
+The charger reads as a phone charger for his bedroom — a wall brick and a cable long
+enough to reach the bed — rather than a laptop charger, a battery pack or a charging
+station. What he charges decides the connector, and that has never been said; David
+senior carries a Lightning phone, so an older iPhone is in the house and a USB-C-only
+brick would want a USB-C-to-Lightning cable. A bedside multi-port unit is the step up:
+Anker's Nano 6-in-1 at 67 W and Prime 6-in-1 at 140 W are the named nightstand ones.
+
+## David — himself
 
 Ideas he raised for Emily to get him, Monday September 14, 2026. No occasion named.
 
@@ -57,3 +83,6 @@ Ideas he raised for Emily to get him, Monday September 14, 2026. No occasion nam
   for what he wants.
 - Ideas arrive in runs: one note, then "another idea could be", carrying the same giver.
 - His six kids are David, Derek, Abigail (Abby), Jeffrey, Andrew and Cody.
+- **Two sections are named David**, because his eldest shares his name. "David William"
+  is the boy; "David — himself" is him. He used the middle name unprompted to draw that
+  line, so take a bare "David" in a gift note as needing the question asked.
