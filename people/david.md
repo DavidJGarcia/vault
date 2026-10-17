@@ -51,3 +51,37 @@ The records behind this document are kind `personal_fact` (see
   the rows: the days that clear 140 g have one deliberate protein anchor in them —
   a 200 g chicken breast, or a protein shake and a second meat portion — and the
   days that miss are days of grazing.
+- **Body fat has never been measured; the estimate is 18–22%.** He asked on
+  Wednesday, October 7, 2026 at 6:48 am where it would be estimated from his
+  height, weight and performance. With nothing measured, the answer is the
+  Deurenberg 1991 equation on BMI — body fat % = 1.20 × BMI + 0.23 × age −
+  10.8 × sex (male 1) − 5.4 — which at BMI 23.2 reduces to 11.6 + 0.23 × age:
+  18.5% at 30, 19.7% at 35, 20.8% at 40, 22.0% at 45. **His age is the missing
+  term** and worth more than anything else he could tell the agent here. The
+  equation carries ±4.1 points of standard error and cannot see muscle; a waist
+  measure (US Navy method) or a caliper would beat it. His lifting is moderate —
+  roughly 1.7× bodyweight on the leg press, 0.85× on the chest press — trained
+  but not unusually muscular, so the BMI figure is not adjusted far down.
+  See `kinds/question.md`, record of October 7, 2026.
+- **Visible abs would be about 8 lb down, a six-pack 13–16 lb.** He asked on
+  Wednesday, October 7, 2026 at 7:16 am, half an hour after the body fat
+  question. Abs begin to show for men around 14–15% body fat and a plainly
+  defined six-pack around 10–12%. Holding lean mass constant, the 141.4 lb
+  seven-day morning average at an estimated 20% fat is 113.2 lb of lean mass,
+  which puts 15% at **133 lb**, 12% at **129 lb** and 10% at **126 lb** — BMI
+  21.8, 21.1 and 20.6, still inside the normal band at its lean end. **The dates
+  that answer carried are withdrawn:** it said mid-November and mid-December on the
+  strength of 1.6 lb a week, and at a flat trend there is no date at all. Three
+  things move it: the whole chain rests on the 20% estimate above, which carries
+  ±4 points; holding lean mass constant is the optimistic case, since losing weight
+  from an already-normal BMI costs some lean mass and pushes the target lower than
+  the arithmetic says; and nothing moves at all while the intake is maintenance.
+- **No abdominal work is logged, and nothing at all since October 8.** Across every
+  `exercise_set` row — leg press, leg curl, leg extension, calf raise, chest press,
+  incline press, pec deck fly, lateral raise, lat pulldown, front pulldown, row,
+  rear delts, biceps curl, tricep extension — nothing trains the abs directly.
+  Definition is ab muscle thickness as much as fat cover, so direct ab work would
+  raise the body fat percentage at which they show and lower the weight he would
+  need to reach. The four sessions of October 5–8 were followed by eight days with
+  no set spoken, October 9–16, which is also Manor ISD's fall break (October 12–16).
+  Where he stands on each machine is `notes/gym.md`.
