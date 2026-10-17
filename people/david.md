@@ -35,7 +35,7 @@ The records behind this document are kind `personal_fact` (see
   11,680 (1,669 a day, 121 g) — 36,008 kcal over 21 days, **1,715 a day** — and the
   morning average did not move in any of them. 1,865 was one high week read on its
   own. Two cautions: a week is too short to tell 1,611 from 1,865 apart, because the
-  0.4 lb a week that difference predicts is smaller than the scale own spread
+  0.4 lb a week that difference predicts is smaller than the scale's own spread
   (139.4 to 143.6 inside a fortnight); and the rows only hold what he speaks, so
   real intake is this or higher. Either way, eating to the 1600–1700 window has not
   moved the weight in three weeks, so it is maintenance, not a cut. A real deficit
