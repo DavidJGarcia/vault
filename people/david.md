@@ -20,3 +20,11 @@ The records behind this document are kind `personal_fact` (see
   `instructions.md` says the trend is read morning to morning. BMI is always
   computed from those rows and this height, never stored, so a correction to
   either moves it.
+- **The weight has been flat for three weeks.** Morning averages, each day averaged
+  first: **142.32** over the five mornings of September 26 to October 2, **142.13**
+  over the six of October 3–9, **142.30** over the six of October 10–16. A range of
+  0.19 lb across three weeks. The steep part — 144.8 on September 26 to 139.4 on
+  October 1 — was the week he came home from San Ramon, and it has not continued.
+  The 1.6 lb a week quoted on October 6 came from a nine-day fit inside that drop
+  and was withdrawn by the weekly pass of October 10; over all eighteen morning days
+  the fit now reads about −0.2 lb a week, which is nothing.
