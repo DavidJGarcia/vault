@@ -101,3 +101,11 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         lemon-lime and blue raspberry share one label, so the flavor does not change
         the number). A Buc-ee's product name has label numbers and is worth looking
         up rather than estimating.
+        "a protein shake" can be a bottled one. On October 18, 2026 at 11:28 am "I'm
+        having a protein shake." was filed as 46 g Orgain powder in almond milk,
+        180 kcal and 22 g protein; 91 seconds later "The protein shake that I just
+        had was a Premier Protein 11.5 oz, 30 g of protein, cookies and cream
+        flavored shake." corrected it to one bottle, 160 kcal and 30 g protein by
+        label (5 g carbs, 3 g fat, 1 g sugar; the flavors share the number). He
+        drinks both, so a bare "protein shake" is worth saying was read as the
+        powder, and he will name the bottle when it was one.
