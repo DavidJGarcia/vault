@@ -86,3 +86,49 @@ briefing while leaving it on /notes/todo and in "what's on my list". Nothing
 else counts as backlog — not age, not position on the list. On this date two
 rows carry it (a new mattress for Abby, finish Granddaddy's book) and six open
 to-dos are in the briefing.
+
+## Money
+
+**October 18, 2026 — match his Walmart and Amazon imports to his order history,
+every weekly pass.** "How do I set it up so that you do that automatically with
+the weekly refresh for both Walmart and Amazon for anything that's not already
+grouped?" — after the October 18 run that wrote the orders behind six Walmart
+charges into their memos.
+
+The weekly pass, after reconciling your own purchase entries (`ynab.md`,
+*Reconciling your purchase entries*), takes his **imported** Walmart and Amazon
+charges that are not yet tied to an order and writes the order into the memo:
+
+```
+transactions --payee Walmart --since <90 days before the pass>
+transactions --payee Amazon  --since <90 days before the pass>
+```
+
+Already grouped, so skipped: a memo that already names an order or says no match
+was found, an import YNAB has `matched` to one of your entries, and any memo he
+wrote himself.
+
+For each of the rest, read the store's own history in the agent browser — Walmart
+Purchase history (`walmart.com/orders`), Amazon Your Orders — and find the order,
+store purchase or fuel stop whose total and date fit the charge. Then `update`
+that import with a memo of a line or two: the store, the order number, its date,
+and what it bought. The format the October 18 run used, which he liked:
+`Walmart order 2000153-27521825 (Oct 10 delivery): 15 items - produce, milk,
+bread, Hershey's syrup, Huggies size 5 diapers. Incl $6.55 driver tip.`
+
+- **The memo is the only change.** Never the category, the approval, the amount
+  or the payee — those are his — and nothing is deleted. (The one standing
+  exception to *leave his imports alone* stays the reconciliation in `ynab.md`.)
+- **Amazon charges by shipment**, so one order can be several charges and one
+  charge several orders: memo each with the order number and what that shipment
+  held, and say when a charge covers more than one order.
+- **No match**: say so in the memo, naming the span of history checked, so a
+  later pass does not search it again.
+- **Newest first, at most 25 imports per store per pass**, so the rest of the
+  pass keeps its room; the view says how many are still unmatched.
+- No agent browser, a browser that is not the pinned one, or no YNAB: skip this,
+  finish the rest of the pass, and say so in the view.
+
+The view names what was memo'd — the charge, its amount and date, the order it
+came from — and since the memo is the whole change, undoing one is clearing that
+memo in YNAB.
