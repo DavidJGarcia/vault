@@ -63,6 +63,22 @@ method, no on timing.
   pull temps above are the ordinary risk people accept with good fish, and carryover
   adds a few degrees off the heat.
 
+### His baked salmon, carried over to trout
+
+How he bakes salmon, in his words a minute later the same day: **yellow mustard,
+olive oil, salt, pepper, lemon juice.** It carries over, and it suits trout better
+than it suits salmon — the oil supplies the fat trout lacks, and the mustard binds
+the coat to the fillet instead of letting it run into the pan. Yellow mustard bakes
+mild; it does not read as mustard in the finished fish.
+
+Two things change for trout:
+
+- **Lemon juice goes on after it comes out of the oven**, not into the coat before
+  baking. Acid sitting on a half-inch lean fillet begins to cure it and leaves the
+  surface mushy; a thick fatty salmon fillet shrugs the same marinade off.
+- **400F for 10–12 minutes, pull at about 130F**, against the 12–15 minutes a salmon
+  fillet of the same recipe takes.
+
 ## Sources
 
 - FSIS Cooking Guideline for Meat and Poultry Products (revised Appendix A, 2021)
@@ -70,3 +86,5 @@ method, no on timing.
 - FSIS, *Ground Beef and Food Safety*
 - ChefsTemp, *Trout Internal Temp Guide* and *Fish and Seafood Internal Temperature*
 - Crowd Cow, *Trout* and *Salmon* cooking guides
+- The European Dish, *Baked Lemon Mustard Steelhead Trout*; The Mediterranean Dish,
+  *Easy Baked Trout*
