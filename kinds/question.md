@@ -27,3 +27,9 @@ notes:  he asks in one short sentence with no context, and the context is almost
         condenser coils came back a day later. Props merge on update rather than
         replace, which is why the shape is flat - a key once written cannot be removed,
         only set to null.
+        A word the ring mis-hears comes back mis-heard the same way. October 18, 2026:
+        "I need to know definitely about ordering geese" was answered as live birds, and
+        his correction arrived as "I said geese, not geese ... it is jewelry" - both of
+        his attempts at the word rendered as the same token. So when a question turns on
+        one doubtful word, ask for the thing or its spelling, never for the word again,
+        and withdraw the answer that was built on the wrong reading.
