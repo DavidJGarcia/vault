@@ -109,3 +109,10 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         label (5 g carbs, 3 g fat, 1 g sugar; the flavors share the number). He
         drinks both, so a bare "protein shake" is worth saying was read as the
         powder, and he will name the bottle when it was one.
+        "paste sauce" and "paste picante" are Pace Picante, the salsa. On October
+        18, 2026 at 5:26 pm, three seconds after an Alexa shopping-list command the
+        ring overheard, he said: When I said "paste sauce" I meant "paste picante
+        sauce." The September 15, 2026 row "Check 1/4 cup of paste picante, medium"
+        is the same word, filed from the Pace Picante label (20 kcal, 500 mg sodium
+        per 1/4 cup); medium is the one he buys. Read "paste" in front of "picante"
+        or "sauce" as the brand - never tomato paste, never pasta sauce.
