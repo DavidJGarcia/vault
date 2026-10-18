@@ -104,6 +104,28 @@ thing heat at 130 does not settle is parasites (Anisakis is common in wild salmo
 trout); freezing settles that instead, below −4F for 24 hours, which farmed and most
 retail fish has already had before it reaches the counter.
 
+### And salmon? The same, with one surprise
+
+Asked a minute after the trout hold question — "and is it the same for salmon?" Yes
+for the oven: **nothing to hold, pull and rest two or three minutes**, carryover 3–5F,
+and the same surface-pasteurisation logic is what makes it safe. Pull temp stays
+**125F** for salmon, not 130.
+
+The surprise is the sous-vide side, which runs the other way from what the thinner
+fish suggests. **Fat shields bacteria from heat, so salmon pasteurises slower than
+lean fish of the same thickness** — not faster:
+
+| Thickness | Fatty fish (salmon) at 131F | Lean fish at 131F |
+|---|---|---|
+| 10 mm | 4¼ hr | 2¾ hr |
+| 20 mm | 4¾ hr | 3 hr |
+| 25 mm | 5 hr | 3¼ hr |
+
+Parasites are the one place salmon is genuinely worse than trout: Baldwin cites
+Anisakis prevalence above 75% in fresh wild US commercial salmon. Heat at 125–131F
+does not settle it; freezing below −4F for 24 hours does, and farmed and most retail
+salmon has had that.
+
 ## Sources
 
 - FSIS Cooking Guideline for Meat and Poultry Products (revised Appendix A, 2021)
@@ -113,5 +135,5 @@ retail fish has already had before it reaches the counter.
 - Crowd Cow, *Trout* and *Salmon* cooking guides
 - The European Dish, *Baked Lemon Mustard Steelhead Trout*; The Mediterranean Dish,
   *Easy Baked Trout*
-- Douglas Baldwin, *A Practical Guide to Sous Vide Cooking*, Table 3.1 (lean fish
-  pasteurisation) and its note on freezing for parasites
+- Douglas Baldwin, *A Practical Guide to Sous Vide Cooking*, Table 3.1 (lean and fatty
+  fish pasteurisation) and its note on freezing for parasites
