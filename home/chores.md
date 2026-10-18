@@ -15,11 +15,12 @@ he emptied it. The rule itself is in `instructions.md`.
 |---|---|---|
 | Friday, October 9, 2026, 10:15 p.m. | David himself | — |
 | Wednesday, October 14, 2026, 7:27 a.m. | David himself | 4 days 9 hours |
+| Sunday, October 18, 2026, 9:49 a.m. | David himself | 4 days 2 hours |
 
-Next due: Monday, October 19, 2026.
+Next due: Friday, October 23, 2026.
 
 Each emptying is now a record of its own kind, `litter_emptying`, born on the
-October 14 one.
+October 14 one. The rule has held at every emptying on record.
 
 ## Trash and kitty litter
 
