@@ -19,7 +19,7 @@ Markdown only. Every write by the agent is one commit that names the note it cam
 | `kinds/<kind>.md` | One document per kind of record: what it is, its properties, how to enrich, what gets asked, what it has learned about how I talk about it. A kind is born on its second occurrence. | The agent; me, to correct it. |
 | `gifts.md` | Gift ideas, by person: what each one wants, the occasion, roughly what it costs, whether it is bought. | The agent; me. |
 | `people/` | One document per person: who they are, and the facts about them worth looking up later. | The agent; me. |
-| `home/` | The house: the chore rotation, the appliances, and how a thing is maintained. | The agent; me. |
+| `home/` | The house: the chore rotation, the appliances, how a thing is maintained, and where a thing is kept. | The agent; me. |
 | `notes/` | Reference I asked for and will come back to: how a job is done, what a filing costs, what a tool needs. | The agent; me. |
 | `trips/` | One document per trip, named by its departure date: where, when, and what had to be ready. | The agent; me. |
 
