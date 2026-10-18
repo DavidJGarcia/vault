@@ -42,8 +42,31 @@ Carryover brings it to about 155 and the hold does the same kill 160F does on co
 long enough that the patty is cooling faster than it is pasteurising; that is where the
 trade stops working.
 
+## Fish: trout and salmon
+
+Asked October 18, 2026 — "do you just cook trout the same way as salmon?" Yes on
+method, no on timing.
+
+| Fish | Pull at | Fillet thickness | Notes |
+|---|---|---|---|
+| Salmon | 125 | 1–1.5 in | fattest fish most people cook, so it forgives a minute |
+| Trout | 130 | under 1 in, often 1/2 in | lean, little collagen, dries in a minute |
+
+- **Same methods**: pan-sear, roast, grill, broil, skin down first, seasoned simply.
+  Any salmon recipe works for trout.
+- **Half the time.** Pan-sear a trout fillet about 3 minutes skin down and 1 minute
+  after the flip; oven 400F for 10–12 minutes. The same salmon fillet takes 4–5
+  minutes a side, 12–15 in the oven.
+- **Trout skin tears on grill grates** where salmon skin holds. Foil, a cedar plank,
+  or cook the trout whole.
+- FDA's safe minimum for fish is 145F, which is well past dry for either one; both
+  pull temps above are the ordinary risk people accept with good fish, and carryover
+  adds a few degrees off the heat.
+
 ## Sources
 
 - FSIS Cooking Guideline for Meat and Poultry Products (revised Appendix A, 2021)
 - FSIS, *Doneness versus Safety*
 - FSIS, *Ground Beef and Food Safety*
+- ChefsTemp, *Trout Internal Temp Guide* and *Fish and Seafood Internal Temperature*
+- Crowd Cow, *Trout* and *Salmon* cooking guides
