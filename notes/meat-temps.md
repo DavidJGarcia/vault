@@ -79,6 +79,31 @@ Two things change for trout:
 - **400F for 10–12 minutes, pull at about 130F**, against the 12–15 minutes a salmon
   fillet of the same recipe takes.
 
+### Holding at 130: in an oven there is nothing to hold
+
+Asked October 18, 2026, half an hour after the first two trout questions — "how long
+do I need to hold the trout at 130?" Nothing. **Pull at 130 and rest it two or three
+minutes off the heat**; carryover adds 3–5F and that is the whole of it. A hold time
+is a sous-vide idea — keeping the centre at a temperature long enough that time does
+the killing a hotter instant reading would do — and an oven cannot hold a half-inch
+fillet at anything.
+
+If the question underneath is whether 130 is *safe*, the real hold times at that
+temperature are long:
+
+| Target | Time at 130F |
+|---|---|
+| Salmonella, the government's own table | ~112 minutes |
+| Listeria, one-million-to-one, lean fish (Baldwin, at 131F) | 2¾ hr at 10–15 mm, 3 hr at 20 mm, 3¼ hr at 25 mm |
+
+Both are water-bath numbers, and three hours at 131F would leave a trout fillet
+pasty. Pulling at 130 is fine for *baked* trout for a different reason: whole-muscle
+fish carries bacteria on its surface, and a 400F oven takes the surface far past any
+pasteurisation point — the same logic that makes a medium-rare steak safe. The one
+thing heat at 130 does not settle is parasites (Anisakis is common in wild salmon and
+trout); freezing settles that instead, below −4F for 24 hours, which farmed and most
+retail fish has already had before it reaches the counter.
+
 ## Sources
 
 - FSIS Cooking Guideline for Meat and Poultry Products (revised Appendix A, 2021)
@@ -88,3 +113,5 @@ Two things change for trout:
 - Crowd Cow, *Trout* and *Salmon* cooking guides
 - The European Dish, *Baked Lemon Mustard Steelhead Trout*; The Mediterranean Dish,
   *Easy Baked Trout*
+- Douglas Baldwin, *A Practical Guide to Sous Vide Cooking*, Table 3.1 (lean fish
+  pasteurisation) and its note on freezing for parasites
