@@ -137,3 +137,37 @@ salmon has had that.
   *Easy Baked Trout*
 - Douglas Baldwin, *A Practical Guide to Sous Vide Cooking*, Table 3.1 (lean and fatty
   fish pasteurisation) and its note on freezing for parasites
+
+## Poultry: grilling chicken
+
+Asked October 18, 2026 — "for grilling chicken how long do I need to keep it at
+different temperatures?" The same trade as the burger above, with the poultry table.
+165F is only the *instantaneous* number; held, a lower temperature does the same kill.
+
+| Internal temp | Hold for 7-log Salmonella (poultry) |
+|---|---|
+| 165 | instant |
+| 160 | ~14 seconds |
+| 155 | ~45 seconds |
+| 150 | 2.7 minutes |
+| 145 | 8.6–9 minutes |
+| 140 | ~26 minutes |
+
+- **Breast, on a grill: pull at 155F and rest 3 minutes** under a closed lid or loose
+  foil. Carryover adds about 5F, and three minutes of rest covers a 45-second hold
+  many times over — as safe as 165F, and the meat is the whole point: a breast taken
+  to 165 has squeezed out water it cannot take back.
+- **Below 150 the trade stops working**, the same place it stops for a patty: the hold
+  needed, 9 minutes at 145F, is longer than a resting piece of chicken will stay
+  there. 150F with a 3-minute rest is the lowest honest pull.
+- **The probe goes into the thickest part, away from bone.** Bone-in pieces read
+  cooler beside the bone than the meat around it.
+- **Thighs ignore the table.** Dark meat is safe at 165 and rubbery there: it wants
+  **175–185F**, where the collagen melts to gelatin, and it takes 190 without drying
+  because of the fat. Thighs are the forgiving cut; breast is the one that needs the
+  probe.
+- The hold times are the FSIS figures for poultry at about 9% fat (RiverStone Health
+  prints the FSIS table; two copies give 145F as 8.6 and 8.7 minutes). The Baldwin
+  water-bath times run longer — 11.3 min at 145F, 3.9 at 150F — because they include
+  the climb to temperature; the numbers above are the hold itself. Thigh texture from
+  ThermoWorks and Crowd Cow.
