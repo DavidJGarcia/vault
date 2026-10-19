@@ -160,3 +160,20 @@ The records behind this document are kind `personal_fact` (see
   USB-C. Which phone he carries has never been said.
 - **A Garmin Forerunner 265S**, which is where every reply lands; he ordered a new
   band for it on October 4, 2026.
+
+## What has never been said
+
+- **His title, his team, and what he actually does** — tax, audit, consulting or
+  something else. "I work at the accounting firm Armanino" is the whole of it.
+- Whether he is a CPA.
+- How long he has been there.
+- **His age** — the one gap that changes a number: it moves the body fat estimate
+  above by about 2.3 points a decade.
+- Any measured body fact beyond height and weight — no waist, no caliper, no
+  DEXA, so nothing says how much of the weight he is losing is fat.
+- **What he is aiming at.** On October 12, 2026 he asked which of the two numbers
+  to target and was given 140 g of protein and a 1600–1700 kcal window — but those
+  are derived, and he has still never named a goal weight, a target body fat, a
+  calorie or protein number of his own, or a date. The two questions of October 7
+  (body fat, then when abs would show) and the second-pork-chop question of
+  October 4 all had to be answered against his own recent days for want of one.
