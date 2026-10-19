@@ -116,3 +116,9 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         is the same word, filed from the Pace Picante label (20 kcal, 500 mg sodium
         per 1/4 cup); medium is the one he buys. Read "paste" in front of "picante"
         or "sauce" as the brand - never tomato paste, never pasta sauce.
+        A reduced usual scales the whole recipe and does not redefine it. On October
+        19, 2026 "I had the usual breakfast but for today only reduced the quantities
+        by about a third because I shared it with my kids" was filed as two thirds of
+        each ingredient - 230 kcal, 17.2 g protein - with the recipe above left as it
+        is. "For today only" is him guarding against exactly that, so a fraction word
+        in a usual note is a portion for that morning, never a new usual.
