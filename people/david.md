@@ -101,3 +101,39 @@ The records behind this document are kind `personal_fact` (see
   tasting menu he ate on the Tuesday was at Delarosa Bishop Ranch, a walk from
   those offices. `trips/2026-09-21-san-ramon.md` could only record the purpose as
   "work, inferred"; this is what it was.
+- **Names that come up as work** — Cody (two emails owed from September 14) and
+  Earl (a follow-up owed from September 16, urgent). All three lines were ticked
+  off on October 4, 2026, within hours of the weekly pass that put them back on
+  the list. How either man relates to Armanino has not been said.
+- **A workday, the one time he clocked both ends:** in at 9:04 am, out at 4:50 pm,
+  Monday September 28, 2026 — 7h 46m. See `kinds/work_clock.md`.
+- **Also his own filing work:** a Texas LLC on SOSPortal and a DBA
+  (`notes/texas-dba-filing.md`), which is separate from the firm. The DBA to-do has
+  been open since October 4, 2026, and on October 13 he spent an afternoon on
+  retirement arithmetic whose whole hinge is a second income growing about $2,000 a
+  month a year (`notes/retirement-math.md`). The two are probably the same plan,
+  though he has never said so.
+
+## Where he is
+
+- **13813 Long Shadow Drive, Manor, Texas 78653.** Said Monday, October 19, 2026 at
+  12:49 pm, flatly and unprompted: "My address is 13813 Long Shadow Drive, 78653."
+  He gave the ZIP and not the city. Manor is in the Austin metro; timezone
+  America/Chicago.
+- **The street is in ShadowGlen, and in Travis County.** ShadowGlen is the
+  master-planned community on the north side of US 290 in Manor — golf course,
+  pool, recreation centre, a strip of shops at the entrance. Travis County is the
+  county the assumed-name filing turns on: `notes/texas-dba-filing.md` had Travis
+  assumed from "Manor", and the address confirms it. (The county and the school
+  zoning come from listings for neighbouring numbers on the same street, 13801,
+  13812 and 13816, not from his own number.)
+- **It corroborates the school run.** ShadowGlen is zoned to ShadowGlen Elementary,
+  Manor Middle and Manor High, Manor ISD — so the weekday 7 am drives below are
+  made from inside the subdivision the school is named after, which is also why the
+  district's fall break explained the gap in them.
+- **It sharpens the toll answer of the same hour.** The ShadowGlen entrance is off
+  US 290 east of SH 130, where the tolled mainlanes of the Manor Expressway end, so
+  the whole 6.2-mile tolled segment lies on the drive home from Austin: the 4
+  minutes the toll saves in free-flow and the 10–15 at rush hour are the whole of
+  what it buys him, not part of a longer trip. The exact exit is inferred from the
+  community's own description of its access, not measured.
