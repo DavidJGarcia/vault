@@ -5,11 +5,14 @@ far, or what to eat next. Born September 19, 2026 from "How many total calories 
 how much protein so far today?" Three earlier asks of the same sort sat untyped since
 September 17, so the kind was born here and those rows were re-filed under it.
 
-**Two shapes.** *The sum* - what the day stands at. *The judgment* - what to eat, how
+**Three shapes.** *The sum* - what the day stands at. *The judgment* - what to eat, how
 much of a named food fits, what a restaurant order does to the day. The judgment shape
 began October 4, 2026 ("should I have a second pork chop?") and is now most of the
 kind: 11 of the 21 rows, 10 of them since October 12. A judgment answers against the
-targets below.
+targets below. *The micronutrient read* - "am I getting the other nutrients that I
+need?", October 19, 2026 (rec_20261019T2337209765840bc474): everything past kcal and
+protein, answered for the day and for the last 7 days together, because one day of
+micronutrients is noise.
 
 props:  asked - window (the span summed, with timezone) - kcal_total -
         protein_g_total - items (list of {item, kcal, protein_g}) - source_records -
@@ -20,6 +23,9 @@ props:  asked - window (the span summed, with timezone) - kcal_total -
         day_if_eaten_protein_g - options (list of {item, kcal, protein_g, day_kcal,
         day_protein_g}) - sources - and, when a later note changes it, revises,
         clarifies, corrected_by or superseded_by.
+
+        a micronutrient read also carries: micros_today_estimated (every figure with
+        its target beside it) - short_today - adequate_today - week_pattern - fix.
 
 targets: **140 g of protein a day, and 1600-1700 kcal.** Derived October 12, 2026 from
         "Which should I be targeting to build or maintain muscle while losing fat?"
@@ -35,6 +41,14 @@ targets: **140 g of protein a day, and 1600-1700 kcal.** Derived October 12, 202
         intake to aim at; it is not a window that loses weight. Say so when he asks
         what to eat to lose.
 
+        For the micronutrients, the ordinary adult male RDAs and AIs, settled October
+        19, 2026 so the next read agrees with the first: fibre 30 g - potassium
+        3,400 mg - magnesium 400 mg - calcium 1,000 mg - vitamin A 900 mcg RAE -
+        folate 400 mcg - vitamin K1 120 mcg - vitamin D 15 mcg - vitamin C 90 mg -
+        iron 8 mg - zinc 11 mg - B12 2.4 mcg - selenium 55 mcg - sodium under
+        2,300 mg - saturated fat under 10 percent of calories. He has set none of
+        these either, so say they are the ordinary ones.
+
 enrich: sum with `records --kind meal --from ... --to ... --agg
         sum:kcal,sum:protein_g,count`, the window running from local midnight to the
         moment he asked. Name the items on the wrist, biggest first, so the total has
@@ -43,6 +57,15 @@ enrich: sum with `records --kind meal --from ... --to ... --agg
         own rows show is in the house. Say which numbers came from a label and which
         are estimates. The totals are a snapshot, not a closed day: if he asks again
         later, that is a new row, not an update to this one.
+
+        For a micronutrient read, the aggregate is no help - fat, carbs, fibre and
+        sodium are stored on only a few meal rows - so build each figure up food by
+        food from the labels already on his rows and USDA composition for the rest,
+        and say they are estimates good to about 20 percent. Then read the week with
+        `records --kind meal --from <7 days back> --search '<food OR food>' --agg
+        count`: row counts by food group find the structural gap that one day cannot.
+        Nothing in his records says he takes a multivitamin or any supplement, which
+        would change such an answer, so say that assumption on the wrist.
 
 ask:    "what did I ask and what was the answer"; how often he checks; what the day
         stood at when he checked; what he was told to eat.
@@ -58,4 +81,6 @@ notes:  he asks in the early afternoon and again late afternoon, and the late on
         said it was a serious question, so answer the question and leave the pick
         standing. Transcripts of these get clipped mid-sentence ("How much protein
         have I had to") - read the clipped tail as "today" unless something else was
-        said.
+        said. A chain can end by widening: the October 19 chain closed with "am I
+        getting the other nutrients that I need?" after three protein answers, so
+        "other" means what the chain has not covered.
