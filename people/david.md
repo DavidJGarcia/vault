@@ -76,3 +76,28 @@ The records behind this document are kind `personal_fact` (see
   ±4 points; holding lean mass constant is the optimistic case, since losing weight
   from an already-normal BMI costs some lean mass and pushes the target lower than
   the arithmetic says; and nothing moves at all while the intake is maintenance.
+- **No abdominal work is logged, and nothing at all since October 8.** Across every
+  `exercise_set` row — leg press, leg curl, leg extension, calf raise, chest press,
+  incline press, pec deck fly, lateral raise, lat pulldown, front pulldown, row,
+  rear delts, biceps curl, tricep extension — nothing trains the abs directly.
+  Definition is ab muscle thickness as much as fat cover, so direct ab work would
+  raise the body fat percentage at which they show and lower the weight he would
+  need to reach. The four sessions of October 5–8 were followed by eight days with
+  no set spoken, October 9–16, which is also Manor ISD's fall break (October 12–16).
+  Where he stands on each machine is `notes/gym.md`.
+
+## Work
+
+- **He works at Armanino, an accounting firm.** Said Monday, October 5, 2026 at
+  9:09 am — the first time an employer has been named in any capture.
+- **Armanino** is a top-20 US accounting, tax and consulting firm. Headquarters:
+  2700 Camino Ramon, Suite 350, San Ramon, California, inside the Bishop Ranch
+  office park. About twenty offices nationwide.
+- **The nearest office is Austin** — 515 Congress Ave, Suite 1025, opened August
+  2021, about twenty miles from Manor. Whether he works there, works remotely, or
+  both has never been said.
+- **The San Ramon trip of September 21–24, 2026 was a trip to headquarters.** That
+  is an inference, but a firm one: the HQ is in Bishop Ranch, and the corporate
+  tasting menu he ate on the Tuesday was at Delarosa Bishop Ranch, a walk from
+  those offices. `trips/2026-09-21-san-ramon.md` could only record the purpose as
+  "work, inferred"; this is what it was.
