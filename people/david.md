@@ -137,3 +137,26 @@ The records behind this document are kind `personal_fact` (see
   minutes the toll saves in free-flow and the 10–15 at rush hour are the whole of
   what it buys him, not part of a longer trip. The exact exit is inferred from the
   community's own description of its access, not measured.
+- **A weekday-morning drive he times, left fork against right.** Eight runs between
+  September 15 and October 8, 2026, always just after 7 am, always said as "we",
+  always only the direction and the time. He has never said where it goes; the
+  reading is the school run to ShadowGlen Elementary, whose 7:15 am tardy bell he
+  asked about on October 8, four minutes after that morning run. Nothing has been
+  timed since, and the calendar explains that rather than a change of habit: Manor
+  ISD's first nine weeks ended Friday October 9 and fall break ran October 12–16,
+  so there was no school run to time. School is back Monday October 19. See
+  `kinds/route_time.md`.
+
+## Gear
+
+- **He charges with his own cables, Lightning and USB-C.** Said Wednesday,
+  October 7, 2026 at 10:41 am, seven seconds after rejecting three magnetic power
+  banks that had cables moulded in: "I do not like the built-in cables. Try
+  again." / "I just want it to be able to charge via those." So "charges with
+  both Lightning and USB-C", his words that morning, means **ports**, not built-in
+  cables: a USB-C port, and a USB-A port for an older Lightning cable. A USB-C-only
+  pack still works, but only with a USB-C-to-Lightning cable.
+- **A Lightning phone puts him on an iPhone 14 or older** — the 15 onward is
+  USB-C. Which phone he carries has never been said.
+- **A Garmin Forerunner 265S**, which is where every reply lands; he ordered a new
+  band for it on October 4, 2026.
