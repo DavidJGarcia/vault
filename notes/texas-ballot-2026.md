@@ -28,3 +28,27 @@ Ran unopposed in the March 3, 2026 Republican primary.
 in Austin, elected to it in 2024. Practiced representing individuals before
 taking the bench; board certified in juvenile law. Beat Cory Carlyle in the
 March 3, 2026 Democratic primary.
+
+## Where and when to vote
+
+Asked October 19, 2026: "where do I go for early voting and when is it open?"
+
+**Early voting: Monday October 19 through Friday October 30, 2026.** Every
+Travis County early voting site is open 7 a.m. to 7 p.m. every day of that
+window, weekends included (Saturday October 24 and Sunday October 25). Seven
+sites stay open until 10 p.m. on the last two days, October 29 and 30 — Ben Hur
+Shrine Center, Lakeway Activity Center, Millennium Youth Entertainment Complex,
+PfISD Rock Gym, Randalls Brodie, the Travis County Clerk's office and the UT
+Texas Union. The Manor site is not one of them.
+
+**Nearest site: Manor ISD Administration Building**, Technology Room, 10335
+Highway 290, Manor 78653.
+
+During early voting any registered Travis County voter may vote at any early
+voting site in the county, so the Manor building is the convenient choice rather
+than the required one.
+
+**Election day is Tuesday November 3, 2026**, polls 7 a.m. to 7 p.m. Anyone in
+line when the polls close may still vote.
+
+The current list of sites and wait times is at votetravis.gov.
