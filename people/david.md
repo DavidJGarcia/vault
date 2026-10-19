@@ -28,15 +28,3 @@ The records behind this document are kind `personal_fact` (see
   The 1.6 lb a week quoted on October 6 came from a nine-day fit inside that drop
   and was withdrawn by the weekly pass of October 10; over all eighteen morning days
   the fit now reads about −0.2 lb a week, which is nothing.
-- **About 1,700 kcal a day is his maintenance as logged — and so the 1600–1700
-  target is not a deficit.** Corrected by the weekly pass of Saturday, October 17,
-  2026, which replaces the 1,865 figure that stood here before. Three weeks of meal
-  rows: 11,275 kcal (1,611 a day, 75 g of protein), 13,053 (1,865 a day, 109 g),
-  11,680 (1,669 a day, 121 g) — 36,008 kcal over 21 days, **1,715 a day** — and the
-  morning average did not move in any of them. 1,865 was one high week read on its
-  own. Two cautions: a week is too short to tell 1,611 from 1,865 apart, because the
-  0.4 lb a week that difference predicts is smaller than the scale own spread
-  (139.4 to 143.6 inside a fortnight); and the rows only hold what he speaks, so
-  real intake is this or higher. Either way, eating to the 1600–1700 window has not
-  moved the weight in three weeks, so it is maintenance, not a cut. A real deficit
-  is nearer 1,400–1,500 a day, with the protein floor held to protect muscle.
