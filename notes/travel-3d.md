@@ -58,3 +58,37 @@ rests on that.
 The clusters are the gaps in the start times, not round numbers: seven runs start between
 07:05:51 and 07:08:03, then a gap of 1m 49s to Oct 20 alone at 07:09:52, then a gap of
 1m 53s to the two late ones, 07:11:45 and 07:12:48.
+
+## What the graph shows
+
+**Start time is the strongest thing in it.** The early cluster averages 5:48, Oct 20 alone
+is 5:22, and the two late starts average 9:52. Four extra minutes of drive for four extra
+minutes in the house. As a correlation across all ten it is r = 0.68, which sounds firmer
+than it is: drop Oct 19 and it falls to r = 0.34, so two mornings are carrying most of it.
+Two more late starts would settle it either way.
+
+**And it changes the answer to which way is faster.** On the raw averages right leads, 6:00
+over five runs against 7:08 for left. But both late starts were left turns, and both were
+Mondays. Hold the start time still and it reverses:
+
+| | left | right |
+|---|---|---|
+| early starts, before 07:09 | **5:19** over 3 | 6:09 over 4 |
+| late starts | 9:52 over 2 | never |
+| all runs | 7:08 over 5 | 6:00 over 5 |
+
+Left owns the fastest run on record (4:00, Oct 7) and both of the slowest (8:44 and 11:00).
+Right has never been worse than 7:22 and never better than 5:20: it is the steadier way,
+and on the evidence here it is not the faster one. The `vs_other_direction` note on each
+`route_time` record compares raw averages and so says the opposite; this is the same data
+with the late mornings separated out.
+
+**Day of week is mostly those same two mornings again.** Monday averages 8:21 over three,
+Tuesday 5:51 over four, Wednesday 4:00 over one, Thursday 6:38 over two. But two of the
+three Mondays are the two late starts, and the third Monday, Sep 28 started at 07:08, was
+5:20, the second-fastest run on record. So Monday is not slow; leaving at 07:12 on a Monday
+is. Nothing has ever been timed on a Friday.
+
+**What would settle it:** a left run and a right run started inside the same minute, and a
+late-start right turn. Right has never once started after 07:09:52, so the two directions
+have never been compared on equal footing.
