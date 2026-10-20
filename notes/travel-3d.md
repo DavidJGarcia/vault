@@ -232,3 +232,89 @@ Save everything between the fences as `travel-3d.html`.
       .forEach(function (name) { t[name] = css.getPropertyValue("--" + name).trim(); });
     return t;
   }
+
+  function traces(t) {
+    var out = [], stems = document.getElementById("stems").checked;
+
+    DIRS.forEach(function (d) {
+      var pts = RUNS.filter(function (r) { return r.dir === d.key; });
+      var colour = t[d.key];
+
+      if (stems) {                      // depth is guesswork in a 3D scatter; these fix it
+        var sx = [], sy = [], sz = [];
+        pts.forEach(function (r) {
+          sx.push(r.startMin, r.startMin, null);
+          sy.push(r.day, r.day, null);
+          sz.push(FLOOR, r.dur, null);
+        });
+        out.push({
+          type: "scatter3d", mode: "lines", x: sx, y: sy, z: sz,
+          line: { color: colour, width: 2 }, opacity: 0.35,
+          showlegend: false, hoverinfo: "skip"
+        });
+      }
+
+      out.push({
+        type: "scatter3d", mode: "markers", name: d.label,
+        x: pts.map(function (r) { return r.startMin; }),
+        y: pts.map(function (r) { return r.day; }),
+        z: pts.map(function (r) { return r.dur; }),
+        marker: {
+          size: 9, symbol: d.symbol, color: colour,
+          line: { color: t["surface-1"], width: 2 }
+        },
+        customdata: pts.map(function (r) {
+          return [mmss(r.dur), r.dayName + " " + r.date.slice(5), r.started, d.label, r.cluster];
+        }),
+        hovertemplate:
+          "<b>%{customdata[0]}</b> going %{customdata[3]}<br>" +
+          "%{customdata[1]}, started %{customdata[2]}<br>" +
+          '<span style="opacity:.65">%{customdata[4]} start</span>' +
+          "<extra></extra>"
+      });
+    });
+    return out;
+  }
+
+  function layout(t) {
+    var axis = {
+      showbackground: true, backgroundcolor: t.pane,
+      gridcolor: t.grid, zerolinecolor: t.grid, showspikes: false,
+      tickfont: { color: t["text-2"], size: 11 }
+    };
+    function titled(text) { return { text: text, font: { color: t["text-1"], size: 12 } }; }
+
+    return {
+      paper_bgcolor: t["surface-1"],
+      font: { color: t["text-2"], size: 13 },
+      margin: { l: 0, r: 0, t: 8, b: 0 },
+      showlegend: true,
+      legend: {
+        orientation: "h", x: 0, y: 1.02, xanchor: "left", yanchor: "bottom",
+        bgcolor: "rgba(0,0,0,0)", font: { color: t["text-1"] }
+      },
+      hoverlabel: {
+        bgcolor: t["surface-2"], bordercolor: t.grid,
+        font: { color: t["text-1"], size: 13 }
+      },
+      scene: {
+        aspectmode: "cube",
+        camera: { eye: HOME },
+        xaxis: Object.assign({}, axis, {
+          title: titled("x - start time"), range: [5, 14],
+          tickvals: [6, 8, 10, 12, 14],
+          ticktext: ["07:06", "07:08", "07:10", "07:12", "07:14"]
+        }),
+        yaxis: Object.assign({}, axis, {
+          title: titled("z - day of week"), range: [0.4, 5.6],
+          tickvals: [1, 2, 3, 4, 5],
+          ticktext: ["Mon", "Tue", "Wed", "Thu", "Fri"]
+        }),
+        zaxis: Object.assign({}, axis, {
+          title: titled("y - drive length"), range: [FLOOR, 700],
+          tickvals: [240, 300, 360, 420, 480, 540, 600, 660],
+          ticktext: ["4:00", "5:00", "6:00", "7:00", "8:00", "9:00", "10:00", "11:00"]
+        })
+      }
+    };
+  }
