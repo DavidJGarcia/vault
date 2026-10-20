@@ -132,3 +132,17 @@ bread, Hershey's syrup, Huggies size 5 diapers. Incl $6.55 driver tip.`
 The view names what was memo'd — the charge, its amount and date, the order it
 came from — and since the memo is the whole change, undoing one is clearing that
 memo in YNAB.
+
+**October 19, 2026 — "David's clothing" is a category, not a person to work out.**
+"No I'm David. David's Clothing is one of the categories in my app." — said after
+a $17.32 LDS Distribution Online Store charge, spoken as David's clothing, was
+filed to Clothing - Kids because a bare "David" was read as his son David
+William.
+
+When a money note names something that is one of his YNAB categories, that is the
+category, and there is nobody to infer: "David's clothing" is **Clothing - Daddy
+David**, "Emily's clothing" is Clothing - Emily, the kids' clothing is Clothing -
+Kids. Match what he said against his category list (`categories`) before reading
+a name as a person; only when nothing on that list fits does the question of who
+a purchase was for arise. He has used the phrase before — "Track $184 at Men's
+Warehouse as David's clothing", September 12, 2026.
