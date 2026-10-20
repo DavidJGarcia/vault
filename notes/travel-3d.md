@@ -318,3 +318,72 @@ Save everything between the fences as `travel-3d.html`.
       }
     };
   }
+
+  function draw() {
+    var t = theme();
+    Plotly.react(plot, traces(t), layout(t), {
+      responsive: true, displaylogo: false, scrollZoom: true,
+      modeBarButtonsToRemove: ["toImage"]
+    });
+  }
+
+  function table() {
+    var body = document.querySelector("#tbl tbody");
+    RUNS.forEach(function (r) {
+      var tr = document.createElement("tr");
+      [r.date, r.dayName, r.started, mmss(r.dur), r.dir, r.cluster].forEach(function (v, i) {
+        var td = document.createElement("td");
+        if (i === 3) { td.className = "num"; }
+        if (i === 4) {                        // identity is never colour alone: key, then word
+          var k = document.createElement("span");
+          k.className = "key " + r.dir;
+          k.style.background = "var(--" + r.dir + ")";
+          td.appendChild(k);
+          td.appendChild(document.createTextNode(r.dir === "left" ? "Left" : "Right"));
+        } else {
+          td.textContent = v;
+        }
+        tr.appendChild(td);
+      });
+      body.appendChild(tr);
+    });
+  }
+
+  document.getElementById("stems").addEventListener("change", draw);
+
+  document.getElementById("reset").addEventListener("click", function () {
+    Plotly.relayout(plot, { "scene.camera.eye": HOME });
+  });
+
+  document.getElementById("theme").addEventListener("click", function () {
+    var dark = theme()["text-1"] === "#ffffff";
+    document.documentElement.setAttribute("data-theme", dark ? "light" : "dark");
+    draw();
+  });
+
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function () {
+    if (!document.documentElement.hasAttribute("data-theme")) { draw(); }
+  });
+
+  table();
+  draw();
+})();
+</script>
+</body>
+</html>
+```
+
+## Notes on how it was drawn
+
+- Two categorical colours, slots 1 and 2 of the documented palette: blue `#2a78d6` and
+  orange `#eb6834`, re-stepped to `#3987e5` and `#d95926` for the dark surface. That is the
+  pair that clears the colour-blindness floors on all pairs in both modes. Direction is
+  carried by the marker shape too - circle and diamond - so it never rests on colour alone,
+  and the legend and the table name it in words.
+- A 3D scatter hides depth: how far back a point sits is guesswork from a still image. The
+  drop lines are the fix, and the table is there for every value the rotation makes hard to
+  read.
+- The palette validator could not be run from the job that built this, because its shell
+  runs only the relay client. The colours are the documented pair rather than a fresh
+  validation, and the graph has not been opened in a browser from here either - say so if
+  anything in it is off.
