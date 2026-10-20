@@ -92,3 +92,79 @@ is. Nothing has ever been timed on a Friday.
 **What would settle it:** a left run and a right run started inside the same minute, and a
 late-start right turn. Right has never once started after 07:09:52, so the two directions
 have never been compared on equal footing.
+
+## The file
+
+Save everything between the fences as `travel-3d.html`.
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Travel time splits, in 3D</title>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
+<style>
+  :root { color-scheme: light dark; }
+  .viz-root {
+    --surface-1: #fcfcfb;
+    --surface-2: #f3f3f1;
+    --pane:      #f7f7f5;
+    --grid:      #d9d9d4;
+    --text-1:    #0b0b0b;
+    --text-2:    #52514e;
+    --left:      #2a78d6;
+    --right:     #eb6834;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      --surface-1: #1a1a19;
+      --surface-2: #22272f;
+      --pane:      #202020;
+      --grid:      #3a3a38;
+      --text-1:    #ffffff;
+      --text-2:    #c3c2b7;
+      --left:      #3987e5;
+      --right:     #d95926;
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    --surface-1: #1a1a19;
+    --surface-2: #22272f;
+    --pane:      #202020;
+    --grid:      #3a3a38;
+    --text-1:    #ffffff;
+    --text-2:    #c3c2b7;
+    --left:      #3987e5;
+    --right:     #d95926;
+  }
+  html, body { margin: 0; }
+  body {
+    font: 15px/1.5 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--surface-1);
+    color: var(--text-1);
+  }
+  .viz-root { max-width: 60rem; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; background: var(--surface-1); }
+  h1 { font-size: 1.35rem; margin: 0 0 .25rem; letter-spacing: -.01em; }
+  p.sub { margin: 0 0 1.25rem; color: var(--text-2); font-size: .9rem; max-width: 46rem; }
+  .controls { display: flex; flex-wrap: wrap; gap: .9rem; align-items: center; margin: 0 0 .75rem; font-size: .85rem; }
+  .controls button, .controls label {
+    font: inherit; color: var(--text-2); background: var(--surface-2);
+    border: 1px solid var(--grid); border-radius: 5px; padding: .3rem .6rem; cursor: pointer;
+  }
+  .controls label { display: inline-flex; align-items: center; gap: .4rem; }
+  .controls button:hover, .controls label:hover { color: var(--text-1); }
+  .controls input { accent-color: var(--left); margin: 0; }
+  #plot { width: 100%; height: 34rem; }
+  h2 { font-size: 1rem; margin: 2rem 0 .5rem; }
+  table { border-collapse: collapse; width: 100%; font-size: .85rem; }
+  th, td { text-align: left; padding: .35rem .6rem; border-bottom: 1px solid var(--grid); }
+  th { color: var(--text-2); font-weight: 600; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .key { display: inline-block; width: .6rem; height: .6rem; border-radius: 50%; margin-right: .45rem; }
+  .key.right { border-radius: 1px; transform: rotate(45deg); }
+  tfoot td { color: var(--text-2); border-bottom: 0; padding-top: .7rem; }
+  noscript { color: var(--text-2); }
+</style>
+</head>
