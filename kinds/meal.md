@@ -122,3 +122,16 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         each ingredient - 230 kcal, 17.2 g protein - with the recipe above left as it
         is. "For today only" is him guarding against exactly that, so a fraction word
         in a usual note is a portion for that morning, never a new usual.
+        A weight he gives for a jarred sauce can be the weight of a blend he made,
+        not of the sauce alone. On October 20, 2026 "140 g of tiki masala sauce with
+        black beans" was filed as 140 g of sauce with about 120 g of beans beside it,
+        268 kcal; three minutes later "The Tiki Matolos sauce (140 g) was inclusive of
+        the black beans, which have been blended into it" cut it to 140 kcal and 4.5 g
+        protein. His batch: one 15 oz can of black beans, drained, blended into one to
+        one and a half 15 oz jars of Patak's Tikka Masala simmer sauce - so the blend is
+        about two thirds sauce, 100 kcal per 100 g, and 140 g of it is 140 kcal. The
+        ratio he is unsure of hardly matters: one jar and a jar and a half differ by
+        3 kcal in a 140 g serving. The October 15, 2026 row, 190 g of sauce over rice
+        and chicken, was sauce alone and stands. When he names a sauce by weight and a
+        second food with it, the weight may cover both; a blended sauce is his, not the
+        jar's.
