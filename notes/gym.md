@@ -4,25 +4,37 @@ Written by the weekly pass of Saturday, October 10, 2026, from all 59 `exercise_
 rows (September 14 to October 8). He asked where he stood **three times at the machine
 in four days** — incline press on October 7, calf extensions on October 6, the row on
 October 8 — and each answer took a scan of every row. This is that scan, written down.
+The **Legs** section was rewritten on Tuesday, October 20, 2026, when he closed a legs
+session with "now I'm done for today"; Pull and Push are still as of October 8.
 
 **It is a snapshot, not the truth.** The rows are the truth. Anything said at a machine
-after October 8, 2026 is not here: check
+after October 20, 2026 (legs) or October 8, 2026 (pull, push) is not here: check
 `records --kind exercise_set --prop 'exercise=<name>'` for the movement, and
 `kinds/exercise_set.md` for how a row is read.
 
 Weights are pounds and the whole pin stack unless the line says per side.
 
-## Legs — last trained Tuesday, October 6, 2026
+## Legs — last trained Tuesday, October 20, 2026
 
-- **Leg press — 240.** Three sets: 8, 8, then 5 at 240 and 3 at 200. Up 20 lb from
-  September 15 (15 at 200, then 10 at 220 twice).
-- **Leg curl, seated — 100 top, 90 working.** 6 at 100, 8 at 90, 6.5 at 90. First
-  session on file; it faded at the same weight, which is what his last set looks like.
-- **Leg extension — 130.** 14 at 110, then 10 at 130 twice. September 15 was 150 with
-  no rep count, so this is the first leg extension with counted reps.
-- **Calf raise — 150.** 15, 12, 12. Up 10 lb from September 15 (15 at 140 three times).
-  He asked at 06:27 that morning what he was at, was told 140, and loaded 150 six
-  minutes later. He calls this machine "calf extensions".
+Nine sets in 21 minutes, 06:23 to 06:44, four movements, 104 reps and 13,790 lb. Against
+October 6 (11 sets, 117.5 reps, 17,535 lb) the loads were lighter and the reps higher —
+he asked where he stood twice mid-session, on the leg press and the calf, and started
+each under the answer.
+
+- **Leg press — 220 last, 240 is the top.** October 20: 12 at 180, then 8 at 220. He was
+  told 240 seventeen seconds before the opener and started 60 lb under it. October 6 was
+  8, 8, then 5 at 240 and 3 at 200; September 15 was 15 at 200, then 10 at 220 twice.
+- **Leg curl, seated — 90 working, 100 the top.** October 20: 7 at 90, then a drop set
+  3 at 80 / 4 at 70, then 10 at 60 to finish — 24 reps on a descending ladder. October 6
+  was 6 at 100, 8 at 90, 6.5 at 90. More reps now, every set lighter.
+- **Leg extension — 130.** October 20: 16 at 120, then 12 at 130 — two reps over his
+  best set at 130 and his most reps at 120. October 6 was 14 at 110, then 10 at 130
+  twice. September 15 was 150 with no rep count, so the weight has been higher once but
+  cannot be compared.
+- **Calf raise — 150.** October 20: 16 at 140, then 16 at 150, his best calf set on file
+  by a rep. October 6 was 15, 12, 12 all at 150; September 15 was 15 at 140 three times.
+  He calls this machine "calf extensions", and he goes up when told where he is — twice
+  now, October 6 and October 20.
 
 ## Pull — last trained Thursday, October 8, 2026
 
@@ -55,13 +67,12 @@ Weights are pounds and the whole pin stack unless the line says per side.
 
 ## What is not here
 
-- **Nothing trains the abs.** No abdominal movement appears in any of the 59 rows. He
-  asked on October 7, 2026 what it would take to see definition; ab thickness is half
-  of that, and no set on file works it.
+- **Nothing trains the abs.** No abdominal movement appears in any row, including the
+  October 20 legs session. He asked on October 7, 2026 what it would take to see
+  definition; ab thickness is half of that, and no set on file works it.
 - **Eight of the fourteen movements were logged for the first time between October 5
-  and 8**, so most lines above have no earlier session behind them. Four have a real
-  comparison, and all four went up: chest press +40, leg press +20, lat pulldown +10,
-  calf raise +10.
+  and 8**, so most pull and push lines above have no earlier session behind them. All
+  four legs movements now have at least two sessions to compare.
 - Sessions: September 14, 15, 16, then nothing for eighteen days, then October 5, 6, 7
-  and 8 — four mornings running. Mornings 06:05–06:48, except September 16, which was
-  an evening.
+  and 8 — four mornings running — then nothing for eleven days until October 20, a legs
+  morning. Mornings 06:05–06:48, except September 16, which was an evening.
