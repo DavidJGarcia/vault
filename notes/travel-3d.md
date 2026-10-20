@@ -168,3 +168,67 @@ Save everything between the fences as `travel-3d.html`.
   noscript { color: var(--text-2); }
 </style>
 </head>
+<body>
+<div class="viz-root">
+  <h1>Travel time splits</h1>
+  <p class="sub">Ten timed runs, Sep 15 to Oct 20 2026. Vertical is the drive, across is
+  when it started, into the screen is the day of the week, colour is the way taken at the
+  fork. Start times are derived: the moment reported, minus the drive.</p>
+
+  <div class="controls">
+    <label><input type="checkbox" id="stems" checked> Drop lines</label>
+    <button id="reset" type="button">Reset view</button>
+    <button id="theme" type="button">Dark / light</button>
+  </div>
+
+  <div id="plot" role="img" aria-label="Three-dimensional scatter of ten timed drives: drive length against start time and day of the week, coloured by direction. Every value is in the table below."></div>
+  <noscript>This graph needs JavaScript. The table below holds every value in it.</noscript>
+
+  <h2>The ten runs</h2>
+  <table id="tbl">
+    <thead><tr><th>Date</th><th>Day</th><th>Started</th><th class="num">Drive</th><th>Way</th><th>Start cluster</th></tr></thead>
+    <tbody></tbody>
+    <tfoot><tr><td colspan="6">Early starts average 5:48; Oct 20 alone 5:22; the two late
+    starts 9:52. Before 07:09, left averages 5:19 against 6:09 for right.</td></tr></tfoot>
+  </table>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  // Started is the reported moment minus the duration; see travel-3d.md. startMin is
+  // minutes past 07:00, day is 1 for Monday.
+  var RUNS = [
+    { date: "2026-09-15", dayName: "Tue", day: 2, dir: "left",  dur: 345, startMin:  6.533, started: "07:06:32", cluster: "early"  },
+    { date: "2026-09-28", dayName: "Mon", day: 1, dir: "right", dur: 320, startMin:  8.050, started: "07:08:03", cluster: "early"  },
+    { date: "2026-09-29", dayName: "Tue", day: 2, dir: "left",  dur: 373, startMin:  6.533, started: "07:06:32", cluster: "early"  },
+    { date: "2026-10-01", dayName: "Thu", day: 4, dir: "right", dur: 442, startMin:  5.850, started: "07:05:51", cluster: "early"  },
+    { date: "2026-10-05", dayName: "Mon", day: 1, dir: "left",  dur: 524, startMin: 11.750, started: "07:11:45", cluster: "late"   },
+    { date: "2026-10-06", dayName: "Tue", day: 2, dir: "right", dur: 362, startMin:  7.933, started: "07:07:56", cluster: "early"  },
+    { date: "2026-10-07", dayName: "Wed", day: 3, dir: "left",  dur: 240, startMin:  7.750, started: "07:07:45", cluster: "early"  },
+    { date: "2026-10-08", dayName: "Thu", day: 4, dir: "right", dur: 353, startMin:  6.633, started: "07:06:38", cluster: "early"  },
+    { date: "2026-10-19", dayName: "Mon", day: 1, dir: "left",  dur: 660, startMin: 12.800, started: "07:12:48", cluster: "late"   },
+    { date: "2026-10-20", dayName: "Tue", day: 2, dir: "right", dur: 322, startMin:  9.867, started: "07:09:52", cluster: "middle" }
+  ];
+
+  var DIRS = [
+    { key: "left",  label: "Left",  symbol: "circle"  },
+    { key: "right", label: "Right", symbol: "diamond" }
+  ];
+
+  var FLOOR = 180;                  // 3:00, below the fastest run, so the stems are visible
+  var HOME  = { x: 1.75, y: -1.55, z: 0.75 };
+  var plot  = document.getElementById("plot");
+  var root  = document.querySelector(".viz-root");
+
+  function mmss(s) {
+    return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+  }
+
+  function theme() {
+    var css = getComputedStyle(root), t = {};
+    ["surface-1", "surface-2", "pane", "grid", "text-1", "text-2", "left", "right"]
+      .forEach(function (name) { t[name] = css.getPropertyValue("--" + name).trim(); });
+    return t;
+  }
