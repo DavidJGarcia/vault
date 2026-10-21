@@ -131,3 +131,36 @@ The records behind this document are kind `personal_fact` (see
   though he has never said so. Born 1983, that arithmetic now has real years
   attached: Social Security full retirement age 67 in December 2050, the age-70
   claim in December 2053.
+
+## Where he is
+
+- **13813 Long Shadow Drive, Manor, Texas 78653.** Said Monday, October 19, 2026 at
+  12:49 pm, flatly and unprompted: "My address is 13813 Long Shadow Drive, 78653."
+  He gave the ZIP and not the city. Manor is in the Austin metro; timezone
+  America/Chicago.
+- **The street is in ShadowGlen, and in Travis County.** ShadowGlen is the
+  master-planned community on the north side of US 290 in Manor — golf course,
+  pool, recreation centre, a strip of shops at the entrance. Travis County is the
+  county the assumed-name filing turns on: `notes/texas-dba-filing.md` had Travis
+  assumed from "Manor", and the address confirms it. (The county and the school
+  zoning come from listings for neighbouring numbers on the same street, 13801,
+  13812 and 13816, not from his own number.)
+- **It corroborates the school run.** ShadowGlen is zoned to ShadowGlen Elementary,
+  Manor Middle and Manor High, Manor ISD — so the weekday 7 am drives below are
+  made from inside the subdivision the school is named after, which is also why the
+  district fall break explained the gap in them.
+- **It sharpens the toll answer of the same hour.** The ShadowGlen entrance is off
+  US 290 east of SH 130, where the tolled mainlanes of the Manor Expressway end, so
+  the whole 6.2-mile tolled segment lies on the drive home from Austin: the 4
+  minutes the toll saves in free-flow and the 10–15 at rush hour are the whole of
+  what it buys him, not part of a longer trip. The exact exit is inferred from the
+  community description of its access, not measured.
+- **A weekday-morning drive he times, left fork against right.** Eight runs between
+  September 15 and October 8, 2026, always just after 7 am, always said as "we",
+  always only the direction and the time. He has never said where it goes; the
+  reading is the school run to ShadowGlen Elementary, whose 7:15 am tardy bell he
+  asked about on October 8, four minutes after that morning run. Nothing has been
+  timed since, and the calendar explains that rather than a change of habit: Manor
+  ISD first nine weeks ended Friday October 9 and fall break ran October 12–16,
+  so there was no school run to time. School is back Monday October 19. See
+  `kinds/route_time.md`.
