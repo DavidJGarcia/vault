@@ -207,3 +207,22 @@ Same assumptions and method throughout: real returns, 7.0% arithmetic mean, 17%
 SD, 5.6% median compounding, draws at the start of each year, no taxes or fees,
 spend and supplement both in today's dollars. Thresholds solved backwards
 through the ladder; the historical ones run the actual opening sequences by hand.
+
+## The years these numbers sit in
+
+Added October 21, 2026, when he said his birthday: born December 10, 1983, so he
+is 42. Everything above was asked and answered in the abstract; this is where it
+lands on a calendar.
+
+- **Social Security full retirement age 67** — anyone born 1960 or later — reached
+  **December 2050**. The age-70 claim that the $5,181/mo above assumes is
+  **December 2053**, 27 years out.
+- Earliest claim, age 62, is December 2045.
+- So the 2026 dollar figures in the Social Security section are 24–27 years away
+  and stated in today's dollars; the taxable maximum, the COLA and the benefit
+  formula will all have moved many times by then. The ratios hold — spousal at 50%
+  of his FRA amount, no delayed credits on hers — the dollars do not.
+- The portfolio sections are horizon-free, but worth reading against the same
+  clock: a seven-year bridge begun at 60 ends at 67, exactly where the Social
+  Security income starts, which is the one combination the sections above never
+  put together.
