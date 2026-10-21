@@ -7,3 +7,4 @@
 - 2026-11-03 · Election day, Texas general election
 - 01-01 · David William's birthday (born 2012)
 - 2026-11-05 · Dragonsteel Games / BackerKit charge expected, $350-400, goes under Allowance - David (date and amount both approximate)
+- 12-10 · David's birthday (born 1983)
