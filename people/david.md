@@ -164,3 +164,34 @@ The records behind this document are kind `personal_fact` (see
   ISD first nine weeks ended Friday October 9 and fall break ran October 12–16,
   so there was no school run to time. School is back Monday October 19. See
   `kinds/route_time.md`.
+
+## Gear
+
+- **He charges with his own cables, Lightning and USB-C.** Said Wednesday,
+  October 7, 2026 at 10:41 am, seven seconds after rejecting three magnetic power
+  banks that had cables moulded in: "I do not like the built-in cables. Try
+  again." / "I just want it to be able to charge via those." So "charges with
+  both Lightning and USB-C", his words that morning, means **ports**, not built-in
+  cables: a USB-C port, and a USB-A port for an older Lightning cable. A USB-C-only
+  pack still works, but only with a USB-C-to-Lightning cable.
+- **A Lightning phone puts him on an iPhone 14 or older** — the 15 onward is
+  USB-C. Which phone he carries has never been said.
+- **A Garmin Forerunner 265S**, which is where every reply lands; he ordered a new
+  band for it on October 4, 2026.
+
+## What has never been said
+
+- **His title, his team, and what he actually does** — tax, audit, consulting or
+  something else. "I work at the accounting firm Armanino" is the whole of it.
+- Whether he is a CPA.
+- How long he has been there.
+- Any measured body fact beyond height and weight — no waist, no caliper, no
+  DEXA, so nothing says how much of the weight he is losing is fat. With his age
+  known since October 21, 2026, this is the only thing left that would sharpen the
+  body fat estimate.
+- **What he is aiming at.** On October 12, 2026 he asked which of the two numbers
+  to target and was given 140 g of protein and a 1600–1700 kcal window — but those
+  are derived, and he has still never named a goal weight, a target body fat, a
+  calorie or protein number of his own, or a date. The two questions of October 7
+  (body fat, then when abs would show) and the second-pork-chop question of
+  October 4 all had to be answered against his own recent days for want of one.
