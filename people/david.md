@@ -101,3 +101,33 @@ The records behind this document are kind `personal_fact` (see
   need to reach. The four sessions of October 5–8 were followed by eight days with
   no set spoken, October 9–16, which is also Manor ISD fall break (October 12–16).
   Where he stands on each machine is `notes/gym.md`.
+
+## Work
+
+- **He works at Armanino, an accounting firm.** Said Monday, October 5, 2026 at
+  9:09 am — the first time an employer has been named in any capture.
+- **Armanino** is a top-20 US accounting, tax and consulting firm. Headquarters:
+  2700 Camino Ramon, Suite 350, San Ramon, California, inside the Bishop Ranch
+  office park. About twenty offices nationwide.
+- **The nearest office is Austin** — 515 Congress Ave, Suite 1025, opened August
+  2021, about twenty miles from Manor. Whether he works there, works remotely, or
+  both has never been said.
+- **The San Ramon trip of September 21–24, 2026 was a trip to headquarters.** That
+  is an inference, but a firm one: the HQ is in Bishop Ranch, and the corporate
+  tasting menu he ate on the Tuesday was at Delarosa Bishop Ranch, a walk from
+  those offices. `trips/2026-09-21-san-ramon.md` could only record the purpose as
+  "work, inferred"; this is what it was.
+- **Names that come up as work** — Cody (two emails owed from September 14) and
+  Earl (a follow-up owed from September 16, urgent). All three lines were ticked
+  off on October 4, 2026, within hours of the weekly pass that put them back on
+  the list. How either man relates to Armanino has not been said.
+- **A workday, the one time he clocked both ends:** in at 9:04 am, out at 4:50 pm,
+  Monday September 28, 2026 — 7h 46m. See `kinds/work_clock.md`.
+- **Also his own filing work:** a Texas LLC on SOSPortal and a DBA
+  (`notes/texas-dba-filing.md`), which is separate from the firm. The DBA to-do has
+  been open since October 4, 2026, and on October 13 he spent an afternoon on
+  retirement arithmetic whose whole hinge is a second income growing about $2,000 a
+  month a year (`notes/retirement-math.md`). The two are probably the same plan,
+  though he has never said so. Born 1983, that arithmetic now has real years
+  attached: Social Security full retirement age 67 in December 2050, the age-70
+  claim in December 2053.
