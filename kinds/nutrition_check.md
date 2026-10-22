@@ -84,3 +84,14 @@ notes:  he asks in the early afternoon and again late afternoon, and the late on
         said. A chain can end by widening: the October 19 chain closed with "am I
         getting the other nutrients that I need?" after three protein answers, so
         "other" means what the chain has not covered.
+        A second micronutrient read, October 22, 2026: "What about the rest of my
+        nutrition?", one minute after a sum answer that gave only kcal and protein.
+        "The rest" is the same question as "the other nutrients" of October 19, so it
+        takes the micronutrient shape - for the day and then against the last 7 days.
+        Count the week with `items:` searches (`--search 'items:spinach OR
+        items:broccoli'`), never a bare word search: a bare one gave 10 greens rows
+        and 9 fish rows where the items held 0 and 4, because those words appear in
+        the `basis` and `assumed` text of neighbouring rows. Settled that day from the
+        label: the 5.3 oz Oikos Triple Zero cup carries 0 g fibre and IS fortified
+        with vitamin D (about 2 mcg, "good source"), correcting the October 19 read,
+        which assumed it unfortified.
