@@ -148,3 +148,45 @@ million of principal, and bonds sold into worse markets cost more. The annual
 side, for scale: the 2026 tax rate worksheet puts the debt service owed this year
 on existing bonds at $42,616,423, against an I&S levy of $0.3701 per $100 on
 about $11.7 billion of certified value.
+
+### The rate as a percentage, and the all-in cost of the $400 million
+
+Asked October 21, 2026: "what's the percentage impact to our tax rate and also
+what's the total cost of the $400 million bond after you account for interest and
+anything else?"
+
+**The rate.** The 3.85 cents is a **3.58 percent** increase in the Manor ISD tax
+rate: $1.0755 to $1.1140 per $100. All of it lands on the debt-service half, so the
+I&S rate alone rises **10.40 percent**, $0.3701 to $0.4086. Measured against the
+whole property tax bill the share is smaller: his second house paid $9,858 in 2025
+on $314,500, a 3.13 percent all-in rate across county, hospital district, college,
+MUD and school, and the bond's $121 of that is about **1.2 percent** of the bill.
+
+| Against | Now | After | Increase |
+|---|---|---|---|
+| Manor ISD total rate | $1.0755 | $1.1140 | 3.58% |
+| I&S (debt) rate only | $0.3701 | $0.4086 | 10.40% |
+| His whole tax bill | | | about 1.2% |
+
+**The total cost.** $400 million borrowed is **$710.3 million repaid** — $310.3
+million of it interest, **1.78 times the principal**, on the district's own
+estimates ($701,466,608 on Proposition A and $8,825,374 on Proposition B).
+
+Three things sit outside that number:
+
+- **Issuance costs**, roughly **$3 to $4 million** — underwriter discount, bond
+  counsel, municipal advisor, rating fees — are paid out of the proceeds rather than
+  added on top, so under $397 million actually reaches the buildings. Manor ISD has
+  not published a figure; recent Texas ISD official statements run 0.75 to 1.0
+  percent of par (Galena Park 2026, $959,000 on $110 million; Dallas ISD, $3.82
+  million on $500 million).
+- **The interest is an estimate, not a cap.** The ballot commits only the $400
+  million of principal. Bonds sold into higher rates cost more, and the district
+  plans to issue in series over years, so the final interest is unknown on election
+  day.
+- **Operating costs.** New and expanded campuses cost money to staff, cool and
+  maintain, and that falls on the M&O rate, which bond money may not pay. Nothing in
+  the $710.3 million covers it.
+
+For this household the bond's own share is about $202 a year, roughly $6,000 over a
+thirty-year repayment at today's values.
