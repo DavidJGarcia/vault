@@ -52,3 +52,58 @@ than the required one.
 line when the polls close may still vote.
 
 The current list of sites and wait times is at votetravis.gov.
+
+## Manor ISD bond, Propositions A and B
+
+Asked October 21, 2026: "how much will the 2026 school district bond cost us above
+our baseline debt obligations?"
+
+**On the ballot.** Two propositions, called unanimously by the Manor ISD board for
+November 3, 2026.
+
+- **Proposition A, $391.5 million principal.** Manor New Tech High School expansion,
+  a Bluebonnet Trail Elementary rebuild, Manor High School renovation and location
+  consolidation, a theater addition and an 18+ program facility, renovations at Decker
+  and Blake Manor elementaries, districtwide safety and security, new buses. With
+  interest, $701,466,608.
+- **Proposition B, $8.5 million principal.** Student and staff technology. With
+  interest, $8,825,374.
+
+Together $400 million borrowed and **$710.3 million repaid**, of which about
+**$310 million is interest**.
+
+**Above the baseline.** Manor ISD already owes $624,834,706 in tax-supported debt,
+carried by an I&S (debt service) rate of **$0.3701 per $100**. The board adopted that
+rate in August 2026 deliberately above what the existing debt needs, so the surplus
+can defease or refund old bonds and cut long-term interest; the 2026-27 total rate is
+$1.0755, being $0.7054 M&O plus $0.3701 I&S, down from $1.0814.
+
+The district's own estimate is that passing both propositions **raises the rate by
+3.85 cents per $100** — essentially all of it Proposition A, since Proposition B
+rounds to zero. That 3.85 cents is the answer to "above baseline": **$38.50 a year
+per $100,000 of taxable value**, for as long as the new debt is outstanding.
+
+**What it costs this household**, at the values David carries in YNAB as of October
+2026 and at the $140,000 school homestead exemption Texas voters approved in
+November 2025:
+
+| | Taxable value | The bond's share |
+|---|---|---|
+| Home, less the $140,000 homestead exemption | $209,000 | $80 a year |
+| Second house, no homestead exemption | $314,500 | $121 a year |
+| **Both** | | **$202 a year, about $17 a month** |
+
+Over a thirty-year repayment at today's values that is roughly **$6,000** — more if
+appraisals rise, less if they fall.
+
+**Read the district's headline carefully.** Manor ISD advertises a *decrease* of $9.56
+a month for the average home, which it puts at $331,764, if both propositions pass.
+That is a year-over-year comparison and not the cost of the bond: appraised values fell
+this year, and the district nets the fall against the increase. The bond's own cost is
+the 3.85 cents, paid whether or not a particular home's appraisal went down. Homeowners
+65 and older or disabled who hold the Over-65 exemption, now $200,000, pay nothing more
+provided they make no major improvements.
+
+Sources: manorisd.net Bond 2026 (overview, Finances & Estimated Impact, FAQ); Manor ISD
+Board Briefs, August 17, 2026; Texas Scorecard, "Manor ISD Asks Taxpayers to Back $710
+Million in Bond Debt."
