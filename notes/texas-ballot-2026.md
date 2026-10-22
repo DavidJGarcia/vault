@@ -230,3 +230,33 @@ schedule is $38M the floor is $0.33 and the gap is 7.9 cents instead of 9.6.
 bond and then levied only its minimum would be lower than $0.4086 in the early
 years — and higher later, when the new debt service peaks. The floor-to-ceiling
 spread is the fair way to see the choice; it is not a prediction of either rate.
+
+#### Not quite: the 30 percent is not the bond-vs-minimum number
+
+Asked October 21, 2026: "so are you saying that the bond passing would raise the
+minimum taxes necessary to meet our bond obligations by about 30%?"
+
+**No — about 12 percent, not 30.** The 30 percent compares two different things:
+the floor with no bond (about $0.31) against the rate the district says it would
+actually levy with the bond ($0.4086). That $0.4086 carries roughly 6 cents the
+board levies above the floor **by choice**, to defease old bonds, and the bond is
+not what causes those 6 cents.
+
+Minimum to minimum, the bond adds its own 3.85 cents to a floor of about 31 cents:
+
+- Floor, bond fails: about $0.3127.
+- Floor plus the new debt: about $0.3512, which is **12.3 percent** above it.
+- What the district plans to levy with the bond: $0.4086, 30.7 percent above it.
+
+So three honest sentences: the bond itself raises the *required* minimum by about
+**12 percent**; it raises the rate actually being levied today by **10.4 percent**;
+and the floor he could have without it is **30 percent** below what would be levied
+with it. The last is the real spread between the cheapest no-bond year and the
+planned bond year, which is why it was given first — but it is not the cost of the
+bond.
+
+**And 12 percent is the early-years figure.** Manor ISD plans to sell the $400
+million in series over several years, so the new debt service starts small and
+climbs. The district has never said the 3.85 cents is the full eventual impact,
+only that the rate "will increase by .0385" if both propositions pass. The
+minimum-to-minimum gap widens as the new payments ramp.
