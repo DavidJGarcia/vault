@@ -336,3 +336,40 @@ sayable at all.
 **The short answer.** It doesn't, for long. The 3.85 cents is what the first slice
 costs on a base the district hopes will grow. The full $400 million, at today's
 base, needs about 20 cents.
+
+#### Year 1 against the full impact, and when the full impact lands
+
+Asked October 21, 2026: "so wait, you're telling me they're giving us year 1 costs
+but not the full impact? And what year do we start feeling the full impact?"
+
+**Yes.** Manor ISD's own words are that the rate "will increase by .0385" if both
+propositions pass. It has never called that the life-of-bond figure, and it says
+plainly that it will not sell the $400 million at once — staggering the sales is
+how it says it "maintains the current tax rate." A rate that pays one slice of the
+borrowing is a first-years rate by construction.
+
+**No issuance schedule is published.** Searched again on October 21: the FAQ says
+only that bonds can be sold 45 to 60 days after the election is canvassed, when
+market conditions are good, and that construction begins several months after the
+election. No series, no years, no dollar amounts per series.
+
+**So the year is an estimate.** A $400 million program of this shape — a rebuild,
+two major renovations, an expansion, buses and technology — is normally built over
+four to five years and sold in three or four series, each series adding a full year
+of debt service the year after it sells.
+
+| | Estimated |
+|---|---|
+| First series sold | early 2027, first full year of its debt service 2028 |
+| Last series sold | about 2031–2032 |
+| First year all $400 million is in service | **about 2033 to 2035**, six to eight years out |
+| What full service costs at the 2026 base | about **20.6 cents**, vs 3.85 advertised |
+
+**The squeeze is wider than the ramp.** Roughly **2032 through 2038** is the stretch
+where the new debt is near full service and the existing $625 million has not
+finished running off. After that the old payments are gone and the new ones have the
+rate to themselves, which is cheaper — if the tax base has grown. It has not lately:
+$11.68 billion in 2024 against $11.51 billion in 2026.
+
+These years are inference, not a district figure. What is not inference: the 3.85
+cents buys the first slice, and nobody has published what the last slice costs.
