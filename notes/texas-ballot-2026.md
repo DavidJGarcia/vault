@@ -439,3 +439,29 @@ years and what is currently buying four years off the old debt. It cannot do bot
 publishes no amortization schedule, some series likely mature into the 2040s, only
 callable or escrowable bonds can be retired ahead, and no growth in the taxable base is
 credited ($11.51B in 2026 against $11.68B in 2024). Base growth would pull the date in.
+
+#### Why fifteen, seventeen and thirteen are not inconsistent
+
+Asked October 22, 2026: "also on the bond, you said it clears in 15 years. Then you
+said that defeasing saves 4 years and it clears in 13. That doesn't add up for me."
+
+He is right that 15 minus 4 is not 13. The fault is in the two sections above: three
+numbers drawn from three different dollars-per-year assumptions, written as though
+they shared one.
+
+| Scenario | Counted per year | Clears in |
+|---|---|---|
+| Minimum only — board stops defeasing | $36.1M scheduled | about **17 years**, 2043 |
+| Adopted rate held, dollars counted only | $42.6M levied | about **15 years** |
+| Adopted rate held, interest killed and cash on hand counted | $45.9M effective, less $48.2M already banked | about **13 years**, FY2039 |
+
+**Fifteen and thirteen are the same scenario**, not two. Both hold the adopted $0.3701
+rate and both keep defeasing. The thirteen only counts two things the fifteen left
+out: the roughly 50 cents of future interest that dies with every dollar paid ahead,
+and the $48.2 million already sitting in the debt service fund. Thirteen supersedes
+fifteen, and the "roughly $40 million a year" in *Runoff* above was loose — the levy is
+$42.6M, which on dollars alone is 14.7 years.
+
+**The four years is seventeen against thirteen** — what the $6.5 million of defeasance
+the board levies by choice buys, measured against stopping it. It was never fifteen
+against thirteen, and no answer above claimed defeasance turns 15 into 13.
