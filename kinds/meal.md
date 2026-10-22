@@ -171,3 +171,10 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         October 22, 2026 was 11 kcal, where the tub would have given 22. Take the
         label he names; neither moves a day much, but say which was used. Mild is
         the one he buys either way.
+        "Frank's Red Hot Wings Buffalo Sauce" is Frank's RedHot Buffalo Wings
+        Sauce - he says the words in a different order, and it is the buttery wing
+        sauce, not the thinner Original Cayenne Pepper Sauce. Priced from the
+        McCormick label, 10 kcal and 810 mg sodium per 2 Tbsp (30 ml, about 31 g),
+        so 0.32 kcal/g and 26 mg sodium/g: 12 g on October 22, 2026 was 4 kcal and
+        314 mg sodium. The calories are a rounding error at any portion he pours;
+        the sodium is the number worth carrying, so a sauce row gets sodium_mg.
