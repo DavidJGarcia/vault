@@ -290,3 +290,49 @@ not a Manor ISD figure: the district posted only the higher-debt-rate worksheet,
 a further search on October 21 still found no published minimum. And no board has
 promised to levy the floor in either case — this is the span of the choice, not a
 forecast of what will be charged.
+
+#### Why doubling the debt only moves the rate a few points
+
+Asked October 21, 2026: "how does doubling our bond obligations only increase our
+rate by a few percentage points?"
+
+Because the two numbers measure different things, and because the small one is a
+first-year number.
+
+**A stock against a flow.** The $1.34 billion is everything owed across thirty
+years. The tax rate pays one year of it. The $710.3 million of new obligation,
+spread over a thirty-year repayment, averages about **$23.7 million a year**
+against the **$42.6 million** the district levies for debt this year - about **56
+percent more**, not 100 percent. Doubling what is owed does not double what is
+paid annually: the new money stretches over thirty years, while the existing $625
+million, at roughly $40 million a year, runs off in about fifteen.
+
+**But 56 percent is still not 3.6 percent.** At the 2026 taxable value of
+$11,514,840,121, one cent of I&S raises about $1.15 million. So $23.7 million of
+new annual debt service is about **20.6 cents** - more than five times the 3.85
+cents advertised. The 3.85 cents is worth about $4.4 million a year, roughly **19
+percent** of the average annual payment the new bonds will require.
+
+Three things close that gap, and none of them is a promise:
+
+- **Staggered issuance.** The district says outright that it will not sell the
+  whole $400 million at once, and that staggering is how it "maintains the current
+  tax rate." Year one carries one slice; the rate climbs as later series sell.
+- **Old debt rolling off.** New series are shaped to fill the space left as the
+  existing payments decline. The squeeze is the overlap years, roughly five to
+  twelve out, when the new debt is near full service and the old is not yet gone.
+- **A growing tax base.** The same dollars cost fewer cents on a bigger roll. This
+  is the leg to watch, because Manor's base has not grown lately: $11.68 billion in
+  2024 against $11.51 billion in 2026, flat to down, partly the $140,000 homestead
+  exemption. Every projection holding the rate near 3.85 cents assumes growth
+  resumes.
+
+**And the headroom.** The board already levies about $6.5 million a year above the
+minimum, to defease old bonds - about 5.6 cents, more than the whole advertised
+increase. A board that stopped defeasing could absorb the first years of new debt
+service with no rate change at all, which is part of why "no tax rate increase" is
+sayable at all.
+
+**The short answer.** It doesn't, for long. The 3.85 cents is what the first slice
+costs on a base the district hopes will grow. The full $400 million, at today's
+base, needs about 20 cents.
