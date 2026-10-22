@@ -58,3 +58,49 @@ plays audio can sign in to Entra: not a podcast app, not Alexa, not a Shortcut r
 while the phone is locked. So the audio paths go on the allowlist and carry an unguessable
 token in the URL, and that token is the whole of their security. Update both apps at once
 and record the new list in provision.json.
+
+## The phases
+
+### Phase 1 - the phone reads the script. One evening, no cost.
+
+No audio file and no text-to-speech at all. The briefing job writes brief_spoken beside
+brief; an iOS Shortcut set as a Time of Day automation at 05:40 fetches that text from the
+relay and runs Speak Text, with "Run Immediately" chosen and "Allow Running When Locked"
+on. Siri's voice, off the nightstand.
+
+Proves the only thing that matters, whether hearing the morning beats reading it, for the
+price of one evening and nothing a month. Falsifies: if you reach for the watch anyway, or
+find yourself waiting through sentences you had already read, the project stops here having
+cost an evening.
+
+One thing to confirm on the device first. Speak Text is documented to work from a locked
+automation, but some actions do not run locked. Test that before building on it.
+
+### Phase 2 - real audio on the relay
+
+The worker renders the script to MP3 and uploads it; the new GET serves it. Every player
+becomes available at once: the Shortcut plays the file instead of speaking it, the car
+plays it over Bluetooth, and a one-item RSS feed at the same prefix makes it a private
+podcast, which Overcast, Pocket Casts and Apple Podcasts all subscribe to by URL.
+
+Proves a real voice is worth the step up from Siri's. Falsifies: if you never press play,
+pulling is the wrong model and only the pushed versions, phases 1 and 4, can work.
+
+### Phase 3 - Alexa in the kitchen
+
+"Alexa, what's my flash briefing." A Flash Briefing skill takes the RSS or JSON feed built
+in phase 2, polls it every fifteen minutes, and expects an endpoint that is not password
+protected, which the capability URL technically is not. That is the compromise to accept
+knowingly or to decline. Most of the work is already done by then.
+
+Falsifies: if asking for it out loud is more friction than picking up the phone that is
+already in your hand.
+
+### Phase 4 - it calls you. Last, and maybe never.
+
+The September recommendation: the relay places a Twilio call that reads the brief, and the
+iPhone auto-answers it to the headphones. About $1.15 a month for the number plus about
+1.4 cents a minute. It is the only version that is genuinely pushed, with nothing to press.
+The costs are real: auto-answer applies to every caller, not just this one, and a call
+takes over the audio and interrupts. Keep it behind the other three, as the answer to
+"having to press play killed it".
