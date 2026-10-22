@@ -107,3 +107,44 @@ provided they make no major improvements.
 Sources: manorisd.net Bond 2026 (overview, Finances & Estimated Impact, FAQ); Manor ISD
 Board Briefs, August 17, 2026; Texas Scorecard, "Manor ISD Asks Taxpayers to Back $710
 Million in Bond Debt."
+
+### How much bigger does the bond make the district's debt?
+
+Asked October 21, 2026: "in percentages how much higher is the district's debt
+obligation if the bond passes, compared to their current debt obligation of
+outstanding bonds? Not what they've been collecting but what they would have had
+to collect at a minimum." So this compares obligations — what must be repaid,
+principal and interest — and not the I&S revenue the district has been taking in.
+
+| | Principal | Interest | Must be repaid |
+|---|---|---|---|
+| Outstanding bonds, per the district's own figure | — | — | $624,834,706 |
+| Proposition A | $391,500,000 | $309,966,608 | $701,466,608 |
+| Proposition B | $8,500,000 | $325,374 | $8,825,374 |
+| **After both pass** | | | **$1,335,126,688** |
+
+**The obligation rises about 114 percent** — the new debt alone, $710.3 million,
+is 1.14 times everything still owed on every bond outstanding. Put the other way,
+the district's total debt obligation slightly more than doubles, to about $1.34
+billion. That is why Texas Scorecard writes that Proposition A would "more than
+double" the district's tax-funded debt.
+
+**The figure this turns on.** $624,834,706 is the number the district's own
+documentation carries for current tax-supported debt, and reading it as principal
+plus interest is what makes Scorecard's "more than double" arithmetic work. A
+second figure is in circulation — nearly $741 million owed, of which nearly $252
+million is interest, which looks like an earlier snapshot of the same obligation
+taken before the June 2025 defeasance of $26.9 million and the $41 million of
+refunding savings. On that basis the increase is 96 percent rather than 114. The
+Texas Bond Review Board's last closed year, FY2025, shows $473,964,999 of
+tax-supported principal outstanding and no new debt issued that year.
+
+Either basis gives the same plain answer: **passing the bond roughly doubles what
+Manor ISD owes.**
+
+**And a minimum, not a ceiling.** The $310 million of interest is the district's
+estimate at the rates it assumes; the ballot language commits only the $400
+million of principal, and bonds sold into worse markets cost more. The annual
+side, for scale: the 2026 tax rate worksheet puts the debt service owed this year
+on existing bonds at $42,616,423, against an I&S levy of $0.3701 per $100 on
+about $11.7 billion of certified value.
