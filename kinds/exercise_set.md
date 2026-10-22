@@ -54,3 +54,7 @@ notes:  he logs a whole session set by set, one short note each, a minute or two
         Eight of his fourteen movements were logged for the first time in that one
         week, so most of them have no earlier session to compare against; say so
         rather than inventing a comparison.
+        One machine name that is not a mangling: "dependent". The dependent curl is
+        his own word for a linked-handle rig, both arms off one stack, so its load is
+        one number and has no per-arm half - read as independent on October 22, 2026
+        and corrected by him in the next breath.
