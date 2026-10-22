@@ -260,3 +260,33 @@ million in series over several years, so the new debt service starts small and
 climbs. The district has never said the 3.85 cents is the full eventual impact,
 only that the rate "will increase by .0385" if both propositions pass. The
 minimum-to-minimum gap widens as the new payments ramp.
+
+#### The three numbers side by side
+
+Asked October 21, 2026: "if we didn't pass the bond and we only paid our minimum
+existing obligations, our tax rate could go down significantly. What would it go
+down to, what will it have to be to support the bond, and what is the percentage
+difference between those two?"
+
+Yes — it could go down, and that is the comparison the district's own material
+never shows. Both halves of the school rate, with M&O held at $0.7054 because the
+bond does not touch it:
+
+| | I&S rate | Manor ISD total rate | This household, per year |
+|---|---|---|---|
+| Levied today | $0.3701 | $1.0755 | — |
+| **Floor, bond fails** | **about $0.3127** | about $1.0181 | **about $300 less** |
+| **Floor plus the bond** | **about $0.3512** | about $1.0566 | about **$202 more** than the floor |
+| Planned if the bond passes | $0.4086 | $1.1140 | about $502 more than the floor |
+
+**Floor to floor the difference is 12.3 percent** — $0.3127 to $0.3512 — which is
+3.8 percent of the total school rate. That is the bond's own number. Floor to the
+rate the district says it would actually levy is 30.7 percent, and the extra comes
+from the roughly 6 cents of defeasance headroom the board keeps by choice, not from
+the bond.
+
+Two cautions on the first column. The $0.3127 is an estimate with a stated basis,
+not a Manor ISD figure: the district posted only the higher-debt-rate worksheet, and
+a further search on October 21 still found no published minimum. And no board has
+promised to levy the floor in either case — this is the span of the choice, not a
+forecast of what will be charged.
