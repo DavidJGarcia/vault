@@ -373,3 +373,32 @@ $11.68 billion in 2024 against $11.51 billion in 2026.
 
 These years are inference, not a district figure. What is not inference: the 3.85
 cents buys the first slice, and nobody has published what the last slice costs.
+
+#### What Manor ISD owes now
+
+Asked October 22, 2026: "tell me about the school district current outstanding
+balances." Three different balances get quoted, which is why the numbers in
+circulation disagree.
+
+| Balance | Amount | Basis |
+|---|---|---|
+| Principal still owed | **$473,964,999** | Texas Bond Review Board, FY2025 close, August 31 2025 |
+| Principal plus remaining interest | **$624,834,706** | the district's own figure for current tax-supported debt |
+| Interest inside that | about **$151 million** | the difference between the two rows above |
+| An older snapshot still quoted | about **$741M**, incl. **$252M** interest | pre-dates the June 2025 defeasance and the refunding |
+| Owed this year | **$42,616,423** | 2026 tax rate worksheet, I&S levy of $0.3701 per $100 |
+
+Of this year's $42.6 million, about **$36.1 million** is scheduled principal and
+interest; the remaining **$6.5 million** is the board paying ahead to defease old
+bonds, which it chooses and could stop.
+
+**No new borrowing since.** The Bond Review Board shows $0 of new issuance in
+FY2025, tax-supported and revenue-supported alike, and $0 of revenue-supported
+debt outstanding. In June 2025 the district defeased $26.9 million and took about
+$41 million of refunding savings, which is what separates the $625M figure from
+the older $741M one.
+
+**Runoff.** At roughly $40 million a year the existing balance clears in about
+fifteen years — an estimate, since the district does not publish its amortization
+schedule. The bond would add $710.3 million of obligation on top of it, which is
+the doubling.
