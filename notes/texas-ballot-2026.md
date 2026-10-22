@@ -190,3 +190,43 @@ Three things sit outside that number:
 
 For this household the bond's own share is about $202 a year, roughly $6,000 over a
 thirty-year repayment at today's values.
+
+### The I&S rate with the bond, against a true no-bond floor
+
+Asked October 21, 2026: "compare what our I&S rate would be if the bond didn't pass
+and we only paid our minimum current debt obligations versus if it did pass."
+
+The comparison he wants is not 0.3701 against 0.4086, because **0.3701 is itself a
+choice**. Senate Bill 1453, effective January 1, 2026, makes a district calculate the
+*minimum debt service rate* — enough to pay only the bond payments due that year,
+defeasance and refinancing excluded — and allows a higher rate only on a specific
+motion carried by a 60 percent supermajority. Manor ISD took that vote on August 17,
+2026, unanimously, and Trustee Patterson's motion said the excess "will be used for
+the payment of bond debt through defeasance or refunding to reduce the long term
+interest cost on currently existing debt." The district posted only the
+higher-debt-rate worksheet; it has not published the minimum figure.
+
+| | I&S rate per $100 | What it pays for |
+|---|---|---|
+| Minimum on existing debt, bond fails | **about $0.31** (estimated) | this year's principal and interest, nothing more |
+| Adopted now, bond fails | $0.3701 | that, plus about $6.5M a year toward defeasing old bonds |
+| Planned if the bond passes | $0.4086 | that, plus the new debt |
+
+**Floor to ceiling is about 9.6 cents, roughly 30 percent.** Across this household's
+$523,500 of taxable value — $209,000 homesteaded, $314,500 not — a cent is $52 a
+year, so the gap is about **$500 a year**. Against the rate actually being levied
+today the bond's own share stays 3.85 cents, about $202 a year.
+
+**Where the 31 cents comes from.** The 2026 worksheet levies $42,616,423 on
+$11,514,840,121 of taxable value, which is exactly $0.3701. Scheduled principal and
+interest looks like about $36.1 million: the debt service fund spent $63,000,437 in
+FY2025, of which $26.9 million was the June 2025 defeasance, and the Bond Review
+Board shows no new debt issued that year. $36.1M over that value is $0.3127. Treat
+it as an estimate with a known basis, not the district's number — if the real
+schedule is $38M the floor is $0.33 and the gap is 7.9 cents instead of 9.6.
+
+**One caveat the other way.** The $0.4086 is the current levy plus the district's
+3.85 cents, so it inherits the same defeasance headroom. A board that passed the
+bond and then levied only its minimum would be lower than $0.4086 in the early
+years — and higher later, when the new debt service peaks. The floor-to-ceiling
+spread is the fair way to see the choice; it is not a prediction of either rate.
