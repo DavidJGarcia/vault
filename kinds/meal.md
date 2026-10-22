@@ -158,3 +158,9 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         at this portion. The usual recipe above still holds plain rolled oats: "protein
         oats" in a note is a swap for that morning, and so is a fruit he names in place
         of the blueberries.
+        "prepared craft macaroni and cheese" is Kraft, and he says it in exactly those
+        words: 127 g on October 14, 2026, 80 g on October 22. One basis holds both, the
+        Kraft Original label prepared as directed - 350 kcal and 10 g protein per 70 g dry
+        serving, about 200-210 g on the plate, so 1.7 kcal/g and 0.055 g protein/g. Use it
+        unless he names a change to the preparation, as he did on September 28, 2026
+        ("prepared with half the butter", which takes about 0.4 kcal/g off).
