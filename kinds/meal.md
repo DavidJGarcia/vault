@@ -164,3 +164,10 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         serving, about 200-210 g on the plate, so 1.7 kcal/g and 0.055 g protein/g. Use it
         unless he names a change to the preparation, as he did on September 28, 2026
         ("prepared with half the butter", which takes about 0.4 kcal/g off).
+        Pico de gallo comes from two Walmart labels and they differ by half. The
+        refrigerated Freshness Guaranteed Mild tub is 36 kcal per 100 g (the October
+        21, 2026 row); Great Value Mild Pico de Gallo is 5 kcal, 0 g protein, 2 g
+        carbs and 90 mg sodium per 2 Tbsp (28 g), so 18 kcal per 100 g - 62 g on
+        October 22, 2026 was 11 kcal, where the tub would have given 22. Take the
+        label he names; neither moves a day much, but say which was used. Mild is
+        the one he buys either way.
