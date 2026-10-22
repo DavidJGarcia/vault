@@ -143,3 +143,18 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         he names the powder separately in the same breath; reading "protein oats" as a
         high-protein oat product would count its protein twice. The usual recipe above
         is unchanged by a fruit swap he does not call a redefinition.
+        Correction to the paragraph just above, same morning: "protein oats" IS a
+        protein-fortified oat product, bought in place of the usual rolled oats, and not
+        a name for the bowl. Eight minutes after that first filing he said "For breakfast
+        I specifically meant that I'm having protein oats instead of the usual rolled
+        oats." The oats are the protein kind and the 2 scoops of Orgain still go in on
+        top, so both count. Priced from the Quaker Protein Old Fashioned Rolled Oats
+        label (160 kcal, 10 g protein, 24 g carb, 2.5 g fat, 3 g fiber per 1/2 cup,
+        41 g), so 1/3 cup, 27 g, is about 107 kcal and 6.7 g protein against 100 kcal and
+        3.3 g plain: the row went from 371 kcal and 26.1 g protein to 378 and 29.5. No
+        purchase or cart record names a protein oats brand - every oats row of his is
+        plain Great Value or Quaker old-fashioned - so that label stands in until he
+        names the bag; Kodiak Protein-Packed Classic would be about 20 kcal and 1 g more
+        at this portion. The usual recipe above still holds plain rolled oats: "protein
+        oats" in a note is a swap for that morning, and so is a fruit he names in place
+        of the blueberries.
