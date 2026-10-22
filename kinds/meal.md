@@ -135,3 +135,11 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         and chicken, was sauce alone and stands. When he names a sauce by weight and a
         second food with it, the weight may cover both; a blended sauce is his, not the
         jar's.
+        "protein oats" is the bowl, not a fortified oat product. On October 22, 2026
+        "1/3 cup of protein oats, 2 scoops of Orgain protein powder, 3/8 cup of
+        unsweetened vanilla almond milk, and 124 g of banana" was filed as the usual
+        breakfast with 124 g banana in place of the cup of blueberries - 371 kcal,
+        26.1 g protein. The oats were counted as plain dry rolled oats, 27 g, because
+        he names the powder separately in the same breath; reading "protein oats" as a
+        high-protein oat product would count its protein twice. The usual recipe above
+        is unchanged by a fruit swap he does not call a redefinition.
