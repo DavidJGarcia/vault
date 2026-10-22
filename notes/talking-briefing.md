@@ -104,3 +104,36 @@ iPhone auto-answers it to the headphones. About $1.15 a month for the number plu
 The costs are real: auto-answer applies to every caller, not just this one, and a call
 takes over the audio and interrupts. Keep it behind the other three, as the answer to
 "having to press play killed it".
+
+## Rejected, with the reason
+
+- Reading the wrist message aloud. It is written to be glanced at; see the one design
+  decision above. This is the mistake the whole plan is arranged around.
+- Speaking every receipt. The buzz is the receipt and it works, and four rows are faster
+  read than heard. Speech earns its place on the morning because the morning is long.
+- Replacing the Pushover message. The talking brief is in addition, permanently, under the
+  same rule as the watch app: Pushover carries every reply and always will.
+- Syncing it to the watch as music. The 265S stores music but takes podcasts only from
+  Garmin's own providers, and nothing can be sideloaded to it.
+- Composing it early in case the desktop is off. Already settled: do not design around a
+  failure that can be detected and reported.
+
+## Still open
+
+- Is this a nightstand thing, a kitchen thing or a car thing? Each wants a different phase
+  first, and phase 1 is cheap enough to answer it rather than argue it.
+- Length. The 45 to 75 seconds above is arithmetic from reading speed, not your judgment.
+- The to-do list read aloud is the part most likely to be tedious. The standing instruction
+  of October 16 puts every to-do that is not on the backlog in the briefing: six of them
+  today, and it can be more. Six names read out is a slow half-minute, so the spoken script
+  may want to count them and name only what is overdue. That would be the first place the
+  two compositions say genuinely different things rather than the same thing differently.
+  Your call.
+
+## Checked
+
+- Azure Speech pricing and the free tier: https://azure.microsoft.com/en-us/pricing/details/speech/
+- Shortcuts automations while locked: https://support.apple.com/guide/shortcuts/add-automations-apdfbdbd7123/ios
+- Flash Briefing feed requirements: https://developer.amazon.com/en-US/docs/alexa/flashbriefing/flash-briefing-skill-api-feed-reference.html
+
+The September 14, 2026 research on audio replies is in the records, not here.
