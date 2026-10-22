@@ -402,3 +402,40 @@ the older $741M one.
 fifteen years — an estimate, since the district does not publish its amortization
 schedule. The bond would add $710.3 million of obligation on top of it, which is
 the doubling.
+
+#### If the bond fails and the rate holds: paid off about 2039
+
+Asked October 22, 2026: "if we don't pass the bond and we keep paying at the current
+rate, defeasing debt early, how soon will the outstanding debt be completely cleared?"
+
+**About thirteen years — around FY2039.** The run-off estimate above (fifteen years at
+roughly $40 million) did not credit the early payoff. Counting it:
+
+| Step | Amount |
+|---|---|
+| Owed, principal plus remaining interest | **$624.8M** |
+| Levied a year at the adopted $0.3701 | **$42.6M** |
+| — of which scheduled principal and interest | $36.1M |
+| — of which paid ahead to defease | $6.5M |
+| Future interest killed per $1 defeased | about **$0.50** |
+| Obligation removed per year | about **$45.9M** |
+| Already in the debt service fund (Aug 31, 2025) | **$48.2M** |
+
+$624.8M at $45.9M a year is 13.6 years; the $48.2M already banked is about another
+year of payments, which brings it to roughly **twelve or thirteen years, FY2039**.
+
+**The 50 cents is measured, not assumed.** The August 18, 2025 board brief: "During the
+month of June, we defeased a total of $26.9MM with a total savings of $13.4MM in
+long-term interest." That same brief shows the Debt Service Fund collecting $48,787,353
+and spending $59,895,910 in FY2024-25, ending at a $48,249,449 balance.
+
+**Stopping the defeasance costs four years.** Paying only the scheduled $36.1 million
+takes about seventeen years, to **2043**, and about **$42 million** more in interest —
+the mirror image of the point in *Why the rate barely moves*: the $6.5 million of
+headroom the board levies by choice is both what could absorb the new bond's early
+years and what is currently buying four years off the old debt. It cannot do both.
+
+**Still an estimate.** Dollars against dollars, not a maturity table: the district
+publishes no amortization schedule, some series likely mature into the 2040s, only
+callable or escrowable bonds can be retired ahead, and no growth in the taxable base is
+credited ($11.51B in 2026 against $11.68B in 2024). Base growth would pull the date in.
