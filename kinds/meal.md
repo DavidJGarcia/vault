@@ -207,3 +207,11 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         and 150 g was 445 kcal, 12.3 g protein, 623 mg sodium. A gram weight from him
         is the entree alone; the side (rice, chow mein) is its own row and he names it
         when he has one. Sodium is the number worth carrying on a fast-food row.
+        The Panda Express side panel, named October 23, 2026 ("88 g of chowmein"), two
+        minutes after the Beijing Beef of the paragraph above: Chow Mein is 9.4 oz (266 g),
+        510 kcal, 13 g protein, 80 g carb, 20 g fat, 6 g fiber, 860 mg sodium - so 1.91
+        kcal/g, 0.049 g protein/g and 3.23 mg sodium/g, and 88 g was 168 kcal, 4.3 g
+        protein, 284 mg sodium. The side serving is far bigger than the 5.6 oz entree
+        serving, so an entree's per-gram figure must never be used on a side. He orders
+        the entree and the side in separate captures, a minute or two apart, each with its
+        own weight: file each as its own row rather than reading the second as a correction.
