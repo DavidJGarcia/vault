@@ -178,3 +178,15 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         so 0.32 kcal/g and 26 mg sodium/g: 12 g on October 22, 2026 was 4 kcal and
         314 mg sodium. The calories are a rounding error at any portion he pours;
         the sodium is the number worth carrying, so a sauce row gets sodium_mg.
+        The protein oats are Bob's Red Mill Gluten Free Protein Oats, named October 23,
+        2026 ("one 1/3 cup of Bob's Red Mill protein oats"), so the Quaker Protein
+        stand-in in the two paragraphs above is retired. Label: 1/3 cup (48 g) is
+        190 kcal, 10 g protein, 32 g carb, 4 g fat, 6 g fiber, 1 g sugar, no sodium -
+        one ingredient, whole grain oat flakes of a naturally higher-protein variety,
+        no added powder (vitacost prints the same panel at 200 kcal; take the brand
+        page). The serving weight is the thing to notice: Bob's calls 1/3 cup 48 g,
+        where a plain rolled-oat label (1/2 cup, 40 g) scales to 27 g, so a 1/3 cup of
+        these is nearly twice the oats - price a cup measure of them at the label
+        weight, not at 27 g. The October 22, 2026 bowl was re-priced on this label the
+        same day: 378 kcal and 29.5 g protein became 461 and 32.8. The usual recipe
+        above still holds plain rolled oats at 27 g; these are a swap he names.
