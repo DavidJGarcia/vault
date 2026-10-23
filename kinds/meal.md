@@ -201,3 +201,9 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         October 19, 2026 reduced-usual note arriving after the eating rather than with
         it: update the rows, never file a second, and say which rows moved and which
         stood.
+        A Panda Express entree he weighs is priced off the chain panel, whose serving is
+        5.6 oz (159 g) - Beijing Beef, October 23, 2026, 470 kcal, 13 g protein, 46 g
+        carb, 26 g fat, 660 mg sodium per serving, so 2.96 kcal/g and 4.2 mg sodium/g,
+        and 150 g was 445 kcal, 12.3 g protein, 623 mg sodium. A gram weight from him
+        is the entree alone; the side (rice, chow mein) is its own row and he names it
+        when he has one. Sodium is the number worth carrying on a fast-food row.
