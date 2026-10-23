@@ -190,3 +190,14 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         weight, not at 27 g. The October 22, 2026 bowl was re-priced on this label the
         same day: 378 kcal and 29.5 g protein became 461 and 32.8. The usual recipe
         above still holds plain rolled oats at 27 g; these are a swap he names.
+        A share eaten by someone else is a correction to the rows already filed, and
+        the ingredients he lists name which rows. On October 23, 2026, two minutes
+        after the last of three breakfast rows, "My son ended up eating about a third
+        of my breakfast this morning so adjust my totals accordingly for the oatmeal,
+        banana, protein powder, and almond milk" scaled all three to two thirds -
+        oats 190 to 127, powder-and-milk 161 to 107, banana 75 to 50 - leaving the
+        5 grapes of the same minute alone, because they are a snack row and he did not
+        name them. A third of a mixed bowl is a third of each ingredient. This is the
+        October 19, 2026 reduced-usual note arriving after the eating rather than with
+        it: update the rows, never file a second, and say which rows moved and which
+        stood.
