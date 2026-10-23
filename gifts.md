@@ -33,14 +33,20 @@ Safety: she has to be able to push it off herself, and it sits below the neck.
 
 | Item | Occasion | Price | Status | Added |
 |---|---|---|---|---|
-| Pop Up Bluey game, TOMY — one box for the two of them | Christmas, Friday December 25, 2026 | $18.99 | idea | Monday, September 28, 2026 |
+| Pop Up Bluey game, TOMY — one box for the two of them; **Andrew asked for it himself** | Christmas, Friday December 25, 2026 | $18.99 | idea | Monday, September 28, 2026 |
 
 Said as "Christmas idea for Andrew and Cody: pop-up croc from Bluey" — matched to TOMY's
 Pop Up Bluey, the Bluey version of Pop Up Pirate: one Bluey figure, one barrel and
 twenty-four crocodile sticks, and the sticks are the croc. Two to four players, ages 4
 and up, so it is written down as one shared gift rather than one each. $18.99 on TOMY's
-own site, and widely stocked at Walmart and Amazon. His idea, not something they asked
-for.
+own site, and widely stocked at Walmart and Amazon.
+
+**Andrew asked for it himself** on Thursday, October 22, 2026: "Andrew would like pop-up
+crock for Christmas." So it is no longer only David's idea — it is on Andrew's list, and
+it is the firmest of the Christmas rows for the two little boys. He said the same word
+again (crock this time, croc in September), which confirms the match to the TOMY game.
+Only Andrew was named this time; it stays one shared box unless he says Cody needs his
+own.
 
 ## David William — his son, 14
 
