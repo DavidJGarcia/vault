@@ -1126,3 +1126,108 @@ Simplified candidate entries; Community Impact and the Daily Texan on the race; 
 Chronicle endorsements; Austin Central Labor Council and sway.co endorsement lists;
 Texas Secretary of State guidance on appraisal district elections and the November 2026
 transition.
+
+## Austin Community College trustees - the long version
+
+Added October 24, 2026, when he asked for more about the contested ACC seats. The
+short entry above stands; this is the whole of it. **Two of the three seats are a
+choice** - Place 1 and Place 3. Place 2 (Gigi Edwards Bryant) is unopposed.
+
+Trustees are elected **at large across the whole taxing district** - eight school
+districts across six counties plus the City of Austin - on a **nonpartisan** ballot,
+for **six-year terms**. Manor ISD is inside the district, so he votes both races and
+pays the rate. Six years means whoever wins is still seated in 2032.
+
+### What is actually in front of this board
+
+- **Free tuition is the whole question.** The pilot launched August 2024 and covers
+  the graduating classes of 2024 through 2028 from district high schools. Year two
+  reached **nearly 10,000 students** (up from 4,894), about **24% of enrollment**, at
+  roughly **$27 million a year**. It **expires after the spring 2028 graduates** -
+  well inside the term being voted on. The trustees elected now decide whether it
+  becomes permanent, narrows, or simply lapses.
+- **The money got tighter this year.** The board approved a **$583 million FY2027
+  budget** in July 2026: tuition frozen for the **13th straight year**, a 2% raise
+  plus a one-time $1,700 for full-time staff (employees had asked for 4%). ACC lost
+  **$6 million** in state money under the new dynamic funding formulas, took its
+  **first drop in property tax revenue in 17 years**, and for the first time since
+  2014 salaries exceeded property tax revenue.
+- **The rate he pays** is about **$0.1034 per $100** - one of the lowest community
+  college tax rates in Texas, and about a tenth of what the Manor ISD bond would add
+  at full issue. Both incumbents run on having held it flat.
+- **The Pflugerville annexation question is not his** (PfISD voters only), but it is
+  the board's biggest pending change. PfISD rejected it in 2018, 56.5% against. For
+  residents it would cost about $391 a year on an average home and remove the
+  **$201-per-credit-hour** out-of-district fee - about $12,000 over a 60-hour degree.
+
+### Place 1: Dana Walker (incumbent) v Gloria Gonzales-Dholakia
+
+**Dana Walker**, trustee since 2020 and current board secretary. Retired from
+technology, private-sector and federal government consulting, including eight years
+on internet safety at **Meta**; master's in public policy from the Lee Kuan Yew
+School, B.A. in international relations from Lehigh. Calls herself the board's
+technology expert. Her record as she puts it: approved the free tuition pilot, raised
+completion rates, **$38.5 million** to student support services, expanded veteran
+services, raised employee wages. Next term: **make free tuition permanent** - but
+"I think first we need to be stable financially with what we have" - student AI and
+technology fluency, wraparound supports at every campus, more ways to trim the
+budget, workforce partnerships with employers like Tesla. Endorsed by the
+**Austin American-Statesman**, which called her ACC experience the reason.
+
+**Gloria Gonzales-Dholakia**, Ph.D., **eight years (two terms) on the Leander ISD
+board**, vice president of alumni and public policy at the **Jeremiah Program**
+(which helps single mothers through college), former ACC adjunct and St. Edward's
+education instructor, first-generation college graduate. Her frame is completion
+rather than headcount: *"Success is a degree, it's a university transfer, it's a
+certification."* Priorities: student-parents and first-generation students
+(childcare, transportation, flexible scheduling, nonprofit partnerships), and much
+deeper **dual-credit partnerships with the school districts** - which she argues is
+both access and a revenue answer to the shortfall. Wants governance that is
+community-centred, "not just from the dais." On AI: use the tools, keep the human
+advisers. Endorsed by the **Austin Chronicle**, **ACC's own faculty union (ACC AFT)
+and Texas AFT**, and a range of city, county and state officials.
+
+**The split is real.** The Statesman went with the incumbent's institutional
+knowledge and tech grounding; the Chronicle went with the K-12-plus-higher-ed
+background and the breadth of local endorsements. The college's **own faculty union
+endorsing against a sitting trustee** is the sharpest signal in either race.
+
+### Place 3: Nan McRaven (incumbent) v Trevor Hale
+
+**Nan McRaven**, on the board **since 2002** - 24 years, four terms, now board chair,
+seeking a fifth. Doctorate in community college leadership; owner of McRaven
+Consulting; previously vice president of communications at Motorola, **Travis County
+budget director**, a Gates Foundation adviser, and vice president of the Greater
+Austin Chamber. Record: ACC grew from **6 campuses to 12** under her tenure, two bond
+elections passed, Lockhart added to the district, and she helped roll out the free
+tuition pilot. Priorities: keep tuition and taxes flat, **sustain the pilot through
+community support or an endowment**, make student resources easier to navigate, build
+out automotive, manufacturing and healthcare programs, and get the Legislature to
+earmark community college funding. *"We want to create the college of the future."*
+Endorsed by **both the Statesman and the Chronicle** - the Statesman on institutional
+knowledge during a leadership transition, the Chronicle on 25 years of knowing how
+the board works while enrollment has risen.
+
+**Trevor Schuyler Hale**, Ph.D., retired professor of business analytics and
+administration - University of Houston-Downtown, Texas A&M, Huston-Tillotson - and a
+former scientist for the Office of Naval Research; TRS Rule of 80 retiree. Running to
+"pay it forward to Austin and Texas volunteering at something I know a thing or two
+about." Three distinctive ideas: **trustee term limits** - *"30 years on the board is
+something that shouldn't happen"*; **renaming and rebranding** the college with "more
+gravitas" to raise its profile and pull in out-of-area enrollment; and **changing free
+tuition to apply only after a student finishes the first two years**, so students have
+"skin in the game." Also runs on transparency, removing logistical and financial
+barriers, and communicating ACC's community impact better. No endorsements found.
+
+**The question in Place 3** is whether 24 years is institutional memory arriving
+exactly when it is needed - a new president, the pilot's expiry, a revenue squeeze -
+or an argument against itself. Hale is the only candidate on either ACC race proposing
+to **narrow** free tuition, and he concedes he is up against a competent incumbent;
+his headline idea, a rename, is the kind of thing a single trustee cannot deliver.
+
+### Sources
+
+Statesman election preview and its Place 1 and Place 3 endorsements; KUT's candidate
+guide (October 16, 2026); Community Impact's Place 1 and Place 3 Q&As; the Austin
+Chronicle endorsements; ACC's own election newsroom post and candidate page; KUT on
+the FY2027 budget and on the pilot doubling; ACC's year-two review of free tuition.
