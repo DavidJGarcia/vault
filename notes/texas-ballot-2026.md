@@ -551,3 +551,69 @@ Texas A&M, lost the Republican primary.
   the voucher program and press the Legislature to close exemptions and broaden the
   tax base to buy down property taxes.
 - **V. Alonzo Echavarria-Garza (L)** and **Shehla Faizi (G)** are also on the ballot.
+
+### Commissioner of the General Land Office
+
+- **Dawn Buckingham (R).** Incumbent, surgeon, one term; the Alamo redevelopment and
+  the border land purchases are hers.
+- **Benjamin Flores (D).** Cybersecurity specialist and former city council member;
+  opposes vouchers, runs on coastal resilience and on public land revenue for schools.
+- **Neill Snider (L).**
+
+### Commissioner of Agriculture
+
+- **Nate Sheets (R).** Founded Nature Nate's honey, sold it in 2021, six years in the
+  Naval Reserve; **beat incumbent Sid Miller in the March primary**. Abbott endorsed
+  Sheets, Trump endorsed Miller, and Miller has pointedly declined to endorse Sheets
+  since.
+- **Clayton Tucker (D).** 35, rancher and party activist, running on much the same
+  farm-economy ground with less experience. A University of Houston poll on October 14
+  had it Sheets 46, Tucker 40, 12 undecided.
+- **Austin R. Kelly (L).**
+
+### Railroad Commissioner
+
+Oil and gas regulation, well plugging, and the gas side of grid reliability.
+
+- **Bo French (R).** Former Tarrant County GOP chair and energy investor; **beat
+  incumbent Jim Wright in the runoff, 50.6 to 49.4**. Would cut operator regulation
+  and end what he calls diversity-based contracting; his social media posts have drawn
+  criticism from inside his own party.
+- **Jon Rosenthal (D).** Houston state representative and oil-field engineer; would
+  enforce gas weatherization rules and make the industry fund the plugging of
+  abandoned wells.
+- **Arthur DiBianca (L).**
+
+### U.S. House, District 10
+
+An open seat on a district redrawn in the 2025 mid-decade redistricting; Michael
+McCaul is not running. The new CD-10 takes in north Austin, Pflugerville, Manor,
+Elgin and Bastrop and was drawn to be safely Republican.
+
+- **Chris Gober (R).** Election lawyer, founder of a 50-person firm; ran the Musk
+  America PAC in 2024 and won a campaign-finance case at the U.S. Supreme Court for
+  Ted Cruz. Endorsed by Trump, Abbott, Cruz and Speaker Johnson; raised over $1
+  million; no prior elected office. Democracy Docket has noted his hand in the 2025
+  redistricting that drew the district he is running in.
+- **Caitlin Rourk (D).** Army veteran, first run for office; an economy that rewards
+  work rather than wealth, health care costs, accountable government. Little published
+  coverage and no reported fundraising totals.
+
+### Texas House, District 46
+
+- **Sheryl Cole (D)**, incumbent since 2019, former Austin council member and mayor
+  pro tem, **unopposed** - the Republican primary for the seat was canceled. The
+  district is all of Manor, most of Pflugerville and much of east Austin.
+
+### State Board of Education, District 5
+
+An open Austin-area seat; the district is Travis, Hays, Bastrop, Caldwell and
+Guadalupe counties plus parts of Blanco and Williamson.
+
+- **Dolores "Mica" Arellano (R).** Thirty-year educator from Kyle. Runs on school
+  safety, curriculum standards, teacher retention, and spending in classrooms rather
+  than on bureaucracy. Declined press interviews.
+- **Allison Bush (D).** Twenty-five years in Texas classrooms including Pflugerville
+  and Bastrop. Wants historically accurate and varied curriculum, more local district
+  latitude inside the state standards, and an end to what she calls politically driven
+  curriculum changes.
