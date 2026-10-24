@@ -465,3 +465,22 @@ $42.6M, which on dollars alone is 14.7 years.
 **The four years is seventeen against thirteen** — what the $6.5 million of defeasance
 the board levies by choice buys, measured against stopping it. It was never fifteen
 against thirteen, and no answer above claimed defeasance turns 15 into 13.
+
+## The whole ballot, and every option on it
+
+Asked October 24, 2026: "research my ballot and let me know what's on it, work up
+each of the options to vote for." (The ring heard "my account.")
+
+**His ballot is the Travis County consolidated ballot filtered to:** Congressional
+District 10 (the new 2025 map), Texas House District 46, State Board of Education
+District 5, Justice of the Peace Precinct 1, County Commissioner Precinct 1 (not up
+this year), the Austin Community College taxing district, Manor ISD and the City of
+Manor. About **forty contests**, of which about **twenty are a real choice** - the
+rest are unopposed. State Senate District 14 is not on it: Sarah Eckhardt's term
+runs to 2028 even though she is running for Comptroller.
+
+The one thing that cannot be settled without his address is whether a **municipal
+utility district** board seat appears; he pays a MUD on the second house and MUD
+director races are drawn by district. The personalized ballot at votetravis.gov
+(Voter Lookup) is the authority on that. Nothing below is advice on how to vote; it
+is what each option is.
