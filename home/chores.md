@@ -16,11 +16,18 @@ he emptied it. The rule itself is in `instructions.md`.
 | Friday, October 9, 2026, 10:15 p.m. | David himself | — |
 | Wednesday, October 14, 2026, 7:27 a.m. | David himself | 4 days 9 hours |
 | Sunday, October 18, 2026, 9:49 a.m. | David himself | 4 days 2 hours |
+| Friday, October 23, 2026, 9:41 p.m. | David himself | 5 days 12 hours — over |
 
-Next due: Friday, October 23, 2026.
+Next due: Wednesday, October 28, 2026.
 
 Each emptying is now a record of its own kind, `litter_emptying`, born on the
-October 14 one. The rule has held at every emptying on record.
+October 14 one.
+
+**The rule was passed for the first time on October 23, 2026**, by about twelve
+hours. The reminder fired that day at 6 p.m. and he emptied it at 9:41 p.m.;
+because he gave no time beyond "today", the emptying is filed at the moment he
+spoke, so the real gap may have been shorter. The three earlier emptyings all
+held, at four days and a few hours each.
 
 ## Trash and kitty litter
 
