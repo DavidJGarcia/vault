@@ -769,3 +769,20 @@ judicial guide; Wikipedia 2026 Texas elections and 2026 Texas Supreme Court elec
 Ballotpedia on CD-10, HD-46 and the Third Court of Appeals; law.com Texas Lawyer on
 Byrne against Liu; Austin Chronicle endorsements; decentballot.com Travis County
 ballot.
+
+## Land Office and Agriculture, worked up at length
+
+Asked October 24, 2026: "in the ballot recap expander, add session sections about the
+Commissioner of the General Land Office and the Commissioner of Agriculture." Those two
+races got three bullets each in the ballot section above, the thinnest on the whole
+ballot; this is both of them at the length the rest got.
+
+### Commissioner of the General Land Office
+
+**The office.** The oldest agency in Texas, created in 1836. It manages about **13
+million acres** of state land and the mineral rights under it, and the leasing revenue
+feeds the **Permanent School Fund** - $57 billion in assets, about **$2.4 billion a year
+to public schools**, which is why this office matters to a Manor ISD household even
+though it never appears on a tax bill. It also runs the federal disaster recovery money
+Texas receives, the **Veterans Land Board** (land and home loans, state veterans homes
+and cemeteries), coastal protection, and **the Alamo**. Four-year term.
