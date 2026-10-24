@@ -802,3 +802,30 @@ sustained controversy: she called the site recognition of Indigenous Peoples Day
 and Alamo Trust chief executive Kate Rogers was forced out after the backlash.
 Endorsed by Trump, 11 state senators, 42 state representatives and the land and energy
 industry groups. **$3.2 million** cash on hand at June 30.
+
+**Benjamin Flores (D), challenger.** Bay City city councilman on the Matagorda coast,
+thirty years in cybersecurity and compliance, served on local economic development
+boards, raises pigs on a small scale; an immigrant from Mexico; worked community
+disaster response after the Gulf storms. Beat veteran and labor organizer Jose Loya in
+the March primary. Platform: publish **timelines and dashboards** for disaster recovery
+and work directly with communities so rural, coastal and low-income Texans are not left
+waiting years; expand responsible leasing but strengthen oversight of the Permanent
+School Fund; make the Veterans Land Board easier to actually use; coastal and climate
+resilience as the first priority; protect academic freedom in how the Alamo is
+presented; and he opposes the voucher program. On border security he says Texas can
+protect the border "without surrendering control of state lands or sacrificing parks,
+resources and private property rights." In late May 2026 his campaign disclosed a
+**leukemia** diagnosis; two weeks later, in June, he said he was in remission and
+stayed in the race. Endorsed by Democratic state representatives, the Texas AFL-CIO,
+the Sierra Club and the state party groups. **$3,001** cash on hand - effectively no
+money against her $3.2 million.
+
+**Neill Snider (L).** Mechanical contractor from Waco. Wants lower taxes, the land run
+for maximum profit and more transparency at the GLO. $0 raised; did not answer the
+Community Impact candidate questionnaire.
+
+**Polling, and it does not agree with itself.** University of Houston, October 10-14:
+**Buckingham 47, Flores 40**, Snider 2, 11 undecided. Texas Public Opinion Research,
+October 15-18: **49-48**. ActiVote, October 17: **51.9-48.1**. One to seven points
+depending on the pollster - a thinly polled race where the undecided share is larger
+than any lead.
