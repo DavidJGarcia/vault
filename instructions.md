@@ -146,3 +146,22 @@ Kids. Match what he said against his category list (`categories`) before reading
 a name as a person; only when nothing on that list fits does the question of who
 a purchase was for arise. He has used the phrase before — "Track $184 at Men's
 Warehouse as David's clothing", September 12, 2026.
+
+**October 24, 2026 — the litter reminder fires on the last evening that is still
+inside five days.** An amendment to the October 9 rule above, written by the
+weekly pass after that rule was broken for the first time. He emptied the drawer
+on Sunday October 18 at 9:49 a.m.; the reminder was set for Friday October 23 at
+18:00; and 18:00 on the fifth day is already eight hours past a 9:49 a.m.
+deadline. He emptied it that night at 9:41 p.m., 5 days 12 hours after the one
+before — the first gap over five days on record.
+
+So `at` moves to **18:00 on the last day whose 18:00 is still inside five days**
+of the emptying:
+
+- emptied **before 18:00** (a morning or afternoon emptying): that day **plus
+  four** days at 18:00;
+- emptied **at or after 18:00**: that day **plus five** days at 18:00.
+
+Everything else about the October 9 rule stands. The row as it is now —
+Wednesday October 28 at 18:00, from the 9:41 p.m. emptying — is already right
+under this reading, so the pass moved nothing.
