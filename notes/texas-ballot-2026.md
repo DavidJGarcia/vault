@@ -484,3 +484,70 @@ utility district** board seat appears; he pays a MUD on the second house and MUD
 director races are drawn by district. The personalized ballot at votetravis.gov
 (Voter Lookup) is the authority on that. Nothing below is advice on how to vote; it
 is what each option is.
+
+### U.S. Senate
+
+For the seat John Cornyn has held since 2002. Polls have it a dead heat: Texas
+Public Opinion Research on October 23 had Talarico 51-47; Fox News had 49-49; the UT
+Texas Politics Project had Talarico 50-47. No debate has been agreed to.
+
+- **Ken Paxton (R).** Attorney General since 2015. Impeached by the Texas House in
+  2023 and acquitted by the Senate; securities-fraud charges dismissed in 2024 after
+  nine years; the whistleblower suit by his own former deputies is unresolved.
+  Running on the border, the Trump agenda and control of the chamber.
+- **James Talarico (D).** State representative from Austin, former middle-school
+  teacher, seminary student, large online following. Running an anti-corruption
+  campaign aimed at Paxton and at Elon Musk's money in Texas politics.
+- **Ted Brown (L).** Longtime Austin-area Libertarian activist.
+
+### Governor
+
+Abbott leads by about 3 to 4 points in the October polling averages, and leads voters
+45 and older while Hinojosa leads the under-45s. He ended the September 24 reporting
+period with $18.2 million on hand against her $4 million.
+
+- **Greg Abbott (R).** Governor since 2015, seeking a fourth term. Chief champion of
+  the education savings account (voucher) program passed in 2025.
+- **Gina Hinojosa (D).** State representative from Austin, former Austin ISD board
+  president. Would end the voucher program and raise public school funding; the rest
+  of the campaign is affordability, health care costs and insurance.
+- **Pat Dixon (L).** Former Lago Vista council member, long-time Libertarian
+  candidate.
+
+### Lieutenant Governor
+
+The office that controls what the Texas Senate votes on. One October poll had
+Goodwin narrowly ahead; an October 17 poll had Patrick up 7.6.
+
+- **Dan Patrick (R).** Lieutenant Governor since 2015, seeking a fourth term; drove
+  vouchers and the THC ban through the Senate.
+- **Vikki Goodwin (D).** State representative from west Austin, real estate broker.
+- **Anthony Cristo (L)** and **Kevin McCormick (G)** are also on the ballot.
+
+### Attorney General
+
+An open seat, and the closest statewide race after the Senate: polling averages have
+Middleton 46, Johnson 43, with more than a fifth undecided.
+
+- **Mayes Middleton (R).** State senator from Galveston, oil and gas businessman and
+  heavy self-funder. Promises to enforce the Trump deportation orders, defend the
+  abortion laws and fight what he calls the radical gender agenda.
+- **Nathan Johnson (D).** State senator from Dallas, lawyer with a reputation for
+  cross-aisle deals. Would turn the office toward consumer protection, public
+  corruption and government accountability and away from partisan litigation.
+- **Tom Oxford (L).** Beaumont lawyer.
+
+### Comptroller of Public Accounts
+
+Also open. Kelly Hancock, appointed acting comptroller after Glenn Hegar left for
+Texas A&M, lost the Republican primary.
+
+- **Don Huffines (R).** Former Dallas state senator and developer; primaried Abbott
+  from the right in 2022. Would run a Texas DOGE - audit agencies, publish the
+  findings, push the savings into property tax relief - and market the voucher
+  program harder.
+- **Sarah Eckhardt (D).** His own state senator (District 14), and Travis County
+  Judge for five years before that; cut the county tax rate three times. Would audit
+  the voucher program and press the Legislature to close exemptions and broaden the
+  tax base to buy down property taxes.
+- **V. Alonzo Echavarria-Garza (L)** and **Shehla Faizi (G)** are also on the ballot.
