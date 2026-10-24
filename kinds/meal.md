@@ -215,3 +215,12 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         serving, so an entree's per-gram figure must never be used on a side. He orders
         the entree and the side in separate captures, a minute or two apart, each with its
         own weight: file each as its own row rather than reading the second as a correction.
+        Orange Chicken, the third Panda Express item of October 23, 2026 ("57 g of
+        Panda Express orange chicken", 8:19 pm, leftovers eaten 90 minutes after the
+        Beijing Beef and chow mein): chain panel 5.7 oz (162 g), 490 kcal, 25 g protein,
+        51 g carb, 23 g fat, 2 g fiber, 820 mg sodium - 3.02 kcal/g, 0.154 g protein/g
+        and 5.06 mg sodium/g, so 57 g was 172 kcal, 8.8 g protein, 288 mg sodium. Watch
+        the source here: fastfoodnutrition, which matched the chain on Beijing Beef and
+        chow mein, prints a stale smaller panel for Orange Chicken (370 kcal, 19 g
+        protein at the same 5.7 oz). Take the chain figure, and check a second source
+        when a Panda item looks light.
