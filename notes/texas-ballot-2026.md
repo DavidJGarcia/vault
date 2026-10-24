@@ -829,3 +829,28 @@ Community Impact candidate questionnaire.
 October 15-18: **49-48**. ActiVote, October 17: **51.9-48.1**. One to seven points
 depending on the pollster - a thinly polled race where the undecided share is larger
 than any lead.
+
+### Commissioner of Agriculture
+
+**The office.** Head of the Texas Department of Agriculture and the chief advocate for
+the industry inside state government. It regulates pesticides, plants, grain, cattle
+and the hemp business; runs **weights and measures** - the gas pumps and grocery scales
+and scanners that have to charge what they say; administers the **school lunch and
+breakfast programs**, so Manor ISD cafeterias answer to this office; and delivers rural
+health, rural development grants and producer disaster relief. Four-year term. Texas law
+also requires a candidate to have been **in the agricultural business for five of the
+last ten years**, which is the fight this race turned into.
+
+**Nate Sheets (R).** Co-founded **Nature Nate's** raw honey with his wife and sold the
+company in 2021; six years in the Naval Reserve; once communications director for an
+evangelical ministry. Also holds Nature Nate's Farms, bought in 2012, and a
+**10,000-acre ranch near Guthrie** with cattle and cutting horses. **He beat three-term
+incumbent Sid Miller in the March 3 primary** - Abbott endorsed Sheets in January, Trump
+had endorsed Miller, and Miller has pointedly not endorsed Sheets since. Platform: clean
+and healthy food for Texas schools and harsh chemicals out of the food supply, which
+places him with the **MAHA** movement around Robert F. Kennedy Jr.; profitability
+restored for farmers and ranchers; **against tax breaks for data centers**; citizenship
+verification for employment; federal agroterrorism investigations. Raised **$1.9
+million** January to June (Jim Moyer $300,000, the Texas Republican Leadership Fund
+$294,600) with $104,510 on hand at June 30 - he spends it as it comes. Endorsed by
+Abbott, three state senators and Jim McIngvale.
