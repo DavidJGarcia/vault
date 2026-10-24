@@ -201,3 +201,34 @@ order number**, so there is no searching by amount at all; the items for one
 order are then at `amazon.com/gp/css/summary/print.html?orderID=<number>`, a
 short page. That print page caches, so add a throwaway query parameter when
 moving between orders.
+
+**October 24, 2026 — memo his Amazon refunds too, every weekly pass.** "Would you
+give me the memos in YNAB for my Amazon refunds and also from now on do that in
+the weekly runs as well?"
+
+The October 18 rule above covers his imported Amazon and Walmart *charges*. It now
+covers his Amazon **refunds** as well: the money-in rows on the Amazon payee over
+the same ninety days that no memo explains. Already grouped, so skipped, by the
+same reading as the charges: a memo he wrote himself, a memo that already names an
+order or says no match was found.
+
+- The order behind a refund is at `amazon.com/cpe/yourpayments/transactions`, which
+  names it on every "Refunded" row. The list loads as it scrolls and does not
+  paginate; ninety days is about a dozen scrolls.
+- What was returned is at `amazon.com/your-returns`, which pairs each return with
+  its item, size, colour and price; **"See more"** at the foot reaches past the
+  first dozen. The status line ("Return complete", "$X is credited …") belongs to
+  the item *below* it, not above.
+- **Match by order number, never by amount.** A refund often arrives in two pieces,
+  part to the Prime Visa and part to the Chase card rewards, and only the Visa part
+  reaches YNAB — so the total Amazon shows is larger than the row in his budget.
+  When they differ, say both in the memo. Item price plus 8.25% Texas tax is the
+  check that an item belongs to a row.
+
+The format of the first run, October 24: `Amazon refund, order 111-9834949-8518637
+(refunded Oct 9): Mantto men's steampunk Victorian frock coat tailcoat, Medium,
+red, $36.99 + tax.`
+
+Everything else about the October 18 rule holds — the memo is the only change,
+nothing is deleted, no match is said in the memo with the span checked, newest
+first and at most 25 a pass, and the view names what was memo'd.
