@@ -224,3 +224,13 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         chow mein, prints a stale smaller panel for Orange Chicken (370 kcal, 19 g
         protein at the same 5.7 oz). Take the chain figure, and check a second source
         when a Panda item looks light.
+        "jame" was chow mein. On October 23, 2026 at 8:23 pm "I'm having another 20 g
+        of jame." was filed as 20 g of fruit jam, 56 kcal, with a note that "another"
+        had no antecedent; 78 seconds later "No, not jam: chow mein from Panda Express."
+        re-priced the row to 38 kcal, 1 g protein, 65 mg sodium off the side panel above -
+        a third helping of the 151 g chow mein of 6:51 pm, which is what "another" meant.
+        A short mangled noun in an eating note is worth testing against what he has
+        already eaten today before it is read as a new food: the day's own rows name the
+        likeliest candidate, and a dangling "another" is the signal that the reading is
+        wrong. He corrects in the form "No, not X: Y", which re-prices the row just
+        filed rather than adding one.
