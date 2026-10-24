@@ -891,3 +891,130 @@ races; KWTX and The Texan on Buckingham against Flores; Texas Tribune on the Flo
 leukemia diagnosis and remission; Fox 7 Austin on the eligibility accusations; AgDaily;
 and the University of Houston Hobby School survey, Texas Public Opinion Research and
 ActiVote for polling.
+
+---
+
+## State Board of Education, District 5 - the long version
+
+Added October 24, 2026, when he asked for more about this race. The short entry
+above stands; this is the whole of it.
+
+### What the seat actually controls
+
+Fifteen elected members, four-year terms, no pay. The board does four things that
+reach into every public and charter classroom in Texas:
+
+1. **The standards (TEKS).** What must be taught in every subject at every grade.
+   These drive the STAAR tests and, through them, district A-F ratings.
+2. **Instructional materials.** The board reviews and approves the textbooks and
+   curriculum products the state pays for, and since 2023 it approves the
+   state-developed materials districts are paid a bonus to adopt.
+3. **Charter schools.** The board can veto a new charter chain the commissioner
+   has approved - three of fifteen votes short of a veto and the charter opens.
+4. **The Permanent School Fund.** The board sets the investment policy for the
+   fund (about $57B) and the annual distribution to schools; the Land Office
+   manages the land side of it. The same fund appears on his ballot under the
+   Land Office race.
+
+What the board does **not** control: vouchers and ESAs (the Legislature and the
+Comptroller), teacher pay, school finance, district operations, library books in
+a particular district, or the commissioner of education (the governor appoints
+him). A candidate promising to fix teacher pay from this seat is promising
+something the seat cannot do.
+
+The board is **11 Republicans and 4 Democrats** going into this election, and
+**eight of the fifteen seats are up**, so the November result sets the board that
+writes standards for the next four years.
+
+### Why this seat is open
+
+**Rebecca Bell-Metereau (D)** has held District 5 since January 2021 - she took it
+from Ken Mercer, one of the most socially conservative members the board ever had,
+and she is the retiring member now, not seeking a third term. She won re-election
+in 2022 by **63.8% to 36.2%**, about 28 points, which is the number to keep in
+mind: District 5 is Travis-anchored and has voted Democratic for this seat by wide
+margins. An open seat in a district like that is a Democratic hold on paper.
+
+District 5 is Travis, Hays, Bastrop, Caldwell and Guadalupe counties plus parts of
+Blanco and Williamson - Austin, Manor, San Marcos, Seguin, Bastrop, Kyle, Buda,
+Lockhart.
+
+### The board's recent record, which is what the race is about
+
+- **Bluebonnet Learning**, the state-written K-5 reading and math curriculum the
+  board approved in November 2024 on an 8-7 vote, with Bible-based lessons woven
+  through the reading units (the Sermon on the Mount in a kindergarten unit, the
+  Golden Rule, the Last Supper in a unit on art). Districts that adopt it get $60
+  per student. It has since needed a **$8.4 million correction contract** for
+  thousands of errors found after adoption - the number both campaigns mean when
+  they say the board wastes money.
+- **Social studies standards** rewritten with a heavier Christian and Texan
+  emphasis, after the 2022 rewrite collapsed.
+- **An approved reading list** criticised in and out of the board for how little of
+  it is by or about anyone who is not white.
+- **Charter votes** that have split the board, and a running argument about whether
+  the board should be rubber-stamping approvals from the commissioner.
+
+### Dolores "Mica" Arellano (R)
+
+- **Who.** A thirty-year educator, lives in Kyle (Hays County). Her current work is
+  listed as a client advocate at a Hays County agency. No prior office; this is her
+  first run. Unopposed in the March 3 primary, 78,523 votes.
+- **The platform**, which she calls the Five-Star Education Standard: school safety
+  ("secure, structured classroom environments"), proven academics ("strong,
+  measurable curriculum standards aimed at academic and career preparation"),
+  teacher support (reducing burnout, giving educators the tools they need),
+  parental voice (parents as partners in decisions), and responsible spending (tax
+  dollars to "students and classrooms rather than unnecessary bureaucracy").
+- **What is not said.** Her site and her voter-guide entries carry no position on
+  Bluebonnet, on the Bible-infused lessons, on charter expansion, on the Permanent
+  School Fund, or on vouchers. She **declined KUT's interview request** and left
+  the iVoterGuide questionnaire blank - every item, not only the education ones.
+  Her own site's testimonials section still holds placeholder text. So the honest
+  summary is a career teacher running on competence and classroom experience, with
+  the contested questions unanswered in public.
+- **Endorsements.** Travis County Republican Party. iVoterGuide rates her
+  "Conservative" on her party and giving history rather than on answers.
+- **Money.** Nothing filed beyond self-funding on record - her reported
+  contributions are from herself.
+
+### Allison Bush (D)
+
+- **Who.** Twenty-five years in Texas public education - classroom teacher, career
+  counselor, administrator, nonprofit leader. Theater, speech and career-technical
+  classes in Crosby ISD early on, later Pflugerville and Bastrop. Was a special
+  education student herself and has dyslexia, which she talks about as the reason
+  she teaches the way she does. First run for office.
+- **How she got here.** Led a six-candidate March primary with 83,648 votes
+  (35.5%), then won the May 26 runoff over Stephanie Limon Bazan **61.2% to 38.8%**.
+- **The platform.** The board's job is to set strong standards and a reasonable
+  curriculum framework and then stop - "transparent standards, responsible
+  governance and student-focused policies reflecting the needs of all communities,
+  not political agendas." Specifically: historically accurate and varied
+  curriculum, no faith-specific teaching mandates, no reading lists teachers
+  cannot realistically use, **more district latitude in how to meet state
+  standards** (her argument is that Texas is too varied for one prescribed route),
+  educator input weighted heavily in standards and materials decisions, charter
+  accountability before charter expansion, and board process published in plain
+  language with real timelines. Her stated reason for running is that the board
+  has too few members who have taught.
+- **Endorsements.** Austin American-Statesman editorial board (recommending her
+  for a nonpartisan approach that puts students and teachers before political
+  agendas), Austin Chronicle, Austin Central Labor Council (she is a former Texas
+  AFT member), Asian American Democrats of Texas, Liberal Austin Democrats, and a
+  number of local school board members.
+- **Money.** No large totals reported; this is a low-dollar race on both sides.
+
+### How to read the choice
+
+Two career educators, no incumbent, and a race that turns on **how far the state
+should specify what is taught**. Bush has said plainly what she would undo - the
+Bible-infused reading units, the prescriptive materials, the board's political
+drift - and would widen district latitude. Arellano is running on safety,
+measurable standards, parental voice and spending discipline, and has not said in
+public where she lands on the Bluebonnet-era decisions, which is the one thing a
+voter would most want from her.
+
+There is **no Libertarian or write-in** in this race: it is a two-way. A seat the
+Democratic incumbent held by 28 points, open, with eight of fifteen board seats on
+ballots across Texas the same night.
