@@ -786,3 +786,19 @@ to public schools**, which is why this office matters to a Manor ISD household e
 though it never appears on a tax bill. It also runs the federal disaster recovery money
 Texas receives, the **Veterans Land Board** (land and home loans, state veterans homes
 and cemeteries), coastal protection, and **the Alamo**. Four-year term.
+
+**Dawn Buckingham (R), incumbent.** Ophthalmic surgeon from Lakeway, state senator for
+District 24 before this, the first woman to hold the office; elected 2022, unopposed in
+the March 3, 2026 primary. Her record as she runs on it: nearly **$6 billion** sent to
+public education and about **$9 billion** of disaster recovery administered during the
+term, energy development expanded on state land, and new exploration of geothermal,
+small modular nuclear and natural gas leasing. She names **water** as the biggest
+five-year problem facing Texas and backs research into treating produced water from oil
+and gas wells. On the border she has bought ranches near Big Bend for state control,
+launched the **Jocelyn Initiative** on immigration enforcement, and ordered federal
+contractors off state border land; she promises to "hold anyone accountable who enters,
+damages or alters Texas property without authorization." The **Alamo** is her one
+sustained controversy: she called the site recognition of Indigenous Peoples Day "woke"
+and Alamo Trust chief executive Kate Rogers was forced out after the backlash.
+Endorsed by Trump, 11 state senators, 42 state representatives and the land and energy
+industry groups. **$3.2 million** cash on hand at June 30.
