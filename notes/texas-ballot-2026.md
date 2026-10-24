@@ -617,3 +617,58 @@ Guadalupe counties plus parts of Blanco and Williamson.
   and Bastrop. Wants historically accurate and varied curriculum, more local district
   latitude inside the state standards, and an end to what she calls politically driven
   curriculum changes.
+
+### Supreme Court of Texas - four of nine seats
+
+The unusual part of the ballot: **all four Republicans are Abbott appointees**, and
+three of the four Democrats sit on the Austin-based Third Court of Appeals, so a
+Democratic sweep would flip four seats on the state's highest civil court and empty
+much of the local appeals court at the same time.
+
+- **Chief Justice: Jimmy Blacklock (R)** against **Maggie Ellis (D)** - both worked
+  up in the first section of this file. Ellis is endorsed by the Texas AFL-CIO,
+  EMILYs List and the Austin, Houston and San Antonio papers.
+- **Place 2, unexpired term: James P. Sullivan (R)**, appointed January 2025, Rice
+  and Harvard Law, another former Abbott general counsel, campaigns on "bold,
+  relentless, conservative judging" - against **Chari Kelly (D)**, Third Court of
+  Appeals justice since 2019, Army JAG veteran and former prosecutor, board certified
+  in judicial administration and in criminal law, more than 800 authored opinions.
+- **Place 7: Kyle D. Hawkins (R)**, appointed October 2025, former Texas Solicitor
+  General and clerk to Justice Alito, has argued several U.S. Supreme Court cases -
+  against **Kristen Hawkins (D)**, presiding judge of the 11th District Court in
+  Harris County since 2017, board certified in civil trial law, Tex-ABOTA Jurist of
+  the Year in 2021. **No relation**; the identical surname is the oddity of this
+  ballot.
+- **Place 8: Brett Busby (R)**, appointed 2019 and elected 2020, previously on the
+  Fourteenth Court of Appeals, board certified in civil appellate law, taught at UT -
+  against **Gisela D. Triana (D)**, Third Court of Appeals justice since 2019, who
+  ran for this same seat in 2020 and lost.
+
+### Court of Criminal Appeals - three of nine seats
+
+The court of last resort for criminal cases in Texas; it hears no civil matters.
+
+- **Place 3, open: Thomas Smith (R)**, special assistant attorney general with
+  appellate experience, previously in Paxton's Senate office, won the runoff with
+  Paxton's endorsement - against **Okey Anyiam (D)**, Dallas criminal defense lawyer
+  of nearly thirty years running on equal access to justice - and **Mark Ash (L)**.
+- **Place 4: Kevin Patrick Yeary (R)**, incumbent since 2015, former prosecutor in
+  Bexar, Harris and Dallas counties, seeking a third term - against **Audra Riley
+  (D)**, judge of Dallas County Criminal District Court No. 3, elected 2020.
+- **Place 9, open: John Messinger (R)**, of the Office of the State Prosecuting
+  Attorney, dozens of appellate arguments, won his primary with about 69 percent -
+  against **Holly Taylor (D)**, former rules attorney for this court, senior
+  post-conviction and conviction-integrity roles in the Travis County DA's office,
+  taught at UT Law.
+
+### Third Court of Appeals, Chief Justice
+
+Judge against judge, and the only intermediate appellate race on his ballot. This is
+the court that hears appeals out of Travis County.
+
+- **Darlene Byrne (D)**, incumbent chief justice since 2021; district judge of the
+  126th in Travis County from 2001, seventeen years of foster-care dockets, founded a
+  family drug treatment court.
+- **Cory Liu (R)**, judge of the 250th District Court, appointed by Abbott on
+  December 31, 2025; two federal appellate clerkships, lawyer for the governor's
+  office and for the Texas Senate; University of Chicago and Harvard Law.
