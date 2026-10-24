@@ -165,3 +165,39 @@ of the emptying:
 Everything else about the October 9 rule stands. The row as it is now —
 Wednesday October 28 at 18:00, from the 9:41 p.m. emptying — is already right
 under this reading, so the pass moved nothing.
+
+## How you run
+
+**October 24, 2026 — stop shelling out to grep, python and sed.** Written by the
+weekly pass against his October 18 ask: *"Tell me more about the blocked calls
+(the refusals). What happened? I'd like to tweak things if needed to make sure
+you can do what I need."* Nothing changed then, and the same handful of mistakes
+ran **177 times across 116 captures** in the week that followed — about a third
+of every tool call made.
+
+- A relay reply saved in the replies cache is read with the **Read and Grep
+  tools**, never with `grep`, `head`, `sed` or a `python` heredoc in Bash. The
+  shell guard allows one `python <relay.py> …` command and nothing else, so every
+  such call is refused and costs a turn. This is the biggest group by far.
+- A `$` in a `say`, `record` or `log` argument goes in **single quotes or a
+  quoted heredoc**. Escaping it inside double quotes is refused.
+- The browser tool `get_page_text` is refused by the classifier every time it has
+  been tried — eight times this week, always on a Walmart cart page. Use
+  `read_page` or `find` instead.
+- A whole file rewritten with `vault put` is **truncated past about 155 lines**,
+  so a long file is changed with `vault append … - ` and a quoted heredoc instead.
+
+None of this changed an answer he got: every refused call was retried and every
+receipt went out. It is pure waste. It is also the one thing on this page that is
+about the worker rather than about him, so delete the section if it belongs
+somewhere else.
+
+**Two shortcuts for the Walmart and Amazon memo work**, found the same day.
+Walmart: `walmart.com/orders` pages by clicking Next, and `read_page` on the
+Purchase history region at depth 3 lists every order's type, date, return link
+(which carries the order number) and total in about forty lines. Amazon:
+**`amazon.com/cpe/yourpayments/transactions` maps every charge straight to its
+order number**, so there is no searching by amount at all; the items for one
+order are then at `amazon.com/gp/css/summary/print.html?orderID=<number>`, a
+short page. That print page caches, so add a throwaway query parameter when
+moving between orders.
