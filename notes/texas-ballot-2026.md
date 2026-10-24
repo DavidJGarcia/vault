@@ -1231,3 +1231,82 @@ Statesman election preview and its Place 1 and Place 3 endorsements; KUT's candi
 guide (October 16, 2026); Community Impact's Place 1 and Place 3 Q&As; the Austin
 Chronicle endorsements; ACC's own election newsroom post and candidate page; KUT on
 the FY2027 budget and on the pilot doubling; ACC's year-two review of free tuition.
+
+## What his address settles — October 24, 2026
+
+Asked at 10:43 am, three hours after the work-up above: *"My address is 13813 Long
+Shadow Drive, 78653. I think I'm in Travis County, Mud II but you should be able to
+look up my actual ballot with that information."* It closes the loose end and
+**corrects two things written above**.
+
+### 1. The MUD: he is right, and there is nothing to vote
+
+13813 Long Shadow Drive is in ShadowGlen, which is served by **Travis County
+Municipal Utility District No. 2** — his "Mud II". Its 2025 rate is 0.8310 per $100
+(26.25¢ debt service, 21.85¢ operations, 35¢ contract tax). ShadowGlen spans two
+districts about 5.9 cents of rate apart; No. 2 is the one over the older core of the
+subdivision, where Long Shadow Drive is.
+
+The district **did** call a director election for November 3, 2026 — and then
+**cancelled it**. Its own election page carries two documents: the notice of the
+filing deadline, and an *Order Declaring Election of Unopposed Candidates and
+Canceling Election [at large; secretary]*, signed in September 2026. The unopposed
+candidates are elected as filed, so **no MUD board seat appears on his ballot**.
+(The board as it stands: Wilmer Roberts president, Tracy Johnson vice president,
+Gwen Huntley secretary, Melissa Hudson and Minu Molina assistant secretaries.)
+
+### 2. He is in the ETJ, not the city — the City of Manor section is not his ballot
+
+The Census Bureau's current place boundaries put his point — 30.357433, −97.542144,
+Travis County census tract 424, block 4027, Northeast Travis CCD — in **no
+incorporated place at all**: unincorporated Travis County inside Manor's
+extraterritorial jurisdiction. The same lookup for an address in old-town Manor
+returns "Manor city", so the boundary layer is working and the absence is the
+answer. ShadowGlen's plats are recorded as partly inside the city and partly in the
+ETJ, and Long Shadow Drive is on the ETJ side.
+
+**So strike from his ballot:** council Place 2 (Weir / Battaile), Place 4 (Wallace /
+Samaripa), Place 6 (Paiz / Chambers / Medearis), and charter Propositions A, B, C and
+D. Seven fewer things to vote on, and the section above stands only as a record of
+what his neighbours inside the city are voting on.
+
+**Manor ISD Propositions A and B stay.** The school district is not the city, and the
+address is in Manor ISD — as are the ACC taxing district, SBOE District 5, Justice of
+the Peace Precinct 1 and the county row, none of which follow a city limit.
+
+### 3. His congressional district is 37, not 10
+
+The Census 120th-Congress district layer — which is PLANC2333, the map in effect for
+2026 under the Supreme Court's December 2025 stay — returns **Congressional District
+37** for his block, and for old-town Manor too. The 2021 map had this area in CD-10,
+which is where "CD-10" above came from; under the new map CD-10 runs east through
+thirteen counties and the open McCaul seat is **not his race**.
+
+**U.S. House, District 37** is the one Austin-based Democratic seat left after the
+redraw, rated Solid D by Cook:
+
+- **Greg Casar (D)**, currently the representative for CD-35, which no longer
+  includes Austin. He announced for the redrawn 37th in August 2025; Lloyd Doggett,
+  who has held the seat, said he would not run for re-election if the new map stood,
+  which avoided a primary between them.
+- **Lauren B. Peña (R)**, a first-time candidate, trafficking survivor and
+  conservative activist, who won the May 26 runoff against Ge'Nell Gary.
+- Ballotpedia also lists **James Kinney (I)**; the KUT and Texan write-ups name only
+  Casar and Peña.
+
+Texas House 46 (Sheryl Cole, unopposed), Senate District 14 (not up) and State Board
+of Education District 5 are unchanged by the address.
+
+### What is still not proved
+
+Travis County has not yet posted sample ballots, and the Voter Lookup personalised
+ballot needs his name and date of birth rather than an address, so none of this is his
+actual printed ballot — it is his address matched against each jurisdiction's own
+boundary and each jurisdiction's own election order. The three findings above are
+firm; the way to confirm them in one step is Voter Lookup at votetravis.gov, or the
+ballot he is handed at the Manor ISD Administration Building through October 30.
+
+Sources: traviscountymud2.org election information and district pages; the Census
+Bureau geocoder geographies API (current vintage, all layers); KUT on CD-37, October
+20, 2026; The Texan on Casar's announcement; Wikimedia PLANC2333; votetravis.gov
+current election.
