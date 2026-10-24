@@ -195,3 +195,32 @@ The records behind this document are kind `personal_fact` (see
   calorie or protein number of his own, or a date. The two questions of October 7
   (body fat, then when abs would show) and the second-pork-chop question of
   October 4 all had to be answered against his own recent days for want of one.
+
+## Which jurisdictions he is in
+
+Worked out Saturday, October 24, 2026, when he gave the address a second time to
+settle his ballot: *"I think I'm in Travis County, Mud II but you should be able to
+look up my actual ballot with that information."* His point is 30.357433, −97.542144
+— Travis County census tract 424, block 4027, Northeast Travis CCD.
+
+- **He is not in the City of Manor.** The Census Bureau's current place boundaries
+  put 13813 Long Shadow Drive in **no incorporated place**: unincorporated Travis
+  County, inside Manor's extraterritorial jurisdiction. The same lookup for an
+  address in old-town Manor returns "Manor city", so the absence is the answer, not a
+  gap. ShadowGlen's plats are recorded partly inside the city and partly in the ETJ,
+  and his street is on the ETJ side. He pays no city tax, votes in no city election,
+  and the November 2026 Manor council races and charter propositions are not on his
+  ballot.
+- **He is in Travis County MUD No. 2** — his "Mud II", correct. It serves the older
+  core of ShadowGlen; 2025 rate 0.8310 per $100. ShadowGlen spans two MUDs about 5.9
+  cents apart. Board: Wilmer Roberts, Tracy Johnson, Gwen Huntley, Melissa Hudson,
+  Minu Molina.
+- **Manor ISD**, confirmed by the census school-district layer rather than by
+  neighbouring listings, and the **Austin Community College taxing district** — both
+  follow the school district, not the city.
+- **Congressional District 37**, under PLANC2333, the map in effect for the 2026
+  election. Not CD-10, which is where the 2021 map had him. **Texas House 46**,
+  **Senate District 14** (not up until 2028), **SBOE District 5**, **Justice of the
+  Peace Precinct 1**, County Commissioner Precinct 1.
+
+The ballot that follows from all this is `notes/texas-ballot-2026.md`.
