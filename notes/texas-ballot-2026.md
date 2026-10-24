@@ -854,3 +854,40 @@ verification for employment; federal agroterrorism investigations. Raised **$1.9
 million** January to June (Jim Moyer $300,000, the Texas Republican Leadership Fund
 $294,600) with $104,510 on hand at June 30 - he spends it as it comes. Endorsed by
 Abbott, three state senators and Jim McIngvale.
+
+**Clayton Tucker (D).** 35, raised on the family ranch in Lampasas, fifth-generation
+Texan like Sheets and out of the same Hill Country; fair trade organizer, water and
+agriculture researcher for the National Science Foundation, now secretary of the **Texas
+Farmers Union**. Platform: keep **data centers off farmland** through local "Ag
+Development Districts"; lower food costs and break up the corporate monopolies in meat
+and grain; regulate PFAS and microplastics and get chemicals out of food; back the hemp
+farmers; rebuild agricultural cooperatives so young farmers can start. Raised
+**$264,673** with $162,456 on hand (Don Henley gave $50,000). Endorsed by Lloyd Doggett,
+Greg Casar and the Texas AFL-CIO.
+
+**Austin R. Kelly (L).** Born in Comanche County, runs an ecological consulting firm,
+formerly lectured in rangeland and botany at Texas A&M. Wants the red tape cut off hemp,
+cottage food and local meat processing, and opposes licensing schemes, warrantless
+inspections and eminent domain abuse. $494 raised.
+
+**Each says the other is ineligible.** Tucker filed a complaint arguing that the honey
+company does not satisfy the five-of-ten-years rule - "this is about following the Texas
+law," and a regulator should know the industry he regulates. Sheets answers that the
+2012 farm and the Guthrie ranch qualify him, and that **Tucker** is the ineligible one,
+owning no land and listing his occupation as community organizer - a man who "never
+signed in front of a paycheck." Nothing has come of either complaint; both are on the
+ballot.
+
+**Polling: the closest down-ballot statewide race.** University of Houston, October 14:
+**Sheets 46, Tucker 40**, 12 undecided. ActiVote, October 17: **Sheets +0.6**. One
+forecast gives Sheets a 68 percent chance at a projected 2.1-point margin. Closer than a
+Republican nominee for this office should be in Texas, which the agriculture press puts
+down to the primary upset and to Miller staying quiet.
+
+Sources for this section: Ballotpedia on the Texas Land Commissioner and the 2026
+Agriculture Commissioner election; Wikipedia on both 2026 races; Community Impact
+candidate Q&A on land commissioner; the States Newsroom and Texas Tribune guides to both
+races; KWTX and The Texan on Buckingham against Flores; Texas Tribune on the Flores
+leukemia diagnosis and remission; Fox 7 Austin on the eligibility accusations; AgDaily;
+and the University of Houston Hobby School survey, Texas Public Opinion Research and
+ActiVote for polling.
