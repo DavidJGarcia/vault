@@ -1018,3 +1018,111 @@ voter would most want from her.
 There is **no Libertarian or write-in** in this race: it is a two-way. A seat the
 Democratic incumbent held by 28 points, open, with eight of fifteen board seats on
 ballots across Texas the same night.
+
+---
+
+## Travis Central Appraisal District, Place 3 - the long version
+
+Added October 24, 2026, when he asked for more about this race. The short entry above
+stands; this is the whole of it. It is the one contested seat on his ballot that bears
+directly on the two houses he pays appraised taxes on.
+
+### What the seat actually controls
+
+The 2023 property tax law (SB 2) rebuilt appraisal district boards in counties over
+75,000: **nine members** - five appointed by the taxing units that fund the district
+(the county, the city, the school districts), **three elected countywide**, and the
+county tax assessor-collector as an ex-officio director. Places 1, 2 and 3 are those
+three elected seats, on a **nonpartisan** ballot.
+
+What the board does: **hires and fires the chief appraiser**, approves TCAD's budget
+and contracts, and sets general policy. What it does not do: appraise property. No
+director can change his appraisal, and nobody on this ballot can lower his tax rate -
+that is the city, the county, Manor ISD and ACC.
+
+**The one power that reaches his tax bill is the Appraisal Review Board.** The ARB is
+the citizen panel that hears protests, and under SB 2 the TCAD board appoints it. The
+appointment needs a majority of the board **and at least two of the three elected
+directors have to be in that majority** - so these three seats hold a practical veto
+over who hears protests. That is the whole case for caring about this race.
+
+**Timing.** The winner takes office **January 1, 2027**. The three elected directors
+then **draw lots**: one serves two years, two serve four, and every elected term after
+that is four years. So the Place 3 winner may be back on the ballot in 2028 or in 2030,
+decided by chance.
+
+**The elected bloc turns over completely.** The three elected in May 2024 - Don Hanna,
+Shenghao Wang and Dick Lavine - hold terms that expire December 31, 2026, and none of
+them is on this ballot. Four people filed for the three seats; three are Democrats and
+one a Republican, and only the two in Place 3 own homes. Places 1 (**Skyler Korgel**,
+32) and 2 (**Brian Pena**, 23) are unopposed, which makes Place 3 the only vote he
+casts for this board.
+
+### Yvonne Munoz
+
+**Chief of staff to state Rep. Vincent Perez (D-El Paso)**, who sits on the Texas House
+**Ways and Means Committee** - the committee that writes property tax and appraisal law.
+Before that she was legislative director for Rep. Eddie Morales (D-Eagle Pass) through
+the 2023 session, the session that produced SB 2 and this very board. Over a decade
+advising elected officials and public-sector leaders in Texas and California; a master's
+degree focused on **measurement and assessment**, and a consulting practice doing data
+analysis and program evaluation; graduate of the LBJ Women's Campaign School.
+
+A **first-time homeowner** - a 1,275 square-foot house off US 183 in north Austin, the
+smaller of the two candidates' homes by half.
+
+**What she runs on:** making property tax information findable and understandable - how
+homestead exemptions work, how a protest is filed, what the numbers on the notice mean.
+Her read of the problem is that the system is navigable only by people who already know
+how to navigate it. It is an access and transparency platform, not a spending fight.
+
+**Endorsements:** the **Austin Chronicle**, the **Austin Central Labor Council**, and
+roughly thirteen Democratic clubs and voter guides. The Chronicle called both candidates
+"well-versed for the position given their professional experiences" and gave her "a
+slight leg up" purely on the Ways and Means proximity.
+
+### Philip Gorman
+
+A consultant in **"cloud economics"** - cutting companies' cloud computing bills; he
+says he monitors and optimizes tens of millions of dollars of cost a year. **Treasurer
+of the Circle C Homeowners Association**, a 5,600-home master-planned development in
+Oak Hill, where he oversees a **$7 million** annual budget. Owns a 2,455 square-foot
+Circle C home TCAD values at **$684,000**.
+
+**What he runs on:** watching the appraisal district's own spending closely, and one
+sharp line about appraisal itself - *"It's a money transfer from those who don't protest
+to those who do."* He campaigned against **Austin's 2025 tax rate increase** and against
+**Proposition Q**, the permanent five-cent-per-$100 city rate increase, making the point
+that it was permanent rather than temporary; he notes Circle C voted four to one against
+it. Worth knowing that Prop Q was a **City of Austin** question - Manor is outside the
+city limits, so it never touched David's bill either way.
+
+**Endorsements:** none listed by any organization.
+
+### How to read it
+
+The honest summary is that both are competent and neither is running on anything
+alarming, which is why this comes down to which half of the problem he wants addressed.
+
+Gorman's line is the one that names David's actual grievance: unequal appraisal is a
+transfer from the people who do not protest to the people who do, and the board's real
+lever on that is who sits on the ARB. Munoz's answer to the same unfairness is to make
+protesting legible to everyone instead of only to those who already know - which, since
+David does protest, helps his neighbours more than it helps him.
+
+- **For the budget hawk and an ARB inclined to take protests seriously: Gorman.** He
+  has the governance record (a $7 million HOA budget, a 5,600-home association) and he
+  is the only one of the two who has said anything about protest outcomes.
+- **For fluency in the law that sets the rules: Munoz.** She works inside the committee
+  that writes appraisal law, which is a real advantage in a job whose main constraint is
+  statute, and she is the consensus pick of every organization that weighed in.
+
+Either way the effect on his bill is indirect and slow, and the rate-setting bodies -
+Manor ISD above all - move his taxes far more than this seat does.
+
+Sources for this section: traviscad.org 2026 board election ballot and board elections
+pages; the Austin Bulldog on the four filers and their homes; VOTE411 and Elections
+Simplified candidate entries; Community Impact and the Daily Texan on the race; Austin
+Chronicle endorsements; Austin Central Labor Council and sway.co endorsement lists;
+Texas Secretary of State guidance on appraisal district elections and the November 2026
+transition.
