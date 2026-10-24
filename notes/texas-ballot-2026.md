@@ -672,3 +672,47 @@ the court that hears appeals out of Travis County.
 - **Cory Liu (R)**, judge of the 250th District Court, appointed by Abbott on
   December 31, 2025; two federal appellate clerkships, lawyer for the governor's
   office and for the Texas Senate; University of Chicago and Harvard Law.
+
+### Travis County - all unopposed
+
+Nothing here is a contest. County Judge **Andy Brown**; County Clerk **Dyana
+Limon-Mercado**; District Clerk **Velva L. Price**; Treasurer **Dolores Ortega
+Carter**; Probate Judge **Guy Herman**; the seven county courts at law (Wong, Dippel,
+Garcia, Malhotra, Espiritu, Hernandez, Earle); ten district judges (147th, 201st,
+250th, 261st, 299th, 331st, 403rd, 419th, 455th, 459th). His own commissioner
+(Precinct 1) and his constable are not up this cycle.
+
+**Justice of the Peace, Precinct 1: Ciara Parks**, unopposed - general counsel of the
+Travis County Juvenile Probation Department and currently an associate judge for the
+City of Manor. This is the court that would hear his small claims, evictions and
+traffic citations.
+
+### Travis Central Appraisal District, Board of Directors
+
+Three at-large seats, elected countywide for the first time under the 2023 property
+tax law. The board hires the chief appraiser and appoints the appraisal review board
+that hears protests - which matters to a household carrying two appraised houses.
+
+- **Place 1: Skyler Korgel**, unopposed. **Place 2: Brian Pena**, unopposed.
+- **Place 3, the only contest: Yvonne Munoz**, chief of staff to state Rep. Vincent
+  Perez (D-El Paso), endorsed by the Austin Chronicle for her proximity to property
+  tax policy - against **Philip Gorman**, a consultant who cuts companies' cloud
+  computing costs and treasurer of the Circle C HOA. Nonpartisan ballot.
+
+### Austin Community College, Board of Trustees
+
+**Manor ISD is inside the ACC taxing district**, so he pays the ACC rate and votes
+these. Six-year terms; three of nine seats are up.
+
+- **Place 1: Dana Walker**, incumbent since 2020, would expand free tuition only as
+  far as the money is stable - against **Gloria Gonzales-Dholakia**, eight years on
+  the Leander ISD board and work with a nonprofit for single mothers, focused on
+  first-generation and student-parent enrollment and on dual credit with districts.
+  The Chronicle endorsed Gonzales-Dholakia.
+- **Place 2: Gigi Edwards Bryant**, unopposed.
+- **Place 3: Nan McRaven**, incumbent since 2002, doctorate in community college
+  leadership, ran the free tuition pilot - against **Trevor Hale**, retired
+  university professor, who wants term limits, a rebrand with "more gravitas" and
+  tighter free-tuition eligibility. The Chronicle endorsed McRaven.
+- The ACC proposition annexing Pflugerville ISD into the taxing district is voted
+  only by PfISD residents. Not his.
