@@ -716,3 +716,56 @@ these. Six-year terms; three of nine seats are up.
   tighter free-tuition eligibility. The Chronicle endorsed McRaven.
 - The ACC proposition annexing Pflugerville ISD into the taxing district is voted
   only by PfISD residents. Not his.
+
+### Manor ISD
+
+- **Propositions A and B**, the $400 million bond: worked up at length in the
+  sections above. In short, $391.5M and $8.5M of principal, **$710.3 million
+  repaid**, an advertised **3.85 cents per $100** in the early years (about **$202 a
+  year** across his two houses, roughly $6,000 over a thirty-year repayment), about
+  **20 cents** once all four hundred million is in service around 2033-2035, and the
+  district's total debt obligation roughly doubles.
+- **Trustees, Places 1 through 4, all unopposed**: Stephanie Rodriguez-Barnett (1),
+  LaKesha Small (2), Ana Cortez (3), Fabian Martinez (4). No seat drew a second
+  candidate, so the four are elected as filed.
+
+### City of Manor
+
+**Council, four-year terms.** The city posts the filings but no candidate statements,
+so there is nothing to work up beyond the names:
+
+- **Place 2:** Anne Weir, Robert Edward Battaile.
+- **Place 4:** Sonia A. Wallace, Sam Samaripa.
+- **Place 6:** Felix Paiz, Selena Chambers, Tracy Medearis.
+
+**Charter amendments**, called by Ordinance 827:
+
+- **Proposition A, municipal powers.** Reorganizes the list of city powers in section
+  1.05 into separate provisions for clarity. The city says it neither changes nor
+  expands the powers themselves.
+- **Proposition B, annexation and disannexation.** Rewrites section 1.07 to track
+  state law, spells out the rights and obligations of annexed property, and requires
+  city taxes and assessments owed to be paid before land can be disannexed.
+- **Proposition C, one word.** Corrects "insure" to "ensure" in section 7.01(i).
+- **Proposition D, community committees.** Repeals the charter requirement that the
+  city create community committees. A yes vote removes the guarantee and leaves it to
+  the council whether such committees exist.
+
+### Not on his ballot
+
+Austin propositions A through J (the parks and library bonds and the charter
+changes), Austin City Council and Austin ISD trustees, Pflugerville propositions A
+through N and its council races, the Del Valle, Round Rock, Leander and Coupland
+tax-rate elections, the Elgin alcohol proposition, the Sunset Valley crime control
+district, and the ACC annexation question.
+
+Sources: votetravis.gov current election and consolidated ballot; manortx.gov
+elections, Ordinance 827 and the 2026 candidate filings; manorisd.net Bond 2026 and
+the trustee election order; traviscad.org board elections; Texas Tribune on the
+Senate, governor, attorney general, comptroller, agriculture and railroad commission
+races; Fox 7 Austin, Houston Public Media, Fox News and the UT Texas Politics Project
+on polling; KUT on the ACC trustees, SBOE District 5 and early voting; KRIS-TV
+judicial guide; Wikipedia 2026 Texas elections and 2026 Texas Supreme Court election;
+Ballotpedia on CD-10, HD-46 and the Third Court of Appeals; law.com Texas Lawyer on
+Byrne against Liu; Austin Chronicle endorsements; decentballot.com Travis County
+ballot.
