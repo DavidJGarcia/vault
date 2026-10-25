@@ -1310,3 +1310,33 @@ Sources: traviscountymud2.org election information and district pages; the Censu
 Bureau geocoder geographies API (current vintage, all layers); KUT on CD-37, October
 20, 2026; The Texan on Casar's announcement; Wikimedia PLANC2333; votetravis.gov
 current election.
+
+## How he wants the ballot recap written — October 25, 2026
+
+Asked at 10:12 am: *"Give me a fresh write. Everything needs to include the
+decisions about my actual ballot. Use inverted pyramid style within each section
+and skip the school district bond A entirely."*
+
+So the `ballot` view was rewritten to three rules:
+
+- **Every section carries the ballot decision for its own race**, rather than
+  leaving the October 24 findings in one section at the top. Each one opens with
+  whether the race is his and what settled it — "Yours, since SBOE lines do not
+  follow a city limit", "Yours only because of the redraw", "they stayed when the
+  city races went, because the ACC taxing district follows the school district".
+  The three decisions still get their own short section, because they are the
+  lead of the page as a whole.
+- **Inverted pyramid inside each section**: the conclusion or the state of the
+  race first (the polling, whether the seat is open, which way it leans), then the
+  candidates, then the detail. Nothing is held back for the end.
+- **Manor ISD Proposition A is left out entirely.** Proposition B stays — it is a
+  separate ballot question, 8.5 million for technology, and he said bond A. The
+  page says it is twenty-two of his twenty-three contested choices, so the
+  omission is his choice and not a gap. The full Proposition A work-up stays above
+  in this note.
+
+Written at about 5,800 characters, because a quoted heredoc over roughly 7 KB
+loses its terminator and the write is refused — four attempts were needed on
+October 25 and three on October 24. The long versions of Land Office,
+Agriculture, SBOE 5, the appraisal district and the ACC races live in this note,
+and the view points at them.
