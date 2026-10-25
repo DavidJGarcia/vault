@@ -7,3 +7,4 @@
 - 12-10 · David's birthday (born 1983)
 - 2026-10-30 · Last day of early voting in Texas (Manor ISD Administration Building, 7am-7pm)
 - 2026-11-01 · Last day to collect McDonald's Monopoly game pieces (codes scannable to Nov 22)
+- 2027-03-12 · Rodeo Austin opens, runs through March 27 (Travis County Expo Center; tickets on sale January 2027)
