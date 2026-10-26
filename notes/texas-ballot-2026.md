@@ -1340,3 +1340,32 @@ loses its terminator and the write is refused — four attempts were needed on
 October 25 and three on October 24. The long versions of Land Office,
 Agriculture, SBOE 5, the appraisal district and the ACC races live in this note,
 and the view points at them.
+
+## The ballot view as a list of choices — October 26, 2026
+
+Said at 7:34 am: *"On the ballot view I don't want all this conversation about
+what's mine. I want a list of each choice that needs to be made and information
+to help me make the choice."*
+
+So the October 25 rule above is superseded in its first point. The view is now a
+**numbered list of the twenty-two choices**, 1 through 22, and nothing else:
+
+- **The whole "is this mine" layer is gone.** No "Yours, since SBOE lines do not
+  follow a city limit", no "Three decisions your address made" section, no
+  "Already decided, nothing to vote on" list — an unopposed race is not a choice,
+  so it is not on the page. The address work that settled all of it stays in this
+  note, above.
+- **Each numbered item is the choice, then what it decides, then what separates
+  the candidates**: what the office actually controls, the polling where there is
+  any, the endorsements, and the one fact that distinguishes each candidate.
+  Inverted pyramid inside each item still holds.
+- The four Supreme Court seats are 11-14, the three Court of Criminal Appeals
+  seats 15-17 and the two ACC places 20-21, each under one shared paragraph of
+  what the court or board does, because the deciding information is common to
+  them and the candidates are not.
+- **Manor ISD Proposition A is still left out entirely**, as he asked on October
+  25; Proposition B is choice 22. That is why the count is twenty-two and not
+  twenty-three.
+
+Written at about 6,400 characters. The heredoc ceiling is real: a first draft at
+roughly 7,500 characters lost its terminator and the write was refused.
