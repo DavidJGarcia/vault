@@ -1369,3 +1369,49 @@ So the October 25 rule above is superseded in its first point. The view is now a
 
 Written at about 6,400 characters. The heredoc ceiling is real: a first draft at
 roughly 7,500 characters lost its terminator and the write was refused.
+
+## The ballot view split into four pages — October 26, 2026
+
+Said at 7:46 am, twelve minutes after the list rewrite: *"Update the ballot view
+to give me significantly more on the candidates and issues wherever there's a
+contest."*
+
+The numbered list of twenty-two choices stays exactly as it was; what changed is
+depth, and depth forced the page apart. **One `view put` caps near 7,100
+characters** — 7,100 went through on the first try, 7,600 and 11,000 were both
+refused by the shell as a lost heredoc terminator, and there is no `view append`.
+So the list is now four linked pages, each carrying its own range and links to
+the other three:
+
+- **`ballot`** — the header, the voting times, the map of all four pages, and
+  choices **1-6**: Senate, Governor, Lieutenant Governor, Attorney General,
+  Comptroller, Land Commissioner.
+- **`ballot-offices`** — **7-10**: Agriculture, Railroad Commission, U.S. House
+  37, State Board of Education 5.
+- **`ballot-courts`** — **11-18**: the four Supreme Court seats under one
+  paragraph on what that court has decided lately, the three Court of Criminal
+  Appeals seats, and the Third Court chief justice.
+- **`ballot-local`** — **19-22**: the appraisal district, the two ACC trustee
+  places, Manor ISD Proposition B.
+
+About 25,000 characters across the four, against 6,400 on the single page that
+morning. What the extra room bought, per contest: what the office actually
+controls, the late-October polling with its pollsters and dates, cash on hand,
+every endorsement found, and the one fact that distinguishes each candidate —
+the material that was living only in the long sections of this note.
+
+New for this write, from three searches and two fetches: Emerson/Nexstar October
+17-19 (Senate 48-46, Governor 49-45, and the issue split — economy 39, immigration
+16, democracy 13, education 12); the RealClearPolitics Senate average at Talarico
++1.8; fundraising and cash on hand for all eight Supreme Court candidates from the
+Texas Tribune guide, which show Kristen Hawkins the only Democrat outraising her
+opponent and Busby best funded at $1.3 million; the Houston Chronicle slate of
+Ellis, Kelly, Hawkins and Busby, crossing to the one Republican; Blacklock's
+endorsements from Texas Alliance for Life, Texas Right to Life and the Texas Civil
+Justice League PAC; and that Bert Richardson's retirement is what opened Court of
+Criminal Appeals Place 3.
+
+Sources added: emersoncollegepolling.com Texas 2026 poll; texastribune.org 2026
+Texas Supreme Court elections guide; houstonchronicle.com Supreme Court
+endorsement (headline only — the page would not load); kristv.com 2026 Texas
+judicial elections guide.
