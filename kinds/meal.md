@@ -234,3 +234,11 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         likeliest candidate, and a dangling "another" is the signal that the reading is
         wrong. He corrects in the form "No, not X: Y", which re-prices the row just
         filed rather than adding one.
+        Buc-ee's Original BBQ Sauce, October 26, 2026 ("16 g of Bucky's barbecue
+        sauce"): label 60 kcal, 0 g protein, 16 g carb (15 g sugar) and 330 mg sodium
+        per 2 Tbsp (36 g) - 1.67 kcal/g and 9.2 mg sodium/g, so 16 g is 27 kcal and
+        147 mg sodium. Original is the reading when he says only "barbecue sauce";
+        Buc-ee's also sells Sweet & Spicy and Texas Heat, and he names them when he
+        means them. It came 18 minutes after a brisket sandwich filed "no sauce": a
+        condiment weighed on its own gets its own row rather than re-pricing the
+        sandwich, since the row he spoke is what he ate at the time.
