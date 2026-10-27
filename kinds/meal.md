@@ -251,3 +251,18 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         so a sauce he weighs gets its own row beside the plate rather than re-pricing
         it - the same reading as the Buc-ee's barbecue sauce of October 26, 2026. As
         with any sauce row, the sodium is the number worth carrying.
+        "whatever kind I bought from Walmart most recently" is answered from his Walmart
+        purchase history, not guessed. On October 27, 2026 two hot dogs beside a weighed bowl
+        of chili were priced as Bar-S Classic Fully Cooked Franks, 8 Count, 12 oz - two packs
+        delivered Saturday May 2, 2026, the newest hot dog in his orders. Label: 1 link (42 g)
+        is 70 kcal, 4 g protein, 6 g fat, 3 g carb, 360 mg sodium - chicken and pork, far
+        lighter than the 150-180 kcal beef frank a generic estimate gives, so the brand is
+        worth the lookup. Bar-S Bun Length Franks came April 15, 2026 and Ball Park Bun Length
+        Beef Hot Dogs May 12, 2025; "wieners" matches nothing in his history, so search the
+        orders for both "hot dog" and "franks". walmart.com/orders takes a typed search in its
+        "Search your orders" box (the URL then carries searchTerm=), and the results list
+        newest first with the matching item shown at the head of each order.
+        A photo of a bowl with a gram weight is the chili itself, and his homemade beef-and-
+        bean chili with corn, green chile and a little bacon prices at about 120 kcal and 8 g
+        protein per 100 g - richer than the ~104 kcal/100 g used for the church-supper chili
+        of October 24, 2026, because of the bacon and how much meat the photo shows.
