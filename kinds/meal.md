@@ -242,3 +242,12 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         means them. It came 18 minutes after a brisket sandwich filed "no sauce": a
         condiment weighed on its own gets its own row rather than re-pricing the
         sandwich, since the row he spoke is what he ate at the time.
+        Chick-fil-A Garden Herb Ranch Sauce, October 27, 2026 ("0.75 oz. of Chick-fil-A
+        garden herb ranch sauce"): chain label, 1 oz (28 g) packet is 100 kcal, 0 g
+        protein, 1 g carb, 11 g fat, 230 mg sodium - 3.57 kcal/g and 8.2 mg sodium/g,
+        so 0.75 oz is 75 kcal and 173 mg sodium. The dipping packet, not the Garden
+        Herb Ranch salad dressing, which is a larger cup and a different panel. It
+        came two minutes after a weighed chicken breast and grape tomatoes at home,
+        so a sauce he weighs gets its own row beside the plate rather than re-pricing
+        it - the same reading as the Buc-ee's barbecue sauce of October 26, 2026. As
+        with any sauce row, the sodium is the number worth carrying.
