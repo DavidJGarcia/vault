@@ -232,3 +232,30 @@ red, $36.99 + tax.`
 Everything else about the October 18 rule holds — the memo is the only change,
 nothing is deleted, no match is said in the memo with the span checked, newest
 first and at most 25 a pass, and the view names what was memo'd.
+
+## Gym
+
+**October 27, 2026 — the `gym` view, rewritten by every weekly pass.** "Give me a
+view that you update weekly and that tracks my gym performance."
+
+The view is `gym`, built that morning from all 115 `exercise_set` rows (September
+14 to October 26, 2026). **Every weekly pass rewrites it whole** from the rows —
+`records --kind exercise_set`, read a few days at a time — so it is never more
+than a week behind and a set corrected later moves the numbers with the next
+pass. What the page holds, in this order:
+
+- the last session, set by set, and any top weight in it;
+- what is climbing and what is flat or down, each line carrying the dates and the
+  sets behind it;
+- where every movement stands — top weight, the weight he is working, the last
+  session's sets — grouped push, pull, legs, core;
+- sessions per week, the gaps between runs, and the split as the last run ran it.
+
+Two readings the page keeps, both from `kinds/exercise_set.md`: plate-loaded
+per-side loads (incline press, front pulldown) never compare with pin-stack
+numbers, and the same movement on two machines (ab crunch, lateral raises) is not
+a jump — say so instead.
+
+The view supersedes `notes/gym.md`, the weekly-pass snapshot of October 10, which
+stays as it stands (legs as of October 20, pull and push as of October 8) and is
+no longer rewritten. "Rebuild the gym view" refreshes it between passes.
