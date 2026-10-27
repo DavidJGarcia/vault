@@ -36,3 +36,8 @@ notes:  he opens one with a bare imperative — "Build me…", "Create a documen
         started"). Take that shape literally: it is the specification, and a better idea
         goes in the document beside it, not instead of it. A later note that changes the
         thing updates this record and rewrites the file rather than filing a second.
+        A view is a target too, not only a vault file: when the thing built is a page on
+        the relay, `artifact` is `view` and `target` is `view:<name>` - the `gym` view of
+        October 27, 2026, which a standing instruction has the weekly pass rewrite. A
+        build that is to be kept up to date says where that happens, since the record is
+        what answers "what keeps it fresh".
