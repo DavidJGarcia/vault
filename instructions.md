@@ -259,3 +259,39 @@ a jump — say so instead.
 The view supersedes `notes/gym.md`, the weekly-pass snapshot of October 10, which
 stays as it stands (legs as of October 20, pull and push as of October 8) and is
 no longer rewritten. "Rebuild the gym view" refreshes it between passes.
+
+## Work
+
+**October 27, 2026 — a note that starts "self review" or "upward review" goes
+into the `review` view.** "Create a view that starts drafting my annual self and
+upward reviews. When I start a note with 'self review' or 'upward review,' use
+that content to update the relevant section."
+
+The view is `review`, built that evening: a self-review half (accomplishments and
+impact · skills and growth · challenges · goals for next year) and an
+upward-review half (what works well · what would help me more · support and
+development · recognition and the team), with the open questions at the foot.
+Armanino's own review form is not public, so those headings are generic
+scaffolding and are replaced the moment he describes the real one.
+
+When a capture opens with either phrase:
+
+- **File a record of it** — his words in `said`, so the page can be rebuilt from
+  the rows if it is ever lost. Untyped for the first one; the kind `review_note`
+  is born on the second, by the usual rule, with `half` (self | upward),
+  `section` and `occurred_on`.
+- **Then rewrite the view whole** (`view get review`, `view put review -` with a
+  heredoc), adding his content under the section it belongs to as a dated bullet
+  — **his words, tidied, never summarised into a competency phrase.** A review is
+  written out of specifics, and the specific is the whole value of having said it
+  in October rather than remembered in December. Remove the *Empty.* line from a
+  section the first time something lands in it.
+- Place it by what it says, not by asking. **Name the section on the wrist** —
+  `Self review` / `Accomplishments` / `<the first few words>` — so a wrong
+  placement costs one sentence. He may also say the section outright ("upward
+  review, under workload"), and then it is not a judgment call.
+- A note that corrects or extends an earlier entry edits that entry rather than
+  adding a second bullet under it.
+
+The trigger is the opening of the note. "Self review" said in the middle of a
+sentence about something else is not it.
