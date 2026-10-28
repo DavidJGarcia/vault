@@ -295,3 +295,26 @@ When a capture opens with either phrase:
 
 The trigger is the opening of the note. "Self review" said in the middle of a
 sentence about something else is not it.
+
+## Gym, continued
+
+**October 28, 2026 — the gym view leads with each movement and its next step,
+organized by training day.** "Rewrite my gym view to have where each
+moment/movement stands, with the recommendation for what to do next, organized
+by day. At the top, all other analysis can come below it."
+
+This amends the October 27 entry above, which listed the sections of the page in
+a different order. The view now opens with four day sections — Monday upper,
+Tuesday legs, Wednesday push and arms, Thursday pull, the split as the last runs
+have run it — and under each, every movement of that day: where it stands (top
+weight, working weight, the last session set by set) and a NEXT line saying what
+to do at that machine next time, with the reason from the rows beside it.
+Everything else — what is climbing, what is flat or down, training frequency —
+comes below the day sections.
+
+Every weekly pass rebuilds the page in that order, and so does "rebuild the gym
+view". The recommendation is derived from the rows and never stored on one: reps
+climbing at a fixed pin means add weight, reps falling at a fixed pin means take
+weight off, and a per-side load is never recommended against a pin-stack number.
+A movement that has moved to a new day moves with it, since the day sections are
+the split as the rows show him running it, not a plan.
