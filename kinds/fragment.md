@@ -45,3 +45,14 @@ notes:  four rows. The weekly pass of October 4, 2026 found an earlier one left 
         fourth. Both times he reached for the same opening, "I was saying" or "I was trying
         to say", so that opening is a signal to look for an unresolved fragment first. The
         September 17 one is still unresolved and by now almost certainly unrecoverable.
+        The fifth, "Having one.", Wednesday, October 28, 2026 at 4:10pm, is a third shape
+        again: a grammatical sentence that carries a count and is missing only its
+        **object**. Not cut at the front like the first three and not corrupted like the
+        Skittles note - the words that arrived are whole and the noun after them is simply
+        not there. It came two minutes after a meal row (the Bonduelle Bistro Santa Fe bowl
+        of 4:08pm), which is exactly the position where "one" looks resolvable and is not:
+        a second bowl, a Premier Protein shake and a piece of Halloween candy all fit the
+        hour and his habits, and they differ by 250, 160 and 30 kcal, so choosing one is
+        inventing the food and not completing the sentence. The rule stands: nothing is
+        filed as eaten and the receipt asks what it was. So five rows, and the count in
+        the paragraph above is of its own date.
