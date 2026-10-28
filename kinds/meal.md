@@ -266,3 +266,11 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         bean chili with corn, green chile and a little bacon prices at about 120 kcal and 8 g
         protein per 100 g - richer than the ~104 kcal/100 g used for the church-supper chili
         of October 24, 2026, because of the bacon and how much meat the photo shows.
+        Protein oats and rolled oats are two different products, said outright on
+        October 28, 2026: "Protein oats and rolled oats are different. The usual for
+        breakfast has rolled oats and today I'm having the usual for breakfast." So
+        the usual recipe above keeps plain dry rolled oats, 1/3 cup (27 g, 100 kcal,
+        3.3 g protein), and the Bob's Red Mill Gluten Free Protein Oats of October 22
+        and 23, 2026 are a swap for the morning he names them, never the default. A
+        run of protein-oats mornings does not redefine the usual; only a note that
+        says so does.
