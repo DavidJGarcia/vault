@@ -274,3 +274,14 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         and 23, 2026 are a swap for the morning he names them, never the default. A
         run of protein-oats mornings does not redefine the usual; only a note that
         says so does.
+        The Bonduelle Bistro chicken salad bowl is one bowl under many names. He has
+        said the brand as "Del Fiestro" (September 30, 2026), "Bondoule" and "Pundel"
+        (both October 28, 2026), and the variety as both "Santa Fe style" and
+        "Southwest" within six minutes on October 28, 2026. It is the Santa Fe Style
+        with Chicken bowl, 6.25 oz (177 g with the salsa ranch dressing): 250 kcal,
+        11 g protein, 18 g fat, 14 g carb, 3 g fiber, 450 mg sodium, one serving a
+        package; 180 kcal and 12 g protein for the 147 g without dressing. Bonduelle's
+        own page calls it a bold southwest flavor, and the 6.25 oz line has no bowl
+        named Southwest - the Southwestern Style is the 11.75 oz Grande and Southwest
+        Fusion is a plant-based heat-or-eat bowl - so "Southwest" at 6.25 oz is this
+        bowl, not another product and not a second bowl.
