@@ -122,3 +122,26 @@ hasn't been written: adding a section to your briefing changes every morning fro
 here on, so it waits on your yes.
 
 Everything after Phase 0 waits on what Phase 0 misses.
+
+## What the Phase 2 money buys (asked October 28, 2026)
+
+"Does that $35/month give me just the API or anything else?" Just the API, and not
+even as a subscription.
+
+- **It is credits, not a plan.** Since February 2026 the X API bills pay-per-use:
+  you buy credits up front, set a spending limit in the developer console, and the
+  balance draws down at $0.005 a post read. There is no tier to be on. A month the
+  job reads nothing costs nothing, and the $15-30 above is arithmetic on volume,
+  not a bill that arrives either way.
+- **A new account starts with free credits:** $20 on adding a first card, plus a
+  match of up to $50 - somewhere between 4,000 and 14,000 post reads before any
+  money moves. Enough to run Phase 2 beside Phase 0 for its falsification week for
+  nothing.
+- **Nothing in the app comes with it.** No ad-free timeline, no Grok, no checkmark,
+  no longer posts. Those are **X Premium**, a separate consumer subscription
+  (Basic about $3/month, Premium about $8, Premium+ about $40), and the two do not
+  overlap in either direction: Premium grants no API access, and the API grants no
+  Premium.
+- The same credits do cover more than reading, if a later phase wants it: posting
+  $0.015 (a post containing a link, $0.20), a profile lookup $0.01, a DM read
+  $0.01, a follow or like $0.015, your own bookmarks and followers $0.001.
