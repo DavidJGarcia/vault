@@ -1481,3 +1481,29 @@ https://www.houstonchronicle.com/opinion/endorsements/article/15th-court-of-appe
 Arnold & Porter on the Supreme Court's jurisdiction ruling ·
 https://www.arnoldporter.com/en/perspectives/advisories/2025/04/tx-supreme-court-clarifies-jurisdiction ·
 San Antonio Report · https://sanantonioreport.org/texas-new-15th-court-of-appeals-2026/
+
+## October 29, 2026 — the views checked against the paper ballot
+
+He sent his Travis County sample ballot, style 142C (Joint General and Special
+Elections, November 3, 2026, two pages), and asked that the vote and ballot views
+cover all the contested races.
+
+**The paper has 26 contested races.** The views had 25. Everything else on the
+ballot is unopposed: State Representative District 46 (Sheryl Cole); ten district
+judgeships (147th, 201st, 250th, 261st, 299th, 331st, 403rd, 419th, 455th, 459th);
+County Judge, the seven County Courts at Law, Probate Court No. 1, District Clerk,
+County Clerk, County Treasurer and Justice of the Peace Precinct 1; appraisal
+district Places 1 and 2; ACC Trustee Place 2; and Manor ISD trustee Places 1-4,
+declared elected. Write-in lines print under Senator, Governor, Lieutenant Governor
+and County Clerk.
+
+**Manor ISD Proposition A is back, as contest 26.** This reverses the October 25
+decision above to skip it entirely: "make sure my vote and ballot views cover all
+the contested races" is the later and broader instruction. It sits at the foot of
+the `vote` list and of `ballot-local`, and the full work-up now has a page of its
+own, `ballot-propa`, drawn from the sections above. The omission can be restored
+on a word from him.
+
+**One correction.** The `vote` view listed a third candidate in U.S. House District
+37, James Kinney (I). He is not on the official ballot, which prints only Lauren B.
+Pena (REP) and Greg Casar (DEM). The line is gone.
