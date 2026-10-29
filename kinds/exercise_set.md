@@ -58,3 +58,8 @@ notes:  he logs a whole session set by set, one short note each, a minute or two
         his own word for a linked-handle rig, both arms off one stack, so its load is
         one number and has no per-arm half - read as independent on October 22, 2026
         and corrected by him in the next breath.
+        "MTS row" is a movement of its own, not the seated row: it is the
+        plate-loaded independent-arm rig and he says it per arm ("MTS row 5 at 70
+        per arm", October 29, 2026, weight_lb 140), so its load never compares with
+        the pin-stack seated row's one number of 110-135. Filed as `mts row`, the
+        way `front pulldown` is kept apart from `lat pulldown`.
