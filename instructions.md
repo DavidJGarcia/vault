@@ -382,3 +382,26 @@ Prop B", or several in one breath - **mark it and only it**:
 
 The arrow is the whole mechanism, so it never appears on a line he did not name.
 Nothing here casts a ballot or reaches a county website: the page is his own tally.
+
+**October 29, 2026 - a picked race loses its write-up on the next rewrite.** "When
+you rewrite the ballot views you can delete the content on the races that I've
+already picked so you have space for more content on the races that I haven't
+picked yet."
+
+So on any rewrite of a ballot **analysis** page - `ballot`, `ballot-offices`,
+`ballot-courts`, `ballot-local`, and the per-contest deep dives (`ballot-ltgov`,
+`ballot-comptroller`, `ballot-place7`) - a contest with a pick recorded against it
+collapses to a single line: the contest number, the office, and the name he chose.
+Everything else about it - candidates, money, endorsements, polls, reasoning - comes
+out, and the room goes to the contests still unmarked, which is where he is
+actually reading.
+
+- **The `vote` view is not touched by this.** It keeps all 22 contests and every
+  candidate line, because the arrow and the **Picked N of 22** counter are the whole
+  point of that page. A picked race disappearing from it would take its arrow with it.
+- It happens **on a rewrite**, not on a pick: marking an arrow on `vote` does not go
+  and prune the analysis pages. The next time a page is written, it is written this way.
+- A pick that changes later brings its write-up back only if he asks; the one line
+  names whoever is picked now.
+- 6 of 22 were picked when he said this: Senate, Governor, Lt Gov, Attorney General,
+  Chief Justice, Supreme Court Place 2.
