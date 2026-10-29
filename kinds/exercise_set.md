@@ -63,3 +63,6 @@ notes:  he logs a whole session set by set, one short note each, a minute or two
         per arm", October 29, 2026, weight_lb 140), so its load never compares with
         the pin-stack seated row's one number of 110-135. Filed as `mts row`, the
         way `front pulldown` is kept apart from `lat pulldown`.
+        He also says the brand: "Hammer Strength MTS Row" (October 29, 2026) is the same
+        movement as "MTS row", and Hammer Strength is the maker of every MTS rig, so
+        the brand in a note names the machine and never a new movement.
