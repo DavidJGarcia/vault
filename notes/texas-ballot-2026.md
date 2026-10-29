@@ -1443,3 +1443,41 @@ Libertarian or Green filings. The Houston Chronicle endorsed all three incumbent
 Sources: en.wikipedia.org/wiki/2026_Texas%27s_15th_Court_of_Appeals_district_election ·
 texasjudges.org/2026-races/15coa2/ · thetexan.news (incumbents seek re-election) ·
 sanantonioreport.org (what is the new 15th Court of Appeals) · law.com Texas Lawyer, Oct 20.
+
+## 23-25. The 15th Court of Appeals (added October 29, 2026)
+
+He said the write-up had missed this court and to add it, on its own page if needed. The
+deep dive is the `ballot-15th` view; `ballot`, `ballot-courts` and `vote` link to it, and
+`vote` now prints the three seats between the Court of Criminal Appeals and the Third Court,
+where the paper puts them.
+
+- Created by the Legislature in 2023, sitting since September 2024. **Exclusive** jurisdiction
+  over civil appeals involving the state, its agencies and officers; challenges to the
+  constitutionality of a state statute; appeals from the Business Court. Elected **statewide**,
+  the only court of appeals in Texas that is, which is why all three seats are on a Manor ballot.
+- April 2025, *Kelley v. Homminga*: the court read its own jurisdiction as reaching nearly every
+  civil appeal in Texas and the Texas Supreme Court reversed, confining it to those categories.
+  Dallas County's constitutional challenge to the court itself failed.
+- Its record is not uniformly for the state: rulings against Paxton (including that he had not
+  shown enough to enjoin a midwife over alleged abortions), TEA cleared to publish accountability
+  ratings, San Antonio ordered to stop funding abortion travel, the state's Yelp suit allowed to
+  proceed. **October 28, 2026**: a panel of Brister, Field and Farris stayed Judge Catherine
+  Mauzy's order giving Gina Hinojosa access to unredacted Abbott-Musk emails.
+- Money, January-June: Brister $93,443 raised / $228,242 on hand; Field $121,894 / $287,492;
+  Farris $83,131 / $184,794 - each with $25,000 from Texans for Lawsuit Reform PAC. Zimmerer
+  $1,472 / $15,142; Baker $1,005 / $10,821 (incl. a $7,000 self-loan); Meyer $1,260 / $420.
+- Endorsements: Abbott and Texas Alliance for Life for Brister and Field, Abbott plus the Texas
+  Oil and Gas Association and Texas Civil Justice League for Farris; the Houston Chronicle for
+  all three Republicans, on their rulings against Paxton. The Democrats have Bay Area Democratic
+  Movement, Victoria County Democrats, and for Meyer the Texas AFL-CIO.
+- No Vote411 pages, no polling and no debates for any of the three.
+
+Sources: Texas Tribune 15th Court election guide (October 2, 2026) ·
+https://www.texastribune.org/2026/10/02/texas-15th-court-of-appeals-2026-elections-guide/ ·
+KUT, Abbott-Musk emails stay (October 28, 2026) ·
+https://www.kut.org/politics/2026-10-28/gina-hinojosa-abbott-musk-emails-appeals-court-stay ·
+Houston Chronicle endorsement ·
+https://www.houstonchronicle.com/opinion/endorsements/article/15th-court-of-appeals-brister-field-farris-22466899.php ·
+Arnold & Porter on the Supreme Court's jurisdiction ruling ·
+https://www.arnoldporter.com/en/perspectives/advisories/2025/04/tx-supreme-court-clarifies-jurisdiction ·
+San Antonio Report · https://sanantonioreport.org/texas-new-15th-court-of-appeals-2026/
