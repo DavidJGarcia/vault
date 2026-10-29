@@ -1415,3 +1415,31 @@ Sources added: emersoncollegepolling.com Texas 2026 poll; texastribune.org 2026
 Texas Supreme Court elections guide; houstonchronicle.com Supreme Court
 endorsement (headline only — the page would not load); kristv.com 2026 Texas
 judicial elections guide.
+
+## The 15th Court of Appeals - added October 29, 2026
+
+Found only because he asked: "Is the 15th Court of Appeals on my ballot with Ferris and Mayor?"
+It is, and it had been missing from every ballot page. The court is **elected statewide**, so all
+three of its seats are on a Travis County ballot, which makes his contested ballot **25 races,
+not 22**. Numbered 23-25 on the views; on the printed ballot they fall between the Court of
+Criminal Appeals and the Third Court of Appeals.
+
+- **Chief Justice**: Scott Brister (R), the appointed chief - Texas Supreme Court justice
+  2003-2009, before that chief justice of the Fourteenth Court - against Jerry Zimmerer (D),
+  Fourteenth Court of Appeals justice 2019-2024.
+- **Place 2**: Scott Field (R) of Liberty Hill, Third Court of Appeals 2013-2018, lost that seat
+  in the 2018 Travis County sweep - against Tom Baker (D) of Temple, Third Court of Appeals
+  2019-2024.
+- **Place 3**: April Farris (R) of Sugar Land, First Court of Appeals from 2021 - against Marc
+  Meyer (D) of Montgomery, attorney, former Houston firefighter and registered nurse. This is
+  the pair he said as "Ferris and Mayor".
+
+The court was created by the Legislature in 2023 and has sat since September 2024. Its
+jurisdiction is suits against the state - state agencies, state officials, challenges to state
+law - work that used to go to the Third Court in Austin, which was the argument against it. All
+three justices are 2024 Abbott appointees and none has faced voters before. R and D only, no
+Libertarian or Green filings. The Houston Chronicle endorsed all three incumbents.
+
+Sources: en.wikipedia.org/wiki/2026_Texas%27s_15th_Court_of_Appeals_district_election ·
+texasjudges.org/2026-races/15coa2/ · thetexan.news (incumbents seek re-election) ·
+sanantonioreport.org (what is the new 15th Court of Appeals) · law.com Texas Lawyer, Oct 20.
