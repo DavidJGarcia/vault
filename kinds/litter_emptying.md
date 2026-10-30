@@ -28,4 +28,12 @@ notes:  the reminder is timer t_c4c588a5c59f2085, "Empty the litter robot",
         rule: a morning emptying plus five days at 18:00 fires *after* the
         deadline, which is what let October 18 (9:49 a.m.) run to October 23
         (9:41 p.m.), 5 days 12 hours. instructions.md carries the amended rule.
-        Four rows so far: Oct 9, Oct 14 (4.4 d), Oct 18 (4.1 d), Oct 23 (5.5 d).
+        Five rows so far: Oct 9, Oct 14 (4.4 d), Oct 18 (4.1 d), Oct 23 (5.5 d),
+        Oct 28 (4.9 d).
+
+        He does not always say it the same day: October 28 was reported on
+        Friday October 30 as "I emptied the litter box Wednesday evening". So
+        read the day he names, file the row at that moment and not at spoken_at,
+        and check the timer against it rather than assuming the row has already
+        rolled wrong — an evening with no hour is filed at 20:00, which counts as
+        at or after 18:00. He also says "litter box" for the Litter-Robot.
