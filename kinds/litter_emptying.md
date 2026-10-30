@@ -37,3 +37,11 @@ notes:  the reminder is timer t_c4c588a5c59f2085, "Empty the litter robot",
         and check the timer against it rather than assuming the row has already
         rolled wrong — an evening with no hour is filed at 20:00, which counts as
         at or after 18:00. He also says "litter box" for the Litter-Robot.
+
+        Past due follows up on its own from October 30, 2026 (instructions.md,
+        "Home, continued"): when now is more than five days past the newest row's
+        `at`, the morning briefing names it every morning — `Litter robot: 6d,
+        past due` — until an emptying is filed, and the weekly pass says it in
+        the view. Inside five days, no row. The timer alone cannot do this: it
+        repeats every:5d whether or not the drawer was pulled, so a missed
+        occurrence leaves no trace and only these rows show whether it was done.
