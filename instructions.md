@@ -434,3 +434,29 @@ records --kind litter_emptying --limit 1
   moves by the October 24 reading above.
 - Nothing goes on the to-do list and no second timer is set. Following up means
   saying it again, not buzzing again.
+
+## Voting, closed
+
+**October 30, 2026 — the ballot and voting pages are gone, and the Voting section
+above no longer applies.** "I'm off to go vote. I've got all of the choices printed
+out and ready to go… I don't need it anymore, please go ahead and delete all of the
+ballot and voting views as well as the notes in our vault that are specifically
+about the election."
+
+He voted early on the last day of early voting with his picks on paper. Cleared that
+morning: 22 ballot and vote views plus 7 scratch pages from the same work, each left
+with one line saying it was deleted and when (the relay has no delete, so a page is
+emptied rather than removed); `notes/texas-ballot-2026.md`, down to the same one
+line, its 90,000 characters of research in git history alone; and the two election
+lines in `dates.md` (election day November 3, last day of early voting October 30),
+since he has already voted and the briefing would only nag.
+
+So the two Voting entries of October 29 — the `vote` view with its arrows and
+**Picked N of 22** counter, and the rule that a picked race loses its write-up on
+the next rewrite — are retired. **A note naming a choice is no longer marked
+anywhere**: there is no page to mark. File it if he says one and say so, nothing more.
+
+Kept, because he did not ask for them and they are the account rather than the
+reading: the 26 `ballot_pick` records and their document `kinds/ballot_pick.md`, and
+the 9 `build_request` rows that point at the pages now cleared. If he wants those
+gone too it is one more word.
