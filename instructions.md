@@ -405,3 +405,32 @@ actually reading.
   names whoever is picked now.
 - 6 of 22 were picked when he said this: Senate, Governor, Lt Gov, Attorney General,
   Chief Justice, Supreme Court Place 2.
+
+## Home, continued
+
+**October 30, 2026 — follow up on the Litter-Robot when it is past due.** "From
+now on follow up on the Litter Robot if it's past due."
+
+The reminder (`t_c4c588a5c59f2085`, `every:5d`) rolls itself forward whether or
+not the drawer was actually pulled, so a missed occurrence vanishes silently —
+that is how the October 23 break happened, and why the October 22 status check
+had to warn that the row might be stale. Only an emptying on record satisfies the
+rule.
+
+**Past due** is now being more than five days past the `at` of the newest
+`litter_emptying` row:
+
+```
+records --kind litter_emptying --limit 1
+```
+
+- **The morning briefing carries a row whenever it is past due**, every morning
+  until an emptying is filed, naming the days since the last one: `Litter robot:
+  6d, past due`. Inside five days there is no row — this is a follow-up, not a
+  status line, and a quiet morning stays quiet.
+- **The weekly pass says it too**, in the view, when the drawer is past due as
+  the pass runs or the week held a gap over five days.
+- **Any note that it was emptied clears it**: the clock restarts and the timer
+  moves by the October 24 reading above.
+- Nothing goes on the to-do list and no second timer is set. Following up means
+  saying it again, not buzzing again.
