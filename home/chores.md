@@ -17,8 +17,9 @@ he emptied it. The rule itself is in `instructions.md`.
 | Wednesday, October 14, 2026, 7:27 a.m. | David himself | 4 days 9 hours |
 | Sunday, October 18, 2026, 9:49 a.m. | David himself | 4 days 2 hours |
 | Friday, October 23, 2026, 9:41 p.m. | David himself | 5 days 12 hours — over |
+| Wednesday, October 28, 2026, evening | David himself | about 4 days 22 hours |
 
-Next due: Wednesday, October 28, 2026.
+Next due: Monday, November 2, 2026, 6 p.m.
 
 Each emptying is now a record of its own kind, `litter_emptying`, born on the
 October 14 one.
@@ -28,6 +29,14 @@ hours. The reminder fired that day at 6 p.m. and he emptied it at 9:41 p.m.;
 because he gave no time beyond "today", the emptying is filed at the moment he
 spoke, so the real gap may have been shorter. The three earlier emptyings all
 held, at four days and a few hours each.
+
+That break is what brought the October 24, 2026 amendment in `instructions.md`:
+the reminder now falls on 6 p.m. of the last day whose 6 p.m. is still inside
+five days — the emptying day plus four when he emptied it before 6 p.m., plus
+five when at or after. The October 28 emptying was an evening one and held, at
+about 4 days 22 hours; it was reported two days later, on Friday October 30, as
+"I emptied the litter box Wednesday evening", with no hour, so it is filed at
+8 p.m.
 
 ## Trash and kitty litter
 
