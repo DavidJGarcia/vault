@@ -531,3 +531,27 @@ says they are derived.
 The wrist will not hold twenty percentages. Lead with what is short: the three or
 four worst gaps with their numbers, one row saying the rest is on target, then the
 foods. The full read goes in a second message when it is worth sending.
+
+## Money, continued
+
+**October 31, 2026 — nothing older than September 1, 2026 is matched.** "You don't
+need to match any transactions older than September 1, 2026, as an update to your
+existing standing instructions."
+
+A floor under the October 18 rule (Walmart and Amazon charges) and the October 24
+one (Amazon refunds), both of which reach ninety days back. The window is now the
+**later** of the two bounds: ninety days before the pass, or September 1, 2026,
+whichever is more recent. So a pass on November 7, 2026 looks back to September 1
+rather than August 9; once ninety days before the pass is itself past September 1
+— from about December 1, 2026 — the ninety days is the binding bound again and
+this line stops mattering.
+
+```
+transactions --payee Walmart --since <the later of: 90 days before the pass, 2026-09-01>
+transactions --payee Amazon  --since <the later of: 90 days before the pass, 2026-09-01>
+```
+
+Everything else about both rules holds — the memo is the only change, already
+grouped is skipped, no match is said in the memo with the span checked, newest
+first and at most 25 a store per pass, and the view names what was memo'd. An
+older charge is simply not looked at rather than memo'd as unmatched.
