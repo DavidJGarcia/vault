@@ -460,3 +460,34 @@ Kept, because he did not ask for them and they are the account rather than the
 reading: the 26 `ballot_pick` records and their document `kinds/ballot_pick.md`, and
 the 9 `build_request` rows that point at the pages now cleared. If he wants those
 gone too it is one more word.
+
+**October 31, 2026 — the October 24 list worked; this is what is left.** Written by the
+weekly pass. Refused calls fell from **177 across 116 captures** in the week to October 24
+to **37 across 32 captures** in the week since — about a fifth. The big one, shelling out
+to `grep`, `head`, `sed` and `python` against a cached relay reply, is gone. Four habits
+still ran, and they are the whole remainder:
+
+- **Testing a heredoc with a bare `cat <<'EOF'`** — five times. The guard allows one
+  `python <relay.py> …` command and nothing else, so a heredoc can only ever be part of
+  that command. Write it and send it; there is nothing to rehearse.
+- **`cat`, `grep`, `ls` or `wc` on a file** — twelve times, mostly `jobs/ynab.md`,
+  `jobs/weekly-pass.md` and the replies cache. Read, Grep and Glob are the tools. The
+  October 24 line said so for the cache; it holds for every file.
+- **A `$` escaped inside double quotes** — twice, in a `say` and a `record`. Single
+  quotes or a quoted heredoc, as that line already says.
+- **Read on a `webfetch-*.pdf` under `~/.claude/projects/…/tool-results/`** — four times.
+  That directory is outside the permitted paths, so a fetched PDF is read with WebFetch or
+  not at all.
+
+Two more worth his eye, because neither is an obvious mistake:
+
+- **Five long `record` and `log` calls were refused with no reason in the log**, each
+  going through on a retry of the same content. They were the longest commands of their
+  runs, so length or nested quoting is the suspicion rather than anything in the text.
+  This is the one group that might be worth loosening.
+- **`view put` with a heredoc fails in bash somewhere between 5 and 8 KB**, and the shell
+  error reads as an unmatched quote rather than truncation — so it was diagnosed from
+  scratch three separate times this week. Keep a view write under about 6 KB and split the
+  page when it needs more; that is why the ballot work became many pages.
+
+As before, none of it changed an answer he got.
