@@ -296,3 +296,13 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         and higher on protein, which is what his denser, higher-protein slice and no syrup give.
         A gram weight from him is the finished slice off the pan, never the dry bread, and he
         names syrup when there is syrup - a pour would add 50-100 kcal.
+        "ready-to-whip" is Reddi-wip. October 31, 2026, "9 g of ready-to-whip dairy whipped
+        topping": the can reads "Reddi-wip Original Dairy Whipped Topping", so the rest of the
+        sentence is the product name said exactly. Label 2 Tbsp (6 g) is 15 kcal, 1 g fat,
+        1 g carb, no protein - 250 kcal and 16.7 g fat per 100 g, which USDA cream topping,
+        pressurized matches at 257 - so 9 g is 23 kcal. The aerosol dairy can is the reading
+        when he says dairy: Cool Whip is not dairy, and fat-free Reddi-wip would be 9 kcal at
+        this weight. Note the weight of a squirt: a tablespoon of the aerosol is about 3 g,
+        where the tub topping of the October 3, 2026 crepe row was priced at 13 kcal a
+        tablespoon. Like the sauces, a topping he weighs gets its own row beside the plate
+        rather than re-pricing it.
