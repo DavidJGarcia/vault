@@ -95,3 +95,17 @@ notes:  he asks in the early afternoon and again late afternoon, and the late on
         label: the 5.3 oz Oikos Triple Zero cup carries 0 g fibre and IS fortified
         with vitamin D (about 2 mcg, "good source"), correcting the October 19 read,
         which assumed it unfortified.
+
+        October 31, 2026, a standing instruction (`instructions.md`, *Food,
+        continued*): every answer of this kind now expresses each nutrient as a
+        percentage of its target — had against should-have — and then names two or
+        three foods that would close the gaps without pushing the day much past
+        1,700 kcal, saying which gap each food closes. It covers all three shapes,
+        the sum included, so a plain "how much protein so far" is answered with the
+        percentage, the other nutrients that can be estimated, and what to eat.
+        Sodium and saturated fat read as a percentage of their ceiling. The targets
+        above are what the percentages are taken against; nothing here sets new
+        ones. The props that carry it: `pct_of_target` (a map, nutrient to percent)
+        and, on the gap-closing picks, `options` as it is already shaped, each
+        option naming the items it closes. Older rows were left as they were — the
+        rule changes what an answer says, not what a row holds.
