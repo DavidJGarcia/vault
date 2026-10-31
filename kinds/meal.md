@@ -285,3 +285,14 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         named Southwest - the Southwestern Style is the 11.75 oz Grande and Southwest
         Fusion is a plant-based heat-or-eat bowl - so "Southwest" at 6.25 oz is this
         bowl, not another product and not a second bowl.
+        French toast is built from its ingredients, not off a generic panel, because the bread
+        is his own loaf. October 31, 2026, "92 g of French toast with homemade sourdough bread
+        as the bread": 92 g cooked is about 102 g before the pan, the rest cooked off as water -
+        one 45 g slice of homemade sourdough on the usual USDA sourdough reference (122 kcal,
+        4.8 g protein), about 40 g of egg-and-milk custard clinging to it (27 g egg, 13 g whole
+        milk, 47 kcal, 3.8 g protein) and 4 g of butter in the pan (29 kcal), so 200 kcal and
+        8.6 g protein, 2.15 kcal/g. USDA French toast prepared from recipe with 2% milk is
+        2.29 kcal/g and 7.7 g protein per 100 g, so the build runs a shade lighter on calories
+        and higher on protein, which is what his denser, higher-protein slice and no syrup give.
+        A gram weight from him is the finished slice off the pan, never the dry bread, and he
+        names syrup when there is syrup - a pour would add 50-100 kcal.
