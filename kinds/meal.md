@@ -306,3 +306,10 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         where the tub topping of the October 3, 2026 crepe row was priced at 13 kcal a
         tablespoon. Like the sauces, a topping he weighs gets its own row beside the plate
         rather than re-pricing it.
+        Mateo's Gourmet Salsa, medium, October 31, 2026 ("34 g of Mateo's Gourmet Salsa,
+        medium"): label 2 Tbsp (30 g) is 10 kcal, 0 g protein, 2 g carb, 1 g fiber, 1 g sugar,
+        0 g fat and 210 mg sodium, so 0.33 kcal/g and 7 mg sodium/g - 34 g is 11 kcal and
+        238 mg sodium. The Texas-made cantina-style jar; medium is the one he says, as with
+        Pace Picante. Like the sauces and toppings above, a salsa he weighs gets its own row
+        beside whatever he was eating rather than re-pricing it, and the sodium is the number
+        worth carrying - the calories are a rounding error at any portion he pours.
