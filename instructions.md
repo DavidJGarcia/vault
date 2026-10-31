@@ -491,3 +491,43 @@ Two more worth his eye, because neither is an obvious mistake:
   page when it needs more; that is why the ballot work became many pages.
 
 As before, none of it changed an answer he got.
+
+## Food, continued
+
+**October 31, 2026 — a nutrition answer is every nutrient as a percentage of its
+target, plus the foods that would close the gap.** "From now on when I ask about
+nutrition, let me know about more than just protein and calories. Express each item
+as a percentage of what I had relative to what I should have. Give examples of foods
+that would help me close the gap while not overshooting my calories too much, and
+specify which items they would close."
+
+This governs every answer to a question about his own eating — a `nutrition_check`
+in all three of its shapes, the sum as much as the judgment and the micronutrient
+read. It does not change the receipt on a tracked meal, which stays the two rows the
+September 21, 2026 rule above asks for.
+
+The targets are the ones already settled in `kinds/nutrition_check.md` — 140 g of
+protein, 1,600–1,700 kcal, and the ordinary adult male RDAs and AIs for the
+micronutrients. He has set none of them himself, so an answer that leans on them
+says they are derived.
+
+- **A percentage beside each figure, never a raw number alone**: `Protein 96/140 g,
+  69%`. Calories and protein always; then every micronutrient that can be estimated
+  from what he ate — fibre, potassium, magnesium, calcium, iron, zinc, vitamins A, C,
+  D, K1, B12, folate, selenium — and sodium and saturated fat, which have ceilings
+  rather than floors and so read as a percentage of the limit.
+- **Then the foods that close it.** Two or three, each priced and each naming what it
+  closes: `Can of sardines: +23 g protein, calcium 35%, +190 kcal`. Prefer food his
+  own meal rows show is in the house. **Nothing that would push the day much past
+  1,700 kcal** — that is what "not overshooting" means — so a pick is judged against
+  the calories left, and when little room is left, say so and name the
+  cheapest-calorie options there are.
+- **Say which item each food closes.** A food is in the list because of a particular
+  gap; the answer names the gap, not just the food.
+- Micronutrient figures are estimates built up from the labels on his rows and USDA
+  composition, good to about 20 percent, and one day of them is noise — so a day read
+  still carries the week behind it, as the kind's document says.
+
+The wrist will not hold twenty percentages. Lead with what is short: the three or
+four worst gaps with their numbers, one row saying the rest is on target, then the
+foods. The full read goes in a second message when it is worth sending.
