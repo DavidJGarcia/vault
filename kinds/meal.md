@@ -313,3 +313,12 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         Pace Picante. Like the sauces and toppings above, a salsa he weighs gets its own row
         beside whatever he was eating rather than re-pricing it, and the sodium is the number
         worth carrying - the calories are a rounding error at any portion he pours.
+        "Dave's Dead bread" is Dave's Killer Bread, and H-E-B carries it. November 1, 2026,
+        "34 g of Dave's Dead bread from HEB": priced on the 21 Whole Grains and Seeds label,
+        the flagship loaf and the one on H-E-B's shelf - 1 slice (45 g) is 110 kcal, 6 g
+        protein, 22 g carb, 4 g fiber, so 2.44 kcal/g and 0.133 g protein/g, and 34 g is
+        83 kcal and 4.5 g protein. Note the weight: 34 g is neither a slice (45 g) nor a
+        thin slice (about 24 g, 60 kcal), so a gram weight from him is a weighed portion
+        rather than a count of slices. The variety matters little at this portion - White
+        Bread Done Right is 80 kcal and Raisin' the Roof 90 per 34 g - but the seeded loaf
+        carries the fiber and the protein, so ask the loaf if he starts saying it often.
