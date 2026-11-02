@@ -63,3 +63,27 @@ other two rather than buying nine silicone blades at once.
 - Bosch Icon pricing: https://www.autozone.com/p/bosch-icon-wiper-blade-21oe/91637
 - Type comparison: https://wiperindex.com/blog/beam-vs-conventional-wiper-blades
 - 2026 round-up: https://allescarparts.com/blog/best-windshield-wiper-blades-2026
+## Sizes, and what went in the Amazon cart November 2, 2026
+
+| Vehicle | Driver | Passenger | Rear |
+|---|---|---|---|
+| 2019 GMC Yukon XL | 22" | 22" | 13" |
+| 2009 Nissan Murano | 26" | 16" | 12" |
+| 2007 Honda Odyssey | 26" | 22" | 16" |
+
+From the wiper size charts, not from the vehicles themselves. Amazon could not
+verify fit against the garage - it asks for trim and engine, which the garage
+rows do not carry - so the sizes are the charts and nothing more. One Amazon
+3-blade kit lists the 2005-2010 Odyssey rear as 14" where the charts say 16";
+measure the old blade before fitting that one.
+
+Added to the cart, nine blades, $186.79:
+
+- Fronts, all Rain-X Repellency beam (the tier above): 810363 22"/22" $39.27,
+  810348 26"/16" $44.70, 810356 26"/22" $45.02. About $20-23 a blade, against
+  Bosch Icon 22A22B at $28 a blade for the same tier.
+- Rears, all Rain-X RearView conventional with the interchangeable adapter:
+  850213 13" $19.39, 850212 12" $19.57, 850216 16" $18.84. Dearer than the $10
+  this page guessed a rear would be.
+
+Nothing silicone: the Yukon XL experiment above is still untried.
