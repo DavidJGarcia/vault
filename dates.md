@@ -4,6 +4,6 @@
 - 01-01 · David William's birthday (born 2012)
 - 2026-11-05 · Dragonsteel Games / BackerKit charge expected, $350-400, goes under Allowance - David (date and amount both approximate)
 - 12-10 · David's birthday (born 1983)
-- 2026-11-01 · Last day to collect McDonald's Monopoly game pieces (codes scannable to Nov 22)
+- 2026-11-22 · Last day to scan McDonald's Monopoly codes (collecting pieces ended November 1, 2026)
 - 2027-03-12 · Rodeo Austin opens, runs through March 27 (Travis County Expo Center; tickets on sale January 2027)
 - 2027-04-05 · Salt Lake Temple open house opens, runs to October 1, 2027 (free timed tickets on TempleSquare.org, released in waves; rededication Sunday June 13, 2027)
