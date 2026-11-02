@@ -23,3 +23,8 @@ the garage page is where those would go.
 
 Off the garage means Amazon no longer fits parts against them. It does not say
 whether either car is still owned; he did not say.
+
+## Wipers
+
+Which blade tier is worth paying for, and the replacement interval in Central
+Texas sun: wipers.md.
