@@ -28,3 +28,16 @@ whether either car is still owned; he did not say.
 
 Which blade tier is worth paying for, and the replacement interval in Central
 Texas sun: wipers.md.
+
+## Odometer
+
+Readings as he gives them, newest at the end.
+
+- **2007 Honda Odyssey — 184,253 miles**, Tuesday November 3, 2026. About 9,400
+  miles a year averaged over the van's nineteen years.
+
+  Honda's timing belt interval for this 3.5L V6 is 105,000 miles or 7 years, so
+  the second belt falls at **210,000 miles** — about 25,700 miles out, roughly
+  two and three-quarter years at that rate. The engine is an interference
+  design, so a belt that breaks bends valves. Whether the first belt was done at
+  105,000 is not on record; he has not said.
