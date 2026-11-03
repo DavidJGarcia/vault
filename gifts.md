@@ -103,3 +103,31 @@ Ideas he raised for Emily to get him, Monday September 14, 2026. No occasion nam
 - **Two sections are named David**, because his eldest shares his name. "David William"
   is the boy; "David — himself" is him. He used the middle name unprompted to draw that
   line, so take a bare "David" in a gift note as needing the question asked.
+
+## Mattresses — Emily and Abby
+
+Said Tuesday, November 3, 2026, as "Add new mattresses for Emily and Abby to my
+Christmas list." Two mattresses, so two rows: they are two purchases in two sizes.
+
+| Item | Recipient | Occasion | Price | Status | Added |
+|---|---|---|---|---|---|
+| A new mattress — size not chosen | Emily, his wife | Christmas, Friday December 25, 2026 | about $200 to $1,900; a good queen hybrid runs $600 to $900 | idea | Tuesday, November 3, 2026 |
+| A new mattress — size not chosen | Abby | Christmas, Friday December 25, 2026 | about $200 to $700 for a twin; kids-specific lines run $750 to $1,000 | idea | Tuesday, November 3, 2026 |
+
+**Size is the one fact to settle, for both.** Their own bed — queen or king — has
+never been said, and neither has Abby's: twin, twin XL or full, and whether her
+frame is a bunk, which caps how thick the mattress can be. After size, Emily's
+mattress turns on firmness, which is what a shared bed is chosen on.
+
+**The buying window is before Christmas, not after.** Mattress Firm's Black Friday
+season runs October 21 to December 8, 2026, with queens from $199.99 and up to 60%
+off; the named mid-range hybrids are DreamCloud Classic queen at $699, DreamCloud
+Premier 13-inch at $599.99, and Siena Signature at $329 from $742. At the top,
+Saatva Classic queen is $1,904 from $2,229. For Abby, Helix Kids is $749 to $999
+and a solid twin is usually under $700 before discounts. Checked Tuesday,
+November 3, 2026.
+
+**Abby's mattress has been on his backlog since September 16, 2026** — the personal
+backlog to-do "Get a new mattress for Abby", still open. It is the same mattress,
+not a second one; the Christmas list gives it a date. The backlog row stays as it
+is until the mattress is actually bought.
