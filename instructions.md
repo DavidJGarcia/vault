@@ -679,3 +679,28 @@ handoff.
 The refused-call lists of October 24 and October 31 are the model for an item: the
 count, the calls, the rule behind them, and whether it ever changed an answer he
 got.
+
+**November 3, 2026 — the coding-agent prompt goes in the weekly view itself, not
+its own page.** "Actually don't make the prompt a separate page. Include it in the
+weekly pass view." — said a minute after the entry above, correcting its first
+bullet, which put the prompt in `weekly-<YYYY-MM-DD>-fixes`.
+
+So that bullet is replaced. The prompt is the **last section of the weekly view**,
+under a heading of its own, still addressed to the coding agent and to nobody else:
+the repo and the files, then one numbered item per problem, worst first, each with
+its evidence, and what only he can decide at the foot as a question to him. He
+selects that section and pastes it.
+
+- **No `weekly-<date>-fixes` page is written**, and the weekly message loses the
+  row that linked one: the count goes on the same page, `Fixes: 3, in the view`
+  or `Fixes: none`.
+- The whole view, prompt included, must still fit one `view put` (the ~6 KB heredoc
+  ceiling, October 31). So the week's own sections stay as tight as they are, and
+  the prompt is written to the room left: the worst items in full, then one line
+  naming anything that did not fit, rather than a second page.
+- Everything else about the entry above holds — software and rules both count, each
+  item says which it is, an item with no evidence behind it is not written, and a
+  clean week gets two lines saying so.
+
+Nothing was written under the old reading: the rule was a minute old and no weekly
+pass has run since.
