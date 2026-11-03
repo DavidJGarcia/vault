@@ -637,3 +637,45 @@ when it changes what is actually available.
 Everything else about the row holds: one search, OpenAI and Anthropic only, a
 demoted item fills the row only on a morning with no releases, findings or
 posts, a quiet morning gets no row, and never an item from memory.
+
+## How you run, continued
+
+**November 3, 2026 — every weekly pass ends with a prompt he can hand straight to
+a coding agent.** "From now on when you do my weekly pass, also include a prompt
+that I can give directly to a coding agent to fix the things that need to be fixed
+or improved in your software or rules."
+
+The pass already notices what went wrong in the week — the refused calls, the
+commands that failed and were retried, the writes that truncated, the places a rule
+read ambiguously and he had to correct the result. Noticing is not fixing: the
+worker's own code and prompts live in a repo it may read and may not write
+(`C:/Users/David/Documents/GitHub/project-index` — `worker/prompt.md`,
+`worker/jobs/*.md`, `worker/relay.py`, `worker/run.py`). So the pass now writes the
+handoff.
+
+- It goes in **its own view, `weekly-<YYYY-MM-DD>-fixes`**, linked from the foot of
+  the weekly view, because a copyable prompt is longer than one view write holds
+  (the ~6 KB heredoc ceiling, October 31) and he wants to select the whole page and
+  paste it.
+- The page **is the prompt**, addressed to the coding agent and to nobody else: no
+  preamble to him, no recap of his week. It opens by naming the repo and the files,
+  then one numbered item per problem, worst first.
+- **Each item carries its evidence**: what went wrong, how many times this week,
+  the dates or event ids or log lines that show it, the file and section at fault,
+  and what "fixed" would look like. An item with nothing behind it does not go on
+  the page.
+- **Software and rules both count** — a bug or a rough edge in `relay.py` or
+  `run.py`, and a rule in `prompt.md` or a job file that is ambiguous, contradicts
+  another, or costs turns every run. Say which of the two each item is, since they
+  are different kinds of change.
+- **What only he can decide goes at the foot as a question** to him, never as an
+  instruction to the agent: a rule that needs his judgment, a trade-off, a
+  preference. The agent should not guess at those.
+- **A clean week gets a short page saying so.** Work invented to fill the page is
+  worse than an empty one — the same reading as insight.
+- The weekly message carries one row for it: `Fixes: 3 (weekly-2026-11-07-fixes)`,
+  or `Fixes: none`.
+
+The refused-call lists of October 24 and October 31 are the model for an item: the
+count, the calls, the rule behind them, and whether it ever changed an answer he
+got.
