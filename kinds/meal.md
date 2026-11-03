@@ -322,3 +322,18 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         rather than a count of slices. The variety matters little at this portion - White
         Bread Done Right is 80 kcal and Raisin' the Roof 90 per 34 g - but the seeded loaf
         carries the fiber and the protein, so ask the loaf if he starts saying it often.
+        Canned carrots, first eaten on record November 3, 2026 ("a third of canned
+        carrots", beside the usual breakfast). Every other carrot row of his is raw, so
+        this one gets a label rather than the USDA raw figure: Del Monte Fresh Cut Sliced
+        Carrots, 1/2 cup drained (123 g) is 30 kcal, 1 g protein, 7 g carb, 2 g fiber,
+        300 mg sodium - 0.244 kcal/g and 2.4 mg sodium/g, barely half the calories of raw
+        carrot per gram and four times the sodium. "A third of" with no unit was read as a
+        third of the can: a 14.5 oz can drains to about 234 g, so 78 g, 19 kcal. A third of
+        a cup is 82 g and 20 kcal, so the two readings differ by a rounding error and the
+        question is not worth asking. A no-salt-added can would be about 60 mg sodium at
+        that portion instead of 190.
+        "If you didn't track those already, track them" is him guarding against a double
+        entry, not asking a question. Read the day's meal rows first: nothing filed means
+        file it and say so on the wrist ("nothing tracked yet"), and a row already holding
+        it means say that it is already counted and change nothing. November 3, 2026 was
+        the first of these; the day held no meal row, so both foods were filed.
