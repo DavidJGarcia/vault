@@ -555,3 +555,34 @@ Everything else about both rules holds — the memo is the only change, already
 grouped is skipped, no match is said in the memo with the span checked, newest
 first and at most 25 a store per pass, and the view names what was memo'd. An
 older charge is simply not looked at rather than memo'd as unmatched.
+
+## News, continued
+
+**November 3, 2026 — the frontier-lab row leads with what he can actually use.**
+"For Frontier Lab news in my updates, from now on I particularly want to know
+about new features, capabilities, and models that are available."
+
+An amendment to the October 29, 2026 News entry above, which asked for anything
+either company announced or that was reported about them. The search and the row
+stay one each; what fills the row changes:
+
+- **Prefer, in this order:** a model released or made generally available; a new
+  capability or feature in a product he can reach today (Claude Code, the API,
+  ChatGPT, Codex); a limit, mode or tier that changes what he can do with one.
+  Name the thing and that it is out: `Anthropic: Opus 5.1 out`,
+  `OpenAI: Codex web search`.
+- **Demote, and carry only when the morning is otherwise empty of releases:**
+  funding, valuations, executive moves, lawsuits, policy statements, research
+  papers with nothing shipped, benchmark claims, and reporting about the
+  companies rather than from them.
+- **Availability is the test.** Say whether it is out, in preview, or announced
+  for later, because that is the difference between something he can try at his
+  desk this morning and something he cannot. A waitlist or a staged rollout is
+  worth the words.
+- A morning with releases from both labs gets a row each before anything from
+  the demoted list. A morning with none and only business news gets one row of
+  it, or none — the October 29 rule that a quiet morning gets no row still holds.
+
+The row is still only about **OpenAI and Anthropic**, as the October 29 entry
+set it; "Frontier Lab" is his name for that row rather than a wider list of
+labs. One word widens it.
