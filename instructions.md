@@ -586,3 +586,27 @@ stay one each; what fills the row changes:
 The row is still only about **OpenAI and Anthropic**, as the October 29 entry
 set it; "Frontier Lab" is his name for that row rather than a wider list of
 labs. One word widens it.
+
+**November 3, 2026 — findings, research and blog posts count as releases; funding
+only when it is really big.** "I do also want to know about findings, research,
+and blog posts. I don't care as much about funding unless there's really big
+news." — said minutes after the entry above, which demoted "research papers with
+nothing shipped" and funding together.
+
+They are not the same thing, so they separate:
+
+- **Promoted into the preferred list**, alongside a model release or a new
+  capability: published findings and research from either lab (interpretability,
+  safety, evaluations, a technique paper) and their own blog and engineering
+  posts. Nothing has to ship for one to be worth the row — the reading is the
+  thing. Name the finding, not the paper: `Anthropic: introspection in Opus`,
+  `OpenAI: sparse-circuit interpretability`.
+- **Funding, valuations and raises** stay demoted and now need to be big to be
+  carried at all: a round or a valuation that moves the industry, not a routine
+  one. When in doubt, leave it out and give the row to a finding.
+- Executive moves, lawsuits, policy statements, benchmark claims and reporting
+  about the companies rather than from them stay where the entry above put
+  them — carried only when the morning is otherwise empty.
+- Everything else about the row holds: one search, OpenAI and Anthropic only,
+  availability said for anything shipped, a quiet morning gets no row, and
+  never an item from memory.
