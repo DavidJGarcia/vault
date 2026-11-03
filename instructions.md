@@ -610,3 +610,30 @@ They are not the same thing, so they separate:
 - Everything else about the row holds: one search, OpenAI and Anthropic only,
   availability said for anything shipped, a quiet morning gets no row, and
   never an item from memory.
+
+**November 3, 2026 — deals they've inked sit with funding: carried only when
+one is really big or changes what he can use.** "Deals they've inked also go
+down with funding, or only if it's really big or changes things?" — asked forty
+seconds after the entry above, which separated findings and research from
+funding but said nothing about the deals the labs sign.
+
+They go down with funding, and the two readings he offered come to the same
+thing, so the rule is both: a deal earns the row only when it is really big or
+when it changes what is actually available.
+
+- **Demoted**, with funding and valuations: compute and cloud agreements, chip
+  supply, data-centre build-outs, enterprise and government customer wins,
+  distribution and reseller deals, licensing settlements. The dollar figure is
+  not the test on its own — a ten-billion-dollar compute contract changes
+  nothing at his desk.
+- **Carried** when the deal changes something he can reach: a new place the
+  model runs or can be bought (a cloud, a device, an OS, an app he already
+  uses), a partnership that ships a product or a capability, or a deal big
+  enough to move the industry's shape the way a really big raise would.
+- **Name what it changes, not the size**: `Anthropic: Claude in Excel via
+  Microsoft` beats `Anthropic signs $30B Azure deal`. Availability still gets
+  said, as the first November 3 entry asks.
+
+Everything else about the row holds: one search, OpenAI and Anthropic only, a
+demoted item fills the row only on a morning with no releases, findings or
+posts, a quiet morning gets no row, and never an item from memory.
