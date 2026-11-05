@@ -337,3 +337,12 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         file it and say so on the wrist ("nothing tracked yet"), and a row already holding
         it means say that it is already counted and change nothing. November 3, 2026 was
         the first of these; the day held no meal row, so both foods were filed.
+        Little Caesars, first on record November 4, 2026 ("a slice of Little Caesars
+        pepperoni pizza"): read as the Classic round Hot-N-Ready pepperoni, 1 slice =
+        1/8 of a 14-inch large - 280 kcal, 12 g protein, 31 g carb, 12 g fat, 540 mg
+        sodium off the chain's own chart. The reading matters: their Detroit-style deep
+        dish is a far heavier slice (about 350-390 kcal) and thin crust a lighter one
+        (about 160), so a bare "slice" is the Classic round and he will name the deep
+        dish or thin crust when it is one. A slice is a count, not a weight - he gives a
+        gram weight when he has weighed it. Like any fast-food row, the sodium is worth
+        carrying.
