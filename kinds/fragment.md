@@ -56,3 +56,17 @@ notes:  four rows. The weekly pass of October 4, 2026 found an earlier one left 
         inventing the food and not completing the sentence. The rule stands: nothing is
         filed as eaten and the receipt asks what it was. So five rows, and the count in
         the paragraph above is of its own date.
+        The sixth, "I'm picking out the captain.", Wednesday, November 4, 2026 at 10:13pm,
+        is the Skittles shape again rather than a cut recording: a whole sentence, a present
+        tense verb that says he is doing something right now, and one noun that names nothing
+        in his life. No captain appears in any record, timer, view or vault file - the single
+        search hit in thirteen hundred rows is L. Tom Perry captaining a church volleyball
+        team in 1940. The food test the Skittles paragraph asks for was run and found nothing:
+        no cereal on 519 meal rows, and the evening had already closed with pizza at 7:21pm.
+        Eight candidate readings were written down and none chosen; the nearest by sound is
+        *captions*, and the nearest by circumstance is a Dragonsteel Games BackerKit item,
+        since he had warned on October 18 of a $350-400 charge from it around November 5.
+        That last one is the lesson worth keeping: **a fragment spoken on a date he has
+        already flagged for something is still not resolvable from the date** - the pledge
+        manager fits the night and still does not name a captain, so filing it as a purchase
+        would have invented both the item and the act. So six rows.
