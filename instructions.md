@@ -704,3 +704,41 @@ selects that section and pastes it.
 
 Nothing was written under the old reading: the rule was a minute old and no weekly
 pass has run since.
+
+## Money, continued
+
+**November 5, 2026 — a charge he forewarns about is a categorization to get right,
+not a reminder to be given.** "Instead of reminding me about the Dragonsteel charge,
+you should just make sure that it's categorized correctly and then" — the note cut
+off there, mid-sentence, after this morning's briefing carried the Dragonsteel row
+and he asked twice what it was.
+
+The row came from his own October 18, 2026 note (rec_20261018T2000017418339fea0c): a
+$350–400 charge from Dragonsteel Games / BackerKit / Kickstarter expected around
+November 5, "goes under David's allowance". It was written into `dates.md`, which is
+why the briefing told him about it. He does not want to be told; he wants it filed
+right when it lands.
+
+- **The `2026-11-05` line is out of `dates.md`**, so no briefing carries it again.
+- **Until it lands, the briefing and the weekly pass look for it in YNAB** — the
+  Dragonsteel / BackerKit / Kickstarter payees, a charge of roughly $350–400 — as
+  part of the money call they already make. Nothing found: no row, no word.
+- **When it lands, categorize it: `Allowance - David`**, with a memo naming the
+  October 18 forewarning. The approval, the amount, the payee and the account stay
+  his. This is a second standing exception to *leave his imports alone*
+  (`ynab.md`), the first being the reconciliation.
+- **Then say it once** — `Dragonsteel $NNN` / `→ Allowance - David` — and never
+  again. Saying it before it lands is the reminding he just asked to stop.
+- **The category is the one open question.** He said "David's allowance", and
+  `Allowance - David` (Kids group, $504.49 on this date) is literally one of his
+  categories, which by the October 19 rule settles it; his own discretionary
+  category is `David's spending money` ($566.89). Allowance - David is what will
+  be used unless he says otherwise.
+- **The watch stops December 5, 2026**, a month past the expected date — a bound of
+  the worker's, not his: at that point say once that nothing of that size ever
+  charged, and stop looking.
+
+The general reading, for the next charge he forewarns about: file it, keep it out of
+`dates.md`, watch YNAB for it, categorize it when it arrives, and report it once
+after the fact. A forewarning is him handing over a filing job, not asking to be
+nagged on the day.
