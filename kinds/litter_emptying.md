@@ -28,15 +28,17 @@ notes:  the reminder is timer t_c4c588a5c59f2085, "Empty the litter robot",
         rule: a morning emptying plus five days at 18:00 fires *after* the
         deadline, which is what let October 18 (9:49 a.m.) run to October 23
         (9:41 p.m.), 5 days 12 hours. instructions.md carries the amended rule.
-        Five rows so far: Oct 9, Oct 14 (4.4 d), Oct 18 (4.1 d), Oct 23 (5.5 d),
-        Oct 28 (4.9 d).
+        Six rows so far: Oct 9, Oct 14 (4.4 d), Oct 18 (4.1 d), Oct 23 (5.5 d),
+        Oct 28 (4.9 d), Nov 4 (7.0 d). Two of the six are over five days.
 
         He does not always say it the same day: October 28 was reported on
-        Friday October 30 as "I emptied the litter box Wednesday evening". So
-        read the day he names, file the row at that moment and not at spoken_at,
-        and check the timer against it rather than assuming the row has already
-        rolled wrong — an evening with no hour is filed at 20:00, which counts as
-        at or after 18:00. He also says "litter box" for the Litter-Robot.
+        Friday October 30 as "I emptied the litter box Wednesday evening", and
+        November 4 on the morning of November 5 as "last night". So read the day
+        he names, file the row at that moment and not at spoken_at, and check the
+        timer against it rather than assuming the row has already rolled wrong —
+        an evening or a night with no hour is filed at 20:00, which counts as at
+        or after 18:00. He says "litter box" and "the Litter Robot trash" for the
+        same drawer.
 
         Past due follows up on its own from October 30, 2026 (instructions.md,
         "Home, continued"): when now is more than five days past the newest row's
@@ -45,3 +47,5 @@ notes:  the reminder is timer t_c4c588a5c59f2085, "Empty the litter robot",
         the view. Inside five days, no row. The timer alone cannot do this: it
         repeats every:5d whether or not the drawer was pulled, so a missed
         occurrence leaves no trace and only these rows show whether it was done.
+        November 4 is the case that proves it: the reminder fired on the right
+        evening, November 2, and the drawer still waited two more nights.
