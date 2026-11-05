@@ -346,3 +346,14 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         dish or thin crust when it is one. A slice is a count, not a weight - he gives a
         gram weight when he has weighed it. Like any fast-food row, the sodium is worth
         carrying.
+        "market-side" is Marketside, Walmart's own brand, and his snap peas are the 8 oz
+        washed-and-ready fresh bag he carted October 31, 2026. November 5, 2026, "84 g of
+        market-side sugar snap peas": label 1 cup (85 g) is 35 kcal, 2 g protein, 6 g carb,
+        2 g fiber, 3 g sugar, 0 g fat, 1.8 mg iron - so 84 g is the label serving to a gram,
+        35 kcal. USDA raw edible-podded peas agrees (42 kcal, 2.08 mg iron per 100 g), so the
+        micronutrients come from USDA: 50 mg vitamin C at this portion, about half a day of
+        it, plus 168 mg potassium, 36 mg calcium and 21 ug vitamin K. Snap peas are not green
+        peas - the October 20, 2026 row of 63 g frozen green peas was 50 kcal, nearly twice
+        the calories per gram, because the pod is mostly water. The brand resolution is the
+        same as the Marketside mini sweet peppers of November 4, 2026: he says the word as
+        two, and Marketside is what he buys.
