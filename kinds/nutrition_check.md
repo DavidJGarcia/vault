@@ -109,3 +109,11 @@ notes:  he asks in the early afternoon and again late afternoon, and the late on
         and, on the gap-closing picks, `options` as it is already shaped, each
         option naming the items it closes. Older rows were left as they were — the
         rule changes what an answer says, not what a row holds.
+
+        November 5, 2026: "I am doing nutrition." is the clipped form of "How am I
+        doing on nutrition today?", the ask of September 19 and October 12 word for
+        word with the "How" and the "on" lost - the ring drops the head of a question
+        as often as its tail. Read it as the whole-day ask, not as a statement that he
+        is working on nutrition. Answered as the sum plus the micronutrient read in
+        one go, since the October 31 standing instruction now makes every answer carry
+        the percentages.
