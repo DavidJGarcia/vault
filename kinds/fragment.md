@@ -70,3 +70,23 @@ notes:  four rows. The weekly pass of October 4, 2026 found an earlier one left 
         already flagged for something is still not resolvable from the date** - the pledge
         manager fits the night and still does not name a captain, so filing it as a purchase
         would have invented both the item and the act. So six rows.
+        The seventh, "And insist on doing it.", Thursday, November 5, 2026 at 9:48pm, is a
+        fourth shape and the mirror of the first three: a **tail**. It opens with *And* and
+        its only object is *it*, so everything it means is in the sentence before it, and
+        that sentence never arrived. Not cut at the front, not corrupted, not missing a
+        noun - missing its antecedent. It came in a batch of three captures delivered nine
+        hours late, at 12:45 UTC on November 6, and the other two in that batch (a weigh-in
+        of 140.2 and a Walmart cart add for Febreze pet-odor mist) are not sentences it
+        could continue, so the likeliest account is a fourth capture the ring held and
+        dropped. The lesson for a tail: **the batch is the first place to look, and when the
+        batch does not hold the front of it, nothing does.** The captures either side were
+        read anyway - five packing-list notes and the Cleburne Walmart question, fifteen
+        minutes earlier, none of them ending in a clause this completes - as were the open
+        to-dos and the timers, in case it was a rider on one. Five candidate readings were
+        written down and none chosen; the nearest by circumstance is a bedtime instruction
+        about one of the kids before a 6am departure, and it names neither the child nor the
+        task. Worth noting against the temptation: his own 6:01am instruction that same day
+        also cut off mid-sentence, at "and then" - two truncated captures in one day is a
+        fact about the ring, and it is not a reason to join them, since the grammar does not
+        join. So seven rows, and four shapes: cut at the front, corrupted in the middle,
+        missing its object, and missing what came before it.
