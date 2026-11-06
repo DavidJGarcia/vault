@@ -6,3 +6,4 @@
 - 2026-11-22 · Last day to scan McDonald's Monopoly codes (collecting pieces ended November 1, 2026)
 - 2027-03-12 · Rodeo Austin opens, runs through March 27 (Travis County Expo Center; tickets on sale January 2027)
 - 2027-04-05 · Salt Lake Temple open house opens, runs to October 1, 2027 (free timed tickets on TempleSquare.org, released in waves; rededication Sunday June 13, 2027)
+- 2026-11-06 · Packing list for the morning departure — trips/2026-11-06.md (toothbrushes, mouth guard, deodorants; he was still adding)
