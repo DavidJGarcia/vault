@@ -66,3 +66,11 @@ notes:  he logs a whole session set by set, one short note each, a minute or two
         He also says the brand: "Hammer Strength MTS Row" (October 29, 2026) is the same
         movement as "MTS row", and Hammer Strength is the maker of every MTS rig, so
         the brand in a note names the machine and never a new movement.
+        Two movements the props list above does not name, both added after it was
+        written: `ab crunch`, first logged October 21, 2026 and now twice a week, and
+        `back extension`, first logged November 3, 2026 (16 at 70, one set, on the legs
+        day). The ab crunch runs on two different machines - the Matrix on the Monday
+        day and the Hammer Strength MTS on the Tuesday day - and he names which, so the
+        two loads are kept apart the way the lateral raises' two machines are: a change
+        of machine is not a jump. The back extension has one row and nothing to compare
+        against; say so rather than inventing a comparison.
