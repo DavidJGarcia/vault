@@ -357,3 +357,14 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         the calories per gram, because the pod is mostly water. The brand resolution is the
         same as the Marketside mini sweet peppers of November 4, 2026: he says the word as
         two, and Marketside is what he buys.
+        His paper plates are 10-inch Walmart ones, and that is the scale bar in every food
+        photo of his. November 6, 2026, after four homemade pizza slices were filed at
+        115-130 g each: "I think you're overestimating on the pizza. These are like ten
+        inch Walmart plates" - the plate had been read at about 9 inches, so every slice
+        was about 22 percent too heavy and the four rows came down from 1,245 kcal to 970
+        (rec_20261107T0049519434398405f1). Great Value paper plates are 10.25 inches, and
+        a slice reaching halfway across one is therefore 5 inches long, not 4.5. Food read
+        against the plate scales with the square of the diameter, so a one-inch error in
+        the plate is a fifth of the calories. Read portions against the 10.25-inch plate
+        from now on, say the plate in the basis when a photo is all there is, and prefer
+        his gram weight over any of this whenever he gives one.
