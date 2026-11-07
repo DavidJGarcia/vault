@@ -6,5 +6,6 @@
 - 2026-11-22 · Last day to scan McDonald's Monopoly codes (collecting pieces ended November 1, 2026)
 - 2027-03-12 · Rodeo Austin opens, runs through March 27 (Travis County Expo Center; tickets on sale January 2027)
 - 2027-04-05 · Salt Lake Temple open house opens, runs to October 1, 2027 (free timed tickets on TempleSquare.org, released in waves; rededication Sunday June 13, 2027)
-- 2026-11-13 · Dune: Part One + Part Two IMAX double feature, one day only, 5 h 32 min, with a Part Three sneak peek. He compared theatres twice on October 31 and the answer was EVO Kyle; nothing on record says tickets are bought.
+- 2026-11-13 · Dune: Part One + Part Two IMAX double feature, one day only, 5 h 32 min, with a Part Three sneak peek. Tickets bought, Hooky Hutto IMAX (150 Alliance Blvd, Hutto, about 20 min) — he said so November 7; the showtime is on his tickets and not on record.
 - 2026-12-09 · Check the AT&T internet charge — it should be about $10-12 lower after he returned the Wi-Fi extender and cancelled the add-on on November 1, 2026. The November 9 bill may still carry a partial month. Added by the weekly pass, not by him.
+- 2026-12-18 · Dune: Part Three opens
