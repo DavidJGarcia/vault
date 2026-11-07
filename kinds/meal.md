@@ -368,3 +368,13 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         the plate is a fifth of the calories. Read portions against the 10.25-inch plate
         from now on, say the plate in the basis when a photo is all there is, and prefer
         his gram weight over any of this whenever he gives one.
+        He fasts some days, so a short day is not a gap in the log. November 1, 2026
+        holds four rows, all between 4:21 and 7:17 p.m., 1,195 kcal and 55.7 g protein,
+        and no breakfast or lunch; the weekly pass of November 7 read that as
+        under-logging and left the day out of the week's averages. "I actually did log
+        all of my food on Sunday. I was just fasting that day." So a day whose rows sit
+        in one eating window is an intentional fast until he says otherwise: count it in
+        the week like any other day, and when a fast day pulls an average down, say that
+        is what it was rather than calling the day incomplete. A day with no rows at all,
+        or rows that stop mid-day after a normal morning, is still worth asking about -
+        the test is whether the eating looks like a window or like a log that ran out.
