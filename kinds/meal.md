@@ -378,3 +378,13 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         is what it was rather than calling the day incomplete. A day with no rows at all,
         or rows that stop mid-day after a normal morning, is still worth asking about -
         the test is whether the eating looks like a window or like a log that ran out.
+        Big Time Crunch! Ultimate Cheese, first on record November 7, 2026 ("11.3 g of Big
+        Time Crunch Ultimate Cheese. They're kind of like Cheetos."): H-E-B's own cheese
+        puff, sold under the Pete's / Big Time Crunch! name and not a Frito-Lay product, so
+        the Cheetos comparison is him describing the snack rather than naming the brand.
+        Label: 28 g (20 pieces) is 150 kcal, 1 g protein, 9 g fat, 16 g carb, no fiber,
+        260 mg sodium - 5.36 kcal/g and 9.3 mg sodium/g, so 11.3 g is 61 kcal, 0.4 g protein
+        and 105 mg sodium. Cheetos Crunchy would be 160 kcal per 28 g, within a calorie or
+        two at this portion, so the reading hardly matters here - but it is an H-E-B shelf
+        item, like Dave's Killer Bread of November 1, 2026, and worth the label. A gram
+        weight from him is the weighed portion, well under the 28 g serving.
