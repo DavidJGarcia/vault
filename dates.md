@@ -9,3 +9,4 @@
 - 2026-11-13 · Dune: Part One + Part Two IMAX double feature, one day only, 5 h 32 min, with a Part Three sneak peek. Tickets bought, Hooky Hutto IMAX (150 Alliance Blvd, Hutto, about 20 min) — he said so November 7; the showtime is on his tickets and not on record.
 - 2026-12-09 · Check the AT&T internet charge — it should be about $10-12 lower after he returned the Wi-Fi extender and cancelled the add-on on November 1, 2026. The November 9 bill may still carry a partial month. Added by the weekly pass, not by him.
 - 2026-12-18 · Dune: Part Three opens
+- 2026-12-12 · Pageer family baptism and baby blessing, the second weekend in December (Sat Dec 12 - Sun Dec 13). He did not say which day each is; spelling of Pageer unverified. See people/pageer.md
