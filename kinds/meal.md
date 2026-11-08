@@ -398,3 +398,18 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         from him is straws, not grams, and the label gives the straws per serving, so the
         portion comes off the 38-straw serving rather than from a guessed weight. Ask the
         bag if he starts saying it often.
+        "Asian beef" is Beijing Beef, and a note about the beef-to-vegetable ratio
+        re-prices the scoop. November 8, 2026, "137 g of Asian beef from Panda Express
+        but it's heavy on the vegetables and light on the beef": Panda Express sells no
+        Asian beef, and "150 g of Beijing beef from Panda Express" is his own phrasing
+        from October 23, 2026, so the item is Beijing Beef off the panel in the
+        paragraph above (2.96 kcal/g). The second clause is the thing to act on: the
+        panel scoop prices out at about 64 percent battered beef by weight (battered
+        fried sauced beef about 4.2 kcal/g, sauced bell pepper and onion about
+        0.8 kcal/g), so a veg-heavy scoop read at about 45 percent beef is 2.33 kcal/g -
+        137 g became 320 kcal and 8.5 g protein rather than the panel's 406 and 11.2.
+        Fat falls most, since nearly all of it is in the battered beef; sodium least,
+        since the sauce coats the vegetables too. Broccoli Beef is the other reading and
+        is wrong: its own panel is 150 kcal a serving, nothing like these numbers. A
+        qualifier about what is in a weighed fast-food scoop is a correction to the
+        density, not colour - price it and say both numbers.
