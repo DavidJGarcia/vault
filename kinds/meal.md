@@ -388,3 +388,13 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         two at this portion, so the reading hardly matters here - but it is an H-E-B shelf
         item, like Dave's Killer Bread of November 1, 2026, and worth the label. A gram
         weight from him is the weighed portion, well under the 28 g serving.
+        Veggie straws, first on record November 7, 2026 ("I'm having 15 veggie straws."):
+        priced off the Sensible Portions Garden Veggie Straws label, whose serving is
+        28 g = 38 straws = 130 kcal, 1 g protein, 16 g carb, 7 g fat, 220 mg sodium - so
+        3.42 kcal a straw, and 15 straws is 11 g and 51 kcal. No purchase or cart line of
+        his names a brand, and Great Value veggie straws run within a calorie or two per
+        straw, so the brand hardly matters here; the flavors (sea salt, cheddar, ranch,
+        sour cream and onion) share the panel too. The thing to notice is that a count
+        from him is straws, not grams, and the label gives the straws per serving, so the
+        portion comes off the 38-straw serving rather than from a guessed weight. Ask the
+        bag if he starts saying it often.
