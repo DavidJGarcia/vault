@@ -11,15 +11,20 @@ Halloween, so read as the seeds out of a carving pumpkin.
    This is the step most people skip and the one that matters: the salt gets
    inside the hull, and the boil frees the last of the membrane. Seeds come out
    crisp rather than chewy.
-3. **Dry well.** Drain, then pat between towels. Wet seeds steam instead of
-   roasting.
+3. **Dry well — but do not wait for bone-dry.** Drain, pat between towels, then
+   spread in a single layer on the sheet pan and let them air-dry 15–20 minutes
+   while the oven preheats. Boiled in-hull seeds stay damp to the touch however
+   long they sit, because the hull itself holds water; overnight drying buys
+   nothing. Damp seeds steam for the first few minutes in the oven, so give them
+   room and add time rather than more drying.
 4. **Toss with oil and salt.** A tablespoon of olive oil per cup of seeds, plus
    salt. Anything else goes on here too — garlic powder, smoked paprika, chili
    powder, cinnamon and sugar for a sweet batch.
 5. **Roast at 325°F for 20–25 minutes**, single layer on a parchment-lined sheet,
-   stirring once at the halfway mark. Done when golden brown and they pop or
-   crack between the teeth. They crisp further as they cool, so pull them a shade
-   earlier than looks right.
+   stirring once at the halfway mark. Seeds that went in damp want 25–30 minutes
+   and a stir twice. Done when golden brown and they pop or crack between the
+   teeth. They crisp further as they cool, so pull them a shade earlier than
+   looks right.
 
 ## Notes
 
@@ -35,9 +40,14 @@ Halloween, so read as the seeds out of a carving pumpkin.
 - Rough numbers: a cup of in-hull roasted seeds is about 285 kcal and 12 g of
   protein, before the oil. Salted seeds carry real sodium, so the tally matters
   if a day is already high.
+- November 8, 2026: he boiled them in the morning and came back at lunch asking
+  whether to dry them again or bake them wet. The answer is bake — step 3 now
+  says so, since that is where the question lands.
 
 ## Sources
 
 - https://boulderlocavore.com/roasted-pumpkin-seeds-the-best-method-ever/
 - https://www.inspiredtaste.net/35546/easy-roasted-pumpkin-seeds-recipe/
 - https://coleycooks.com/pumpkin-seeds/
+- https://www.bobsredmill.com/articles/how-to-cook-pumpkin-seeds
+- https://thecozycook.com/how-to-roast-pumpkin-seeds/
