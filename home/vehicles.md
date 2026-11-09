@@ -41,3 +41,29 @@ Readings as he gives them, newest at the end.
   two and three-quarter years at that rate. The engine is an interference
   design, so a belt that breaks bends valves. Whether the first belt was done at
   105,000 is not on record; he has not said.
+
+## Incidents
+
+Collisions and scrapes as he reports them, newest at the end.
+
+- **Saturday November 7, 2026, late evening — a blind-spot bump coming home from the youth
+  dance.** His own account, Monday November 9: "On the way home from the dance I bumped into
+  a kid who was in my blind spot and may or may not have had his lights on. After exchanging
+  information and adjusting the side view mirror, we headed home."
+
+  Dark and raining, on the drive back across Austin from the multi-stake music and dance
+  activity with Derek and David William in the car. The other driver was a teenager whose
+  headlights may or may not have been on — he raises it without settling fault. Information
+  was exchanged at the scene and they drove home.
+
+  **The vehicle is not named.** Most likely the 2019 GMC Yukon XL, which the family had used
+  for the Archibalds' overnight and which he had just unloaded before getting back in for
+  the pick-up. He did not say.
+
+  **Damage is not on record.** The only thing he named needing attention was the side view
+  mirror, and "adjusting" it reads as re-aiming his own mirror against the blind spot rather
+  than straightening one that was struck — both fit his words. No injury, no police report,
+  no tow.
+
+  **Open, and only he can say:** what either vehicle looks like, whether a claim has been
+  opened with his insurer or the other driver's, and whether anything needs repairing.
