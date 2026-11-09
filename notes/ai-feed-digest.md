@@ -145,3 +145,83 @@ even as a subscription.
 - The same credits do cover more than reading, if a later phase wants it: posting
   $0.015 (a post containing a link, $0.20), a profile lookup $0.01, a DM read
   $0.01, a follow or like $0.015, your own bookmarks and followers $0.001.
+
+## X directly, or a Grok bot? (asked November 9, 2026)
+
+"To give you access to better news from X/Twitter, I could get you access to X
+directly. I think I'd have to pay for that, or I could get a Grok bot to summarize
+the news and make it available to you. Compare."
+
+Phase 0 happened: the briefing has carried a frontier-lab news row since
+October 29, and this morning's 48-hour rule exists because that row went stale.
+So this is the Phase 1/2 decision, with a new option on the table.
+
+### The three things that could be bought
+
+**A. The official X API, pay-per-use.** Unchanged from the October 28 reading
+above: $0.005 a post read, $5 minimum credit purchase, up to $70 in one-time
+starter credits that expire after three months, capped at 3 million reads a month.
+At 100-200 posts a day that is **$15-30/month**.
+
+**B. The xAI API with its X Search tool.** An API key, nothing else. X Search bills
+**$5 per 1,000 posts returned** - $0.005 a post, *the same price as X's own API* -
+plus $10 per 1,000 profiles, plus Grok tokens ($2/M in, $6/M out on grok-4.7). A
+morning query that returns thirty posts and a short summary is $0.15-0.25, so
+**$5-8/month**. The older Live Search interface is the expensive way to do the same
+thing ($25 per 1,000 sources; $0.10 a request for Web + X + News + RSS) and is not
+what to use. xAI also offers up to $175/month in promotional credits for joining
+their data-sharing program - which means handing them the prompts, so it is a
+discount with a price.
+
+**C. The X Subscription, $30/month.** This is what "a Grok bot" means if it means
+the consumer product. Since October 12, 2026 one subscription replaced SuperGrok
+and X Premium+ (and bundles Cursor Pro); Grok inside it can run scheduled tasks and
+write digests. **It cannot reach the worker.** The digest lands in the X app, an
+email, or a DM, and the worker has no email channel, while the agent browser is
+restricted to shopping by standing instruction. So C is the most expensive option
+and the only one that does not actually deliver anything here.
+
+### The comparison that matters
+
+| | cost/month | setup | what it gives |
+| --- | --- | --- | --- |
+| A. X API | $15-30 | developer account, OAuth PKCE, token refresh, paging | raw posts from **your own following graph**, exact timestamps |
+| B. xAI X Search | $5-8 | one API key | posts matching a **topic search** across X, plus a summary |
+| C. $30 subscription | $30 | none | a digest you read in the app, not here |
+
+Three things decide it:
+
+1. **Your feed is only in A.** B searches X; it does not know who you follow. If
+   the thing you miss is a specific person's take, no amount of Grok buys it.
+2. **The 48-hour rule needs timestamps, not prose.** A Grok summary flattens when
+   something happened, which is exactly the failure that produced that rule. If B
+   is used, use it as a *retrieval* tool - ask for the posts and read their
+   `created_at` - rather than asking Grok for a paragraph. That also keeps the
+   token bill near zero.
+3. **Neither is a toggle.** Both need code in `project-index`, which the worker may
+   read and not write. A is the bigger build (an OAuth consent flow, a refresh
+   token on disk, timeline paging); B is roughly one HTTP call with a key in
+   `C:\Users\David\.config\index\`. That difference is larger than the price
+   difference.
+
+### Also worth knowing: the mirrors
+
+Third-party X data providers resell the same posts at **$0.04-0.15 per 1,000** -
+twitterapi.io $0.15, SocialData $0.20, GetXAPI $0.05, TwitterAPIs $0.04 - which is
+30 to 100 times under both A and B. They are against X's terms, they appear and
+vanish, and one going dark mid-week looks exactly like a quiet news day. Named for
+completeness, not recommended for something the morning depends on.
+
+### Recommendation
+
+**B, as retrieval.** An xAI key, one X Search call a morning on a short list of
+accounts and terms, posts read with their timestamps. Cheapest, smallest build,
+and it is the only one of the three that reaches the worker without a new consent
+flow.
+
+Keep A in reserve for one question: after a month of B, is what you still miss
+coming from *people you follow* rather than from X generally? That is the only
+thing A buys that B does not, and it costs three to five times as much to find out.
+
+Skip C for this purpose. If you want Grok in the app for your own reading, that is
+a different purchase and worth judging on its own.
