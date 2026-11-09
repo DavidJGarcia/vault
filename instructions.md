@@ -742,3 +742,44 @@ The general reading, for the next charge he forewarns about: file it, keep it ou
 `dates.md`, watch YNAB for it, categorize it when it arrives, and report it once
 after the fact. A forewarning is him handing over a filing job, not asking to be
 nagged on the day.
+
+## News, continued
+
+**November 9, 2026 — a news row carries its own date, and nothing older than 48
+hours goes on the wrist.** "Why are you giving me such old news? I'm interested in
+what's changed in the last 24 to 48 hours and tactical stuff that I can actually
+use, not things that happened weeks or months ago." — said 22 minutes after this
+morning's briefing, whose two news rows were both stale: the React Server
+Components RCE advisory (GHSA-xqc2-xf4c-x3h3) was published October 14 and was
+carried as "published today", and Claude Opus 5.5 shipped September 22 and was
+carried as a November 8 release. Both were corrected on the 5:51 a.m. follow-up;
+this is him correcting the briefing itself.
+
+An amendment to the October 29 and November 3 News entries above. The two searches
+and the two rows stay as they are; what a candidate has to pass changes:
+
+- **Check the date of the thing, not the date of the page.** Aggregators, "what's
+  new" roundups and model landing pages rehash releases for months, and that is
+  how both of this morning's rows got through. Find the primary source — the lab's
+  own newsroom post, the advisory itself — and read its publication date. A row
+  whose date could not be established does not go on the wrist.
+- **48 hours is the window**, measured back from the briefing. Older than that and
+  it is not news to him, however big it is or however prominently a search result
+  features it.
+- **No fresh item means no row.** The October 29 rule that a quiet morning gets no
+  row is the common case now rather than the exception, for both rows; filling the
+  space with something from last month is worse than silence.
+- **Say the date in the row** whenever it is not this morning: `Anthropic S-1,
+  Sat`. A row with no date reads as today, which is the mistake that was made.
+- **Tactical first, as the November 3 entries already set it**: something he can
+  try at his desk this morning, a finding he can read, a version he has to patch.
+  Inside 48 hours, a shipped capability still beats a funding round.
+- **The security row takes the same test.** A flaw trending today because a PoC
+  dropped is not a flaw announced today. When one is older than 48 hours and goes
+  on the wrist anyway because he is exposed to it, the row says how old it is and
+  that it is a patch, not a fire.
+
+For the record, the 48 hours up to this note held nothing shipped by either lab:
+Anthropic filed its Form S-1 on November 8 and OpenAI raised $11B at a $1.25T
+valuation — both business news, both demoted by the November 3 reading, so under
+this rule the morning would have carried no frontier-lab row at all.
