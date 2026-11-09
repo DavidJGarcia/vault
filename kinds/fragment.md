@@ -90,3 +90,19 @@ notes:  four rows. The weekly pass of October 4, 2026 found an earlier one left 
         fact about the ring, and it is not a reason to join them, since the grammar does not
         join. So seven rows, and four shapes: cut at the front, corrupted in the middle,
         missing its object, and missing what came before it.
+        The eighth, "Can I still use", Sunday, November 8, 2026 at 4:18pm, is a **fifth
+        shape**: cut at the back, mid-question. The first three stopped where the substance
+        would have started; this one is all opening and no object - a whole interrogative
+        clause whose noun never arrived, so the recording ended early the way theirs did but
+        later in the sentence. It came 17 seconds after a meal row (21 g of Jet-Puffed mini
+        marshmallows, 4:16pm), in the middle of a run of snack notes, and that nearness is
+        again the trap the "Having one." paragraph warns about: the likeliest readings by
+        circumstance are the carving pumpkin he boiled seeds from that morning (Halloween
+        was eight days earlier, and he had asked at 12:57pm about baking them still wet) and
+        the open marshmallow bag, but "still use" is not "still eat", and an expiring coupon,
+        the AT&T service he cancelled on October 24, or an app whose access had lapsed fit the
+        words equally well. Six candidate readings were written down and none chosen. The
+        lesson: **a question missing its object cannot be completed from the notes around it,
+        because the neighbours supply a topic and the question needs a thing.** So eight
+        rows, and five shapes: cut at the front, corrupted in the middle, missing its object,
+        missing what came before it, and cut at the back mid-question.
