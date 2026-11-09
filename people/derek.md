@@ -81,3 +81,19 @@ the 6th-8th grade flag football team. That is an inference, not something he sai
   football.
 - Anything else: no school, no allergies, no other interests, nothing on a gift
   list.
+
+## Watching him play — Saturday November 7, 2026
+
+The first of his flag football games David and the family got to go and see. From his
+captain's log of Monday November 9, 2026, 8:31 am: "After the Archibalds we headed straight
+to Derek's flag football games, which were the first we got to go see. We got Panda Express
+on the way and ate it while he was warming up."
+
+They drove home from the Archibalds' on Saturday afternoon and went straight to the field,
+cutting the end of the BYU–Utah game short to get there. Dinner was a Panda Express plate
+picked up on the way and eaten in the car at the field during his warm-up — see
+`trips/2026-11-06.md`.
+
+"Games", plural: two the same evening, read as a youth-flag doubleheader. How they went is
+not on record, and neither is the league, the team or the field — so the line above under
+*What has never been said* still stands on those.
