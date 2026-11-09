@@ -224,3 +224,18 @@ look up my actual ballot with that information."* His point is 30.357433, −97.
   Peace Precinct 1**, County Commissioner Precinct 1.
 
 The ballot that follows from all this is `notes/texas-ballot-2026.md`.
+
+## Music
+
+- **He sings in a choir, and sings tenor 1.** Said Monday, November 9, 2026 at
+  8:55 am, as a captain's log of the night before: *"Last night we had choir
+  practice at Mainer Building. We're doing the concert again. I'm on Mainer 1
+  again and doing it."* Practice was Sunday evening, November 8, 2026 at the
+  **Manor building** — his own Latter-day Saint meetinghouse — the evening of
+  the day of stake conference.
+- **"Mainer 1" is read as tenor 1**, a voice part; bass 1 is the other candidate
+  and he has not confirmed which. "Mainer Building" is the Manor building: the
+  ring has mis-transcribed that name before.
+- **The concert is one they have done before** — "again", twice in two
+  sentences — and he is in it again on the same part. No date for it has been
+  said, so nothing is in `dates.md` yet; when he names one it goes there.
