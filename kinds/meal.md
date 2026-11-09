@@ -413,3 +413,22 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         is wrong: its own panel is 150 kcal a serving, nothing like these numbers. A
         qualifier about what is in a weighed fast-food scoop is a correction to the
         density, not colour - price it and say both numbers.
+        A dish named after its parts have been weighed is another serving of it, not the
+        same food weighed finished. November 8, 2026: he weighed 40 g butter tortilla,
+        122 g baked chicken breast, 11 g Mexican cheese and 33 g Pace Picante at
+        6:10-6:11 pm, then at 6:16 pm said "I'm having 176 g of a homemade roasted
+        enchilada" - read as the 206 g assembled having lost water in the oven to 176 g,
+        so no row was filed at all. The next morning: "the enchiladas were separate from
+        the chicken tortilla cheese rows before that." It became its own row, 377 kcal and
+        43.5 g protein priced off his own component weighing of the identical enchilada
+        (rec_20261109T11525734512140d749), and the day went from 1,916 kcal to 2,294.
+        Component rows are what went into one serving; a weight he gives for a finished
+        dish is a serving of its own unless he says it is the same one.
+        A fresh count of the same small food a few minutes later is its own helping. That
+        same evening he counted grapes four times (six at 5:42, six at 6:16, ten at 6:22,
+        seven at 7:00 pm); the ten were folded into the 6:16 row as a second helping by
+        the rule above, and he corrected it: "the grape rows were all separate helpings."
+        The row was unfolded and the ten filed on their own
+        (rec_20261109T115242360584c7a280). The second-helping fold is for one serving he
+        goes back to, not for a food he grazes on through an evening - when he counts out
+        the same snack again, give it a row and say it is its own helping.
