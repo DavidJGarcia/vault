@@ -202,3 +202,26 @@ more than all three together.
 - https://www.nature.com/articles/s41598-023-38344-x - VITAL Rhythm, 1 g/day omega-3, RMSSD and PR interval
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC13010831/ - omega-3 and HRV review: 1 g/day and 3 months as the thresholds
 - https://www8.garmin.com/manuals/webhelp/GUID-F41EAFB3-6CC9-42DE-9C6C-9E358DBB0671/EN-US/GUID-B3BD9AA0-2235-43BC-AAD0-D38008420EAD.html - Forerunner 265 Breathwork activity, Coherence 6 s in / 6 s out
+
+## Where to actually sauna (November 9, 2026)
+
+Asked the same morning as the list above: does the Planet Fitness in Manor have a
+sauna? No. Planet Fitness builds no saunas or steam rooms at essentially any club,
+and the Manor one (1910 E US 290 Hwy Unit 370, in Manor Crossing) is a standard
+18,600 sq ft build. The Black Card buys recovery without heat — HydroMassage beds,
+massage chairs, the Total Body Enhancement booth (red light and vibration) — none
+of which is a sauna.
+
+Nearest heat to Manor:
+
+- **Gold's Gym Pflugerville**, 21315 N SH 130 northbound — dry sauna, about ten
+  minutes up the toll road. The practical option.
+- **Cowboys Fit**, Pflugerville — sauna and steam room.
+- **Castle Hill Fitness**, downtown Austin — two infrared saunas.
+- **Big Tex Gym**, north Austin — infrared sauna.
+- **Squatch Frontier Fitness** — traditional sauna with a cold plunge.
+
+Worth remembering that item 9 moved down the list the same morning: the 2025 RCT
+found no HRV benefit from 15 min post-exercise sauna three times a week. Keep it
+for cardiorespiratory fitness and systolic blood pressure, which that cohort did
+gain, rather than for HRV.
