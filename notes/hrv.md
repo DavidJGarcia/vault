@@ -113,3 +113,92 @@ body-fat percentage.
 - https://www.nature.com/articles/s41598-023-38344-x - omega-3 and vitamin D RCT, RMSSD and PR interval
 - https://www.ajconline.org/article/S0002-9149(06)00029-4/fulltext - omega-3, HF power +48%
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC12082064/ - review, HRV biofeedback as non-invasive vagal neuromodulation
+
+## November 9, 2026 - more on items 2, 9 and 10
+
+Asked an hour after the list: "On the HRV topic tell me more about the 6 breaths
+and the 15 breaths. Line about the sauna and the mega 3."
+
+### Item 2, the breathing: 6 is the rate, 15 is the minutes
+
+The wrist row read "6 breaths/min 15m". The 15 is minutes, not breaths.
+
+- **6 breaths a minute is the pace** - one breath every 10 seconds, about 4 s in
+  through the nose and 6 s out. Ordinary resting breathing is 12-16 a minute, so
+  this is half speed, and it feels slow for the first week.
+- **15 minutes is the dose**, the middle of the 10-20 min a day the trials use.
+  Once a day is enough; twice is better only if it is easy to fit.
+- **Why 6 and not 5 or 10.** At about 0.1 Hz - six breaths a minute - breathing,
+  blood pressure and heart rate line up with the baroreflex loop, and the
+  beat-to-beat swing in heart rate is at its largest for the least effort. That
+  is the resonance frequency. Each person's own sits between 4.5 and 6.5 a
+  minute; 6 is the default that suits nearly everyone, and hunting for his exact
+  rate is worth nothing until the habit is in place.
+- **Slow, not big.** Exhale longer than inhale, breathe low into the belly, and
+  do not try to fill the lungs - over-breathing blows off CO2 and brings
+  lightheadedness, which is the usual reason people quit in week one.
+- **His own watch paces it.** The Forerunner 265S has a Breathwork activity, and
+  its *Coherence* pattern is 6 s in, 6 s out - 5 breaths a minute, inside the
+  resonance band - with a vibration cue on each phase, so it can be done with
+  eyes shut and no app or gadget to buy. The watch reports breaths per minute
+  and the stress change afterwards.
+- The in-session rise in HRV is immediate and is not the point. The change in
+  *resting* HRV shows up after four to ten weeks of daily practice.
+
+### Item 9, the sauna: it moves down the list, out of the HRV column
+
+The best test of exactly this protocol came out negative, and it is newer than
+the evidence item 9 was written from. A 2025 multi-arm randomised trial put 38
+sedentary middle-aged adults through 8 weeks of Finnish sauna, 15 minutes
+immediately post-exercise, three times a week, starting at 149F and stepping up
+to 176F. **Adding the sauna gave no HRV benefit over the exercise alone** - no
+improvement in resting heart rate and none in RMSSD.
+
+What survives:
+
+- The **acute** effect is real but transient. Vagal activity falls *during* the
+  heat; about 30 minutes into the cool-down the parasympathetic indices sit
+  above baseline. That is an evening unwind, not a training effect.
+- The positive long-run studies are in patient groups - daily 15-min infrared
+  for two weeks in chronic heart failure, 3x/week for six weeks in allergic
+  rhinitis - not in healthy people who already train.
+- **The same cohort did get something from it**: exercise plus sauna beat
+  exercise alone on cardiorespiratory fitness and systolic blood pressure. So
+  the sauna is worth keeping for those, and for how it feels. It is no longer
+  one of the HRV levers.
+
+### Item 10, omega-3: 1-2 g/day EPA+DHA, three months before it shows
+
+- **The dose that has evidence is 1 g/day of EPA+DHA combined** and up. The
+  VITAL Rhythm trial used exactly 1 g (460 mg EPA + 380 mg DHA) and got a longer
+  PR interval and a rise in RMSSD against placebo - both vagal. The review
+  reading across the trials: at least 1 g/day, and **at least three months**
+  before HRV moves. 2 g is comfortably above the threshold; nothing suggests
+  more than that does more for HRV.
+- **Read the label for EPA+DHA, not the capsule size.** A "1000 mg fish oil"
+  softgel is usually about 300 mg of EPA+DHA, so 2 g is six or seven of them. A
+  triple-strength concentrate gets there in two. Price per gram of EPA+DHA is
+  the only number that matters.
+- **The food route works.** Farmed Atlantic salmon runs about 2.2 g EPA+DHA per
+  100 g cooked, so the 70 g portion on his October 18 row was roughly 1.5 g -
+  one meal, most of a day's dose. Two salmon dinners a week averages out near
+  the target, and sardines or mackerel do it cheaper. His meal rows show salmon
+  rarely, which is the gap the capsules would fill.
+- Practical: take it with a meal containing fat, keep it cold, and expect a
+  mild blood-thinning effect at 2 g and up - worth a word to a doctor before any
+  procedure. Magnesium stays conditional on what his `nutrition_check` rows say
+  about intake.
+
+**Proportion.** Items 2, 9 and 10 are the cheap end of the list. The breathing
+is the second-strongest item on the page and costs 15 minutes. The sauna is now
+a fitness and blood-pressure item rather than an HRV one, and omega-3 is a few
+percent at best. Item 1 - the aerobic base he has no rows for - is still worth
+more than all three together.
+
+### Sources added November 9, 2026
+
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12231185/ - post-exercise sauna, 8-week multi-arm RCT, no HRV benefit (2025)
+- https://oulurepo.oulu.fi/bitstream/handle/10024/27848/nbnfi-fe2019091828656.pdf?sequence=1&isAllowed=y - recovery from sauna, acute parasympathetic rise 30 min after
+- https://www.nature.com/articles/s41598-023-38344-x - VITAL Rhythm, 1 g/day omega-3, RMSSD and PR interval
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC13010831/ - omega-3 and HRV review: 1 g/day and 3 months as the thresholds
+- https://www8.garmin.com/manuals/webhelp/GUID-F41EAFB3-6CC9-42DE-9C6C-9E358DBB0671/EN-US/GUID-B3BD9AA0-2235-43BC-AAD0-D38008420EAD.html - Forerunner 265 Breathwork activity, Coherence 6 s in / 6 s out
