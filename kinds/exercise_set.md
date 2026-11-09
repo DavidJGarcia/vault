@@ -74,3 +74,12 @@ notes:  he logs a whole session set by set, one short note each, a minute or two
         two loads are kept apart the way the lateral raises' two machines are: a change
         of machine is not a jump. The back extension has one row and nothing to compare
         against; say so rather than inventing a comparison.
+        A mid-session "wrong machine" note ends a block rather than correcting it:
+        "Okay I had the wrong machine. Switching to lat pull down." (November 9, 2026,
+        three minutes after an MTS front pulldown set on the Monday upper morning). The
+        set he logged happened and stands on the rig he named - he did the reps - so the
+        row keeps its exercise and takes `wrong_machine: true`; what changes is that the
+        block is closed, the load is not read as a step up or down in that movement's
+        progression, and the movement has not moved into that day of the split. The
+        exercise is never carried from the previous row across such a note: the next
+        bare-numbers set belongs to the machine he says he is switching to.
