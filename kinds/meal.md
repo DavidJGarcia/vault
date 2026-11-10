@@ -442,3 +442,13 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         came with the 0.75 oz garden herb ranch packet of the October 27, 2026 paragraph
         above, filed as its own row again - a sauce beside the plate, not poured onto the
         weighed fries.
+        Chick-fil-A milkshakes, first on record November 10, 2026 ("a 53 g Chick-fil-A
+        strawberry milkshake", alongside the nuggets and waffle fries of the same lunch):
+        the chain sells one size now, hand-spun Icedream with whipped cream and a cherry,
+        409 ml - 560 kcal, 10 g protein, 92 g carb, 86 g sugar, 18 g fat of which 11 g
+        saturated, 370 mg sodium. The cup weighs about 430 g, so 1.30 kcal/g; the older
+        small panel (452 g, 620 kcal) gives the same density, so a gram weight prices the
+        same whichever panel is used and the size he ordered does not matter. 53 g is a
+        couple of spoonfuls, 69 kcal and 1.2 g protein - the whole cup would be 560. A
+        weighed drink is read the same way as a weighed food here: he weighs his
+        Chick-fil-A order item by item.
