@@ -432,3 +432,13 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         (rec_20261109T115242360584c7a280). The second-helping fold is for one serving he
         goes back to, not for a food he grazes on through an evening - when he counts out
         the same snack again, give it a row and say it is its own helping.
+        Chick-fil-A Waffle Potato Fries, first on record November 10, 2026 ("117 g of
+        Chick-fil-A waffle fries"): chain panel, medium is 125 g - 420 kcal, 5 g protein,
+        45 g carb, 24 g fat, 5 g fiber, 240 mg sodium, so 3.36 kcal/g, 0.04 g protein/g
+        and 1.92 mg sodium/g, and 117 g is 393 kcal, 4.7 g protein and 225 mg sodium. The
+        medium is the useful panel because it is the one with a gram weight close to what
+        he weighs; a small is 85 g (320 kcal) and a large 170 g (600 kcal), all the same
+        density, so the size he ordered does not matter when he gives grams. The fries
+        came with the 0.75 oz garden herb ranch packet of the October 27, 2026 paragraph
+        above, filed as its own row again - a sauce beside the plate, not poured onto the
+        weighed fries.
