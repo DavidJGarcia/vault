@@ -49,3 +49,6 @@ notes:  he says "Weigh in at N" flatly, no unit, one decimal. He weighs more
         The windows are short while the series is: on October 4, 2026 the earlier week held
         only two mornings. When the earlier window has fewer than three days, give the
         trend and say the baseline is thin, in those words or fewer.
+        Add to the manglings: "Stephen" at the end of a weigh-in is "even" ("Weigh in
+        at 140 lbs. Stephen.", November 11, 2026) - he says "even" after a whole
+        number, as on November 4, 2026, and there is no Stephen in his people.
