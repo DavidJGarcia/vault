@@ -129,3 +129,5 @@ notes:  four rows. The weekly pass of October 4, 2026 found an earlier one left 
         the worker that handled it, eleven minutes before this one typed both, even though
         this kind had eight rows and fits it exactly. --untyped is where a first note of a
         sort is looked for; it is not where a fragment goes. Read kinds first.
+        (Two minutes, not eleven, in the paragraph above: the first capture was filed
+        untyped at 1:22:33 UTC and both rows were typed at 1:24:56.)
