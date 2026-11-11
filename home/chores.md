@@ -19,8 +19,9 @@ he emptied it. The rule itself is in `instructions.md`.
 | Friday, October 23, 2026, 9:41 p.m. | David himself | 5 days 12 hours — over |
 | Wednesday, October 28, 2026, evening | David himself | about 4 days 22 hours |
 | Tuesday, November 4, 2026, night | David himself | about 7 days — over |
+| Monday, November 9, 2026, evening | David himself | about 5 days — at the limit |
 
-Next due: Monday, November 9, 2026, 6 p.m.
+Next due: Saturday, November 14, 2026, 6 p.m.
 
 Each emptying is now a record of its own kind, `litter_emptying`, born on the
 October 14 one.
@@ -47,6 +48,12 @@ trash last night". So the amended timing is not enough on its own — the remind
 landed on the right evening and the drawer waited anyway. The October 30, 2026
 follow-up rule is what covers that: the morning briefing names the overdue
 drawer every morning until an emptying is filed.
+
+**November 9, 2026 held, on the evening it was due.** He reported it two mornings
+later — "I emptied the litter box on the day it was due, Monday" — after the
+briefing had carried the past-due row on the 10th and the 11th, which is the
+follow-up rule working as intended. No hour was given, so it is filed at 8 p.m.,
+making the gap exactly five days: the rule held, at its edge.
 
 ## Trash and kitty litter
 
