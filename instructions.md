@@ -783,3 +783,36 @@ For the record, the 48 hours up to this note held nothing shipped by either lab:
 Anthropic filed its Form S-1 on November 8 and OpenAI raised $11B at a $1.25T
 valuation — both business news, both demoted by the November 3 reading, so under
 this rule the morning would have carried no frontier-lab row at all.
+
+## Home, continued
+
+**November 11, 2026 — a past-due Litter-Robot buzzes until he says it is done.**
+"From now on if the Litter Robot changing is due, keep pestering me until I tell
+you it's been done." — said two minutes after he reported Monday's emptying, with
+the briefings of November 10 and 11 having each carried a past-due row that did
+not move him.
+
+This amends the October 30, 2026 follow-up entry above, whose last bullet read
+"no second timer is set. Following up means saying it again, not buzzing again."
+He has now asked for the buzzing, so:
+
+- **Past due is unchanged**: more than five days past the `at` of the newest
+  `litter_emptying` row (`records --kind litter_emptying --limit 1`).
+- **A nag row stands for as long as it is past due.** The first job that notices —
+  normally the morning briefing — sets one timer: text `Litter robot is past due -
+  empty it`, `--repeat daily` at **18:00** that day, `--late fire_late`, `--about`
+  the trigger or capture that noticed. Only ever one: read `timer list` first and
+  set nothing when the row is already there.
+- 18:00 and daily, rather than every few hours, so each buzz lands at an hour he
+  can actually pull the drawer and none of them lands in the night. With the
+  briefing's morning row that is two pesters a day, every day, until it is done.
+- **Only his word that it was done stops it** — a note that he emptied it, or that
+  it has been done. Then: delete the nag row, move `t_c4c588a5c59f2085` by the
+  October 24 reading, and say the next due date on the wrist. Nothing else clears
+  it: not the main reminder rolling itself forward, not time passing.
+- The briefing's past-due row and the weekly pass's line stay exactly as October 30
+  set them, and still nothing goes on the to-do list.
+
+As of this note it is **not** past due — emptied Monday November 9 at 20:00, next
+due Saturday November 14 at 18:00 — so no nag row was set. The earliest one could
+be is the briefing of Sunday November 15.
