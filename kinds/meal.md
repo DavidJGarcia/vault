@@ -464,3 +464,30 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         take the protein from the same panel. A bun and a patty named in one breath are one
         burger and one row; a cheese slice, condiments or toppings go on only when he says
         them.
+        "sea salt imi" is gimMe, and the pack size names the brand. November 11, 2026,
+        "0.17 oz. (or 5 g) of sea salt imi roasted seaweed snacks": gimMe Organic Roasted
+        Seaweed Snacks, Sea Salt, whose single pack is exactly 0.17 oz / 5 g - label 30 kcal,
+        1 g protein, 2 g fat, 1 g carb, 1 g fiber, 40 mg sodium, and the two numbers worth
+        carrying off a 30 kcal food, 3.2 ug vitamin B12 (130 percent DV) and 55 ug iodine
+        (35 percent DV), which is the only iodine on any row of his. SeaSnax (0.18 oz) and
+        Annie Chun's (0.16 oz) are the other sea-salt roasted packs and run within 5 kcal, so
+        the brand matters here for the B12 and the iodine rather than the calories. First
+        seaweed on record. When he gives a pack weight to the hundredth of an ounce, match it
+        against pack sizes before estimating - the weight is the brand.
+        A transcription with no separators at all is still a list, and the item words are the
+        separators. The same note arrived as "2.25 oz. of carrotsa second Rice Krispy Treata
+        rather small applean Oikos Triple Zero0.17 oz. ... snacksmandarin orange" - six foods
+        run together, each new one starting mid-word in the last ("carrotsa", "Treata",
+        "applean", "snacksmandarin"). Read it as six items of one eating rather than puzzling
+        over the joined words. The ring does this when he reads a list off a plate without
+        pausing.
+        "A second X" is him numbering the helping, and it is its own place in the row he is
+        speaking, not a correction of the earlier one. The second Rice Krispies Treat of
+        November 11, 2026 came 34 minutes after the first and inside a six-food lunch, so it
+        was filed in the lunch row and the day held two bars, 180 kcal - the November 9, 2026
+        grape reading, not the second-helping fold. The fold is for one serving he goes back
+        to within minutes; a numbered helping in a new eating is a new row.
+        "A rather small apple" is smaller than his settled small. November 11, 2026, read at
+        about 135 g against the 149 g USDA small (2-3/4 in) every other apple row of his uses -
+        70 kcal rather than 77. The qualifier in front of a size word is a portion adjustment
+        worth making and worth saying, though at this food it is 7 kcal either way.
