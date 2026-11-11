@@ -452,3 +452,15 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         couple of spoonfuls, 69 kcal and 1.2 g protein - the whole cup would be 560. A
         weighed drink is read the same way as a weighed food here: he weighs his
         Chick-fil-A order item by item.
+        Marketside Cheddar & Bacon Angus Beef Patties, first on record November 10, 2026
+        ("one Great Value white hamburger bun for 110 calories, market-side cheddar bacon
+        hamburger patty"): panel is 1 patty, 151 g - 450 kcal, 26 g protein, 36 g fat of
+        which 15 g saturated, 1 g carb, 590 mg sodium, six patties to the 32 oz pack, so a
+        third-pound patty and the heaviest single food on his record so far outside a
+        restaurant. The panel is the raw weight as sold; fat rendering off in the pan puts
+        the eaten patty nearer 400-430, so say 450 is the high end. His Great Value white
+        hamburger bun is already priced at 110 kcal and 3 g protein (October 11, 2026), and
+        he gave the same 110 himself here - when he reads a number off a label, use it and
+        take the protein from the same panel. A bun and a patty named in one breath are one
+        burger and one row; a cheese slice, condiments or toppings go on only when he says
+        them.
