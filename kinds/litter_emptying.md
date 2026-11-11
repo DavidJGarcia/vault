@@ -55,3 +55,11 @@ notes:  the reminder is timer t_c4c588a5c59f2085, "Empty the litter robot",
         November 9 is the case that proves the follow-up works: the drawer was
         pulled on the evening it was due and the past-due rows of November 10 and
         11 are what got him to say so.
+
+        And from November 11, 2026 past due also buzzes: "keep pestering me until
+        I tell you it's been done" (instructions.md, "Home, continued"). While it
+        is past due one nag timer stands — "Litter robot is past due - empty it",
+        daily at 18:00, fire_late — set by the first job that notices and deleted
+        only when a row here is filed. So an emptying now does three things: this
+        row, the main timer t_c4c588a5c59f2085 moved, and the nag row deleted if
+        one stands. It overrides the October 30 reading that nothing would buzz.
