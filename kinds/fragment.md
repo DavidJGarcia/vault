@@ -106,3 +106,26 @@ notes:  four rows. The weekly pass of October 4, 2026 found an earlier one left 
         because the neighbours supply a topic and the question needs a thing.** So eight
         rows, and five shapes: cut at the front, corrupted in the middle, missing its object,
         missing what came before it, and cut at the back mid-question.
+        The ninth and tenth, "Does 67 mean" and "67 me", Tuesday, November 10, 2026 at
+        7:21pm, are **one utterance in two captures**: shape five twice over, the second
+        being him starting the question again and the ring cutting him off earlier than it
+        had the first time, 11 seconds apart. So ten rows and nine utterances, and still
+        five shapes - nothing new in the shape, something new in the arrival. The lesson:
+        **when a capture reads as a restart of the one seconds before it, it is the same
+        utterance and not a second note** - link the rows with same_utterance_as, count the
+        utterance once, and answer once. The receipt on the first capture already named both
+        fragments and asked for the whole question, so the second got no message of its own;
+        that is the first time a fragment arrived already answered, and a second buzz saying
+        the same thing would have been the only thing wrong with it.
+        What 67 was is unrecoverable and was looked for properly: today's 25 meal rows, the
+        12 newest records, records --search 67 back to November 9, logs --search 67, and the
+        three briefing messages of 5:37am, which carry 73F and no 67. The nearest readings
+        by circumstance were a nutrition percentage (today's were 77 and 73) and a
+        temperature (73F), and neither is 67 - which is the point: the number he was reading
+        was almost certainly on a screen in front of him and in no record at all, and that
+        is a sixth reason a fragment cannot be completed, after the four the paragraphs above
+        give.
+        One process note, since it cost a kind: the first capture was filed **untyped** by
+        the worker that handled it, eleven minutes before this one typed both, even though
+        this kind had eight rows and fits it exactly. --untyped is where a first note of a
+        sort is looked for; it is not where a fragment goes. Read kinds first.
