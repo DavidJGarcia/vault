@@ -239,3 +239,27 @@ The ballot that follows from all this is `notes/texas-ballot-2026.md`.
 - **The concert is one they have done before** — "again", twice in two
   sentences — and he is in it again on the same part. No date for it has been
   said, so nothing is in `dates.md` yet; when he names one it goes there.
+
+## Health
+
+- **His Function Health panel was drawn Wednesday, November 11, 2026.** Said the
+  next morning, Thursday November 12 at 5:42 am, as the reason his supplements
+  could start again. It is the roughly 100-biomarker panel behind the $295
+  Function Day membership he was weighing on October 7, 2026, booked on or before
+  November 7 and drawn four days later.
+- **It is the first measured body data he will have.** "What has never been said"
+  above names the absence of any measured body fact beyond height and weight as
+  the one thing that would sharpen the body fat estimate. The panel is blood
+  rather than composition, so it will not give body fat - but it will give
+  lipids, ApoB, Lp(a), A1c, fasting insulin, thyroid, liver enzymes and hormones
+  on a man whose health has so far been read entirely off his own meal and
+  weigh-in rows.
+- **He paused his supplements for it and resumed the next morning.** On
+  October 29, 2026 he asked whether to stop creatine beforehand and was told 5 to
+  7 days, because supplemental creatine raises serum creatinine and so reads as a
+  falsely low eGFR - a measurement artifact, not kidney damage. The panel carries
+  cystatin C, which is unaffected, so the kidney reading should be clean either
+  way. He took 10 g of creatine the morning after the draw, about twice his usual
+  scoop; no reloading dose is needed after a pause that short. Supplement doses
+  are kind `supplement` (`kinds/supplement.md`), born that morning.
+- **Results are not back**, and nothing is set to chase them: he has not asked.
