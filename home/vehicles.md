@@ -67,3 +67,13 @@ Collisions and scrapes as he reports them, newest at the end.
 
   **Open, and only he can say:** what either vehicle looks like, whether a claim has been
   opened with his insurer or the other driver's, and whether anything needs repairing.
+
+## Fuel
+
+- **2007 Honda Odyssey — 21.0 gallon tank**, unleaded regular (87 octane). Asked
+  Thursday November 12, 2026, as "my 2009 Honda Odyssey"; every third-generation
+  Odyssey, 2005 through 2010, carries the same 21.0 gallon tank, so the year slip
+  changes no number. At the EPA combined 19 mpg for the 3.5L V6 that is roughly
+  400 miles to a fill.
+
+  The 2009 vehicle on the garage list is the Nissan Murano, not the Odyssey.
