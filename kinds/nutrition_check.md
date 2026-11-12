@@ -117,3 +117,13 @@ notes:  he asks in the early afternoon and again late afternoon, and the late on
         is working on nutrition. Answered as the sum plus the micronutrient read in
         one go, since the October 31 standing instruction now makes every answer carry
         the percentages.
+
+        November 12, 2026: "Now how is my nutrition?", four minutes after "How's my
+        nutrition doing today?" and twenty seconds after two meal rows - the 2 cups of
+        fortified almond milk and the Oikos cup, two of the four picks that answer had
+        named. "Now" is him asking what the picks bought him, so the answer leads with
+        the delta and what is still short rather than restating the whole read he just
+        got: calcium 29 to 133 percent and vitamin D 3 to 50 percent in one go, both
+        from the fortification on those two labels, with zinc and fibre left as the
+        gaps. A re-ask inside a few minutes is a new row (`follows` and `delta_since`
+        point at the one before), never an update to it.
