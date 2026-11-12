@@ -89,3 +89,23 @@ Per-brick prices are BrickOwl listing ranges, the same secondhand market:
 BrickLink's own price guide table loads by script and could not be read without
 a browser, and the agent browser is limited to Amazon, Walmart, H-E-B and Home
 Depot — so no cart was priced and no order was placed. He buys it himself.
+
+## The recommendation, asked again at 3:58 pm November 12, 2026
+
+He asked how to buy them, not what they cost. In order:
+
+1. **One big used lot by weight on eBay.** 40 lb is roughly 2,000 bricks of the
+   two common sizes. The floor is about **$4.50/lb** in 10 lb and larger lots, so
+   **$185-350 delivered**. One large lot beats three small ones: the per-pound
+   price falls with size and there is one shipment to pay for. Sort the market at
+   joncraton.org/duplo-by-pound, which rebuilds from eBay every 15 minutes - at
+   3:58 pm the cheapest real lots were $4.37-4.69/lb (6-13 lb), and one 15 lb lot
+   at $29.99 computed to $2.00/lb, low enough that its shipping needs checking.
+2. **Local resale first, if there is time.** Facebook Marketplace, Kid to Kid, a
+   Goodwill bin: a big tub of Duplo goes for tens of dollars and there is no
+   shipping at all, which is most of the cost of a 40 lb box. Not priced here -
+   that market is not listed anywhere to check.
+3. **Fixed-count eBay lots** where a particular size matters (100 2x4 for $18,
+   100 2x2 for $12, free shipping).
+4. **BrickLink last, and only for 2x6 and 2x8.** They do not exist in thousands
+   anywhere; a couple of hundred each is the ceiling.
