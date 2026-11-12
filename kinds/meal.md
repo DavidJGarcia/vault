@@ -491,3 +491,14 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         about 135 g against the 149 g USDA small (2-3/4 in) every other apple row of his uses -
         70 kcal rather than 77. The qualifier in front of a size word is a portion adjustment
         worth making and worth saying, though at this food it is 7 kcal either way.
+        Red Baron Brick Oven Crust is a different line from the Classic Crust, and lighter.
+        November 11, 2026, "62 g of Red Baron Brick Oven Crust Supreme pizza": the Brick
+        Oven Supreme box is 18.64 oz (528 g) and its panel is 1/4 pizza (132 g) at 300 kcal,
+        11 g protein, 34 g carb, 14 g fat, 2 g fiber, 720 mg sodium, 160 mg calcium,
+        2.2 mg iron - 2.27 kcal/g, against the Classic Crust Supreme's 23.45 oz box and
+        133 g serving at 310 kcal (2.33 kcal/g, logged October 13 and November 1, 2026).
+        The two are within a few percent per gram, so a mis-read costs little here, but the
+        box sizes differ (528 g in four servings against 665 g in five), which matters the
+        moment he says a fraction of the pizza rather than a weight: a quarter of the Brick
+        Oven is 132 g, an eighth of the Classic Crust is 83 g. He names the crust, so take
+        it as said.
