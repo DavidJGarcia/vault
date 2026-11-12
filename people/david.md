@@ -263,3 +263,19 @@ The ballot that follows from all this is `notes/texas-ballot-2026.md`.
   scoop; no reloading dose is needed after a pause that short. Supplement doses
   are kind `supplement` (`kinds/supplement.md`), born that morning.
 - **Results are not back**, and nothing is set to chase them: he has not asked.
+- **How he would actually measure body fat: a DEXA scan, not a smart scale.** He
+  asked "Hume scale versus DEXA scan" on Thursday, November 12, 2026 at 11:25 am -
+  the third body-composition question after the October 5 hunt for a DEXA
+  appointment (never booked) and the October 7 estimate. The Hume Pod is
+  multi-frequency bioimpedance. Its marketing says 98% of DEXA; independent
+  validation (Socotech, and a July 2026 Texas Tech study of 67 adults) puts it
+  inside about 3 points with body fat reading slightly under DEXA, and one direct
+  reviewer comparison was far worse. That is the class rather than the brand -
+  consumer BIA scales run 2 to 5 points off DEXA on an individual and under-read
+  fat mass by a median 2 to 4.4 kg; the best of an 11-scale 2026 bench against a
+  Hologic Horizon was the Withings Body Comp at 2.3 points. **So BIA is a trend
+  line and DEXA is the number**, and the number is what the estimate above is
+  missing. On price it is not close either: the Hume Pod 2.0 lists $249 (regular
+  $383, HSA/FSA eligible), while BodySpec on N Lamar is $40 a scan - two scans a
+  year is $80. A Hume is worth buying only if he wants a daily body-comp reading
+  at home and will read its direction rather than its value.
