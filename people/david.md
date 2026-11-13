@@ -404,3 +404,38 @@ hypertension: the 2025 guideline added a Class 2b recommendation to consider
 screening for primary aldosteronism in anyone with Stage 2 hypertension, which is
 present in 11–22% of them, and it is a treatable cause rather than a lifelong
 prescription.
+
+### If it really is 120/80 — asked Friday, November 13, 2026
+
+Twenty-six seconds after the 150 question he corrected it: *"Sorry what I meant
+to say was: if my blood pressure is 120/80, how does that fit in with your
+previous analysis about my health?"* The 150 was a misspeak. That section stays
+as a reference for what a high reading would mean; this is the question he was
+actually asking.
+
+**It fits by changing nothing.** 120/80 is exactly the figure the lab read of
+that morning assumed, untreated, so the read stands word for word: 10-year
+PREVENT ASCVD risk Low, under 3%; ApoB 105 the one real finding on an otherwise
+excellent panel; the live clause still the 30-year 10%-at-ages-30–59 one.
+
+**One correction to the section above**, which called 120/80 the exact line
+between Normal and Elevated. That is true of the systolic alone. The 2025
+AHA/ACC categories — cutoffs unchanged from 2017 — join their limbs with *or*:
+Stage 1 hypertension is 130–139 systolic **or** 80–89 diastolic, and a diastolic
+of exactly 80 is the bottom of that band. Read literally, 120/80 is Elevated on
+the top number and Stage 1 on the bottom.
+
+**Nothing prescriptive follows from that.** Antihypertensive drug therapy at
+130/80 is for people with clinical cardiovascular disease, previous stroke,
+diabetes, chronic kidney disease, or a 10-year PREVENT risk of 7.5% or more. His
+is under 3%, so Stage 1 at this corner is lifestyle alone. What it does mean is
+that there is no cushion: the guideline's target is under 130/80, with systolic
+under 120 where it is tolerated, so 120/80 sits on the goal line rather than
+inside it.
+
+**And it is still a remembered number.** "120 over 80" is also what everyone says
+when they mean *normal*, which is reason to distrust it more than a remembered
+118/74 — the roundness is the suspicious part. A real 118/76 would be Normal
+outright and would nudge the 30-year estimate down; a real 126/84 would not. The
+three mornings on a home cuff remain the first thing to do, and the cheapest
+thing on the whole list.
