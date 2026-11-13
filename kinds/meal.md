@@ -502,3 +502,13 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         moment he says a fraction of the pizza rather than a weight: a quarter of the Brick
         Oven is 132 g, an eighth of the Classic Crust is 83 g. He names the crust, so take
         it as said.
+        The day's fibre goes on every meal receipt as well, from November 13, 2026
+        ("in addition to calories and protein on my food tracking, responses also
+        include where I'm at for fiber in the day"), so the day query is now
+        `--agg sum:kcal,sum:protein_g,sum:fiber_g,count` and the receipt carries
+        fibre against the 28 g target the rows already use. `fiber_g` therefore
+        belongs on every row: when a food genuinely has none, write 0 rather than
+        leaving the property off, because a missing value and a zero read alike in
+        a sum and only the zero is true. 130 of the 182 rows of November 1-13, 2026
+        carried it when the rule was made; older rows are left as they stand and
+        their fibre estimated from items at answer time.
