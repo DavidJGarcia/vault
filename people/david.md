@@ -344,3 +344,22 @@ keep losing weight — triglycerides, HOMA-IR and CRP are already where weight l
 is meant to put them, and below 140 lb at 5 ft 5.5 in the cost is lean mass. The
 lever for the visible abs he asked about on October 7 is muscle, not another ten
 pounds; and across 243 `exercise_set` rows nothing still trains the abs directly.
+
+### Blood pressure, recalled — Friday, November 13, 2026
+
+**He thinks it runs around 120/80, and said so himself: "Don't consider this
+properly measured."** Spoken at 9:48 a.m., 35 minutes after the lab read above,
+which had assumed exactly 120/80 untreated and called that assumption its weakest
+link. So the read stands as written — nothing in it changes.
+
+What a remembered number cannot do is settle the clause that matters. The PREVENT
+equations take systolic, and the gap between 118 and 128 is enough to move a
+30-year estimate; the 30-year ASCVD threshold of 10% at ages 30–59 is the one
+criterion that could put a statin conversation on the table at 42 with ApoB 105.
+120/80 is also the boundary itself: under the 2017 ACC/AHA categories, Normal is
+below 120 *and* below 80, and 120–129 systolic is Elevated. He is recalling the
+exact line between the two.
+
+**Still the thing to measure**, and it is cheap: three mornings on a home cuff,
+seated five minutes first, arm at heart height, two readings a minute apart,
+averaged. No cuff reading of his has ever been recorded anywhere.
