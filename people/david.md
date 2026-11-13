@@ -363,3 +363,44 @@ exact line between the two.
 **Still the thing to measure**, and it is cheap: three mornings on a home cuff,
 seated five minutes first, arm at heart height, two readings a minute apart,
 averaged. No cuff reading of his has ever been recorded anywhere.
+
+### If it ran over 150 — asked Friday, November 13, 2026
+
+Ten minutes after the recollection above he asked: "If my blood pressure is over
+150, how does that fit in?" A hypothetical, not a reading — no cuff number of his
+has ever been recorded. The answer, if a confirmed average really sat at 150:
+
+**It stops being an input to the lipid question and becomes the finding itself.**
+Under the 2025 AHA/ACC high blood pressure guideline, 140/90 or above is Stage 2
+hypertension, and at systolic 140+ antihypertensive drug therapy is recommended
+for everyone with hypertension regardless of what any risk score says — Stage 2
+starts on two first-line agents of different classes, ideally as one combination
+pill, with lifestyle alongside. The lab read of that morning called ApoB 105 the
+one real finding on an otherwise excellent panel; a confirmed 150 would outrank
+it, and would be the largest modifiable risk he has.
+
+**What it does to the numbers.** In the PREVENT male ASCVD equations systolic
+enters as (SBP − 110)/20 above 110, so 150 carries four times the weight of 120,
+and with the age interaction at 42 the whole model's log-odds rise by about 0.6.
+That roughly doubles the 10-year estimate — from under 3% to around 5% — which is
+*still* under the 7.5% that would trigger a statin on 10-year risk alone. The
+30-year estimate rises by about the same factor, and that is the one that matters:
+it was the borderline 10%-at-ages-30–59 clause that kept the statin conversation
+alive at 120/80, and at 150 it is not borderline any more. So: a statin
+conversation that is genuinely on the table, and blood-pressure treatment that
+does not wait for it. These are approximations of the equations, not a run of the
+official calculator.
+
+**But one reading of 150 is not hypertension.** The diagnosis is an average, and
+home monitoring is what the 2025 guideline asks for to confirm an office reading:
+the same three mornings described above, seated five minutes, arm at heart height,
+two readings a minute apart. A cuff too small for the arm reads high, and so does
+a reading taken straight after walking in or with the arm hanging.
+
+**And 150 would be out of character for him.** BMI 22.9, HOMA-IR 0.92,
+triglycerides 66, hs-CRP 0.5, eGFR 99 — none of the usual company that a systolic
+of 150 keeps. If it confirmed, that is itself a reason to look past essential
+hypertension: the 2025 guideline added a Class 2b recommendation to consider
+screening for primary aldosteronism in anyone with Stage 2 hypertension, which is
+present in 11–22% of them, and it is a treatable cause rather than a lifelong
+prescription.
