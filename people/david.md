@@ -279,3 +279,68 @@ The ballot that follows from all this is `notes/texas-ballot-2026.md`.
   $383, HSA/FSA eligible), while BodySpec on N Lamar is $40 a scan - two scans a
   year is $80. A Hume is worth buying only if he wants a daily body-comp reading
   at home and will read its direction rather than its value.
+
+### The results, read Friday, November 13, 2026
+
+Eight pages of Function Health results were sent in at 9:13 am, two days after the
+draw, with "tell me what I need to know and do." **"Results are not back" above is
+superseded.** The full read is the `labs` and `labs-plan` views; the record is
+`rec_20261113T151737970657c292b4`.
+
+- **One finding: ApoB 105 mg/dL**, with LDL-C 129 and non-HDL 145, all flagged
+  above range. Optimal ApoB is under 90 and ideally under 80. 105 is about the
+  50th percentile for a man of 42, which is the problem rather than the
+  reassurance — the population average sits inside the range where plaque
+  accumulates, and at 42 he has decades of ApoB-years left to compound.
+- **ApoB 105 against LDL-C 129 is mild upward discordance**, so 105 is the number
+  that carries the risk, not the 129.
+- **It is probably not his diet.** BMI 22.9, triglycerides 66, fasting insulin 4.1,
+  HOMA-IR 0.92 — the profile of a man who should have an ApoB in the 70s. The
+  likeliest explanations are constitutional: a low hepatic LDL-receptor set point,
+  or cholesterol hyper-absorption. The second is a live hypothesis rather than a
+  measured fact, and it predicts that sterols and fibre work on him better than a
+  statin would.
+- **Lp(a) under 10 nmol/L** is the best news on the page. Roughly 90% genetic,
+  fixed for life, and the biggest inherited multiplier of cardiac risk; his is at
+  the floor of the assay. Measured once, never again.
+- **Metabolically he is in the top few percent for his age.** HOMA-IR 0.92, HbA1c
+  5.1, glucose 91, hs-CRP 0.5, TG/HDL 1.6, ALT 15, AST 18, GGT 18, TSH 2.01,
+  eGFR 99. Vitamin D 35 (adequate, not optimal), ferritin 149, homocysteine 8.3,
+  MMA 155, ANA negative, lead under 1.0.
+- **Four abnormal-looking results that are not.** Uric acid 3.9 below range, benign
+  in a lean, well-hydrated man on a low-purine diet. Amylase 103 above range with a
+  normal lipase 35 and no symptoms — salivary fraction or macroamylasemia, not
+  pancreas. WBC 3.8 with neutrophils 1,797, a normal variant well clear of the
+  1,500 threshold. Hematocrit 48.2 and ferritin 149 high-normal, with iron
+  saturation 28% ruling out haemochromatosis.
+- **The creatine pause worked.** Creatinine 0.98 and eGFR 99 are clean readings
+  rather than the artefactually low eGFR supplemental creatine produces. Repeat the
+  5–7 day pause before every future draw.
+- **The export is partial.** No total or free testosterone, no cystatin C, no B12,
+  folate or magnesium — all of which Function sells in the standard panel, and
+  cystatin C was already recorded above as part of it. Read as still processing.
+  His SHBG is 45 nmol/L, mid-to-high, so a normal total testosterone could sit
+  alongside a free testosterone near the floor; FSH 5.9 and LH 5.1 are normal, so
+  whatever comes back is a testicular-output question and not a pituitary one.
+
+**The one thing he has never measured that now matters most: blood pressure.** It
+is the missing input to the PREVENT risk equations the 2026 ACC/AHA guideline runs
+on. By those equations his 10-year ASCVD risk is Low, under 3%, which calls for
+behaviour change alone unless LDL-C is 160–189 (it is not) or his 30-year risk is
+10% or more — and that last clause is the live one for a 42-year-old with ApoB 105.
+Blood pressure decides it and he has never recorded one.
+
+**What was proposed, in order:** chase the missing markers; measure blood pressure
+over three mornings; consider a coronary calcium CT (Ascension Seton Northwest 75
+dollars, Heart Hospital of Austin 79, Longhorn Imaging South Austin 105, no
+referral needed at many Texas sites) as the cheapest decisive test of whether 42
+years of ApoB 105 has built anything; run psyllium 10 g, plant sterols 2 g,
+beta-glucan 3 g and a saturated-for-unsaturated swap for four months; 2,000 IU of
+vitamin D; retest ApoB alone in March 2027. Still above 90 then, and the statin
+conversation is a reasonable one to have at 43 rather than at 53.
+
+**And two readings against his own goals.** The labs give no metabolic reason to
+keep losing weight — triglycerides, HOMA-IR and CRP are already where weight loss
+is meant to put them, and below 140 lb at 5 ft 5.5 in the cost is lean mass. The
+lever for the visible abs he asked about on October 7 is muscle, not another ten
+pounds; and across 243 `exercise_set` rows nothing still trains the abs directly.
