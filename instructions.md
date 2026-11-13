@@ -816,3 +816,37 @@ He has now asked for the buzzing, so:
 As of this note it is **not** past due — emptied Monday November 9 at 20:00, next
 due Saturday November 14 at 18:00 — so no nag row was set. The earliest one could
 be is the briefing of Sunday November 15.
+
+## Food, continued
+
+**November 13, 2026 — fibre on every food receipt, beside calories and protein.**
+"From now on in addition to calories and protein on my food tracking, responses
+also include where I'm at for fiber in the day."
+
+An addition to the September 21, 2026 rule above, which put the day's calories and
+protein on every meal receipt. The day's fibre now goes on the same receipt, read
+the same way: his local day, midnight to midnight, America/Chicago, from the meal
+rows themselves and never from anything stored as a running total, so a later
+correction to a meal moves the day with it.
+
+```
+records --kind meal --from <today 00:00 -06:00> --to <today 23:59 -06:00> \
+        --agg sum:kcal,sum:protein_g,sum:fiber_g,count
+```
+
+- **`fiber_g` goes on every meal row**, as it already does on most — 130 of the 182
+  rows of November 1-13 carry it. A row of the current day that is missing it is
+  estimated from its items before the day is summed rather than counted as zero,
+  and a food that genuinely has none gets a 0, since a missing value and a zero
+  read the same in a sum and only the zero is true. Older rows are left as they
+  stand and estimated at answer time, as a nutrition_check already does.
+- **With its percentage**, by the October 31, 2026 nutrition rule above: the target
+  is 28 g, the figure every fibre line on his rows has used, derived from the
+  ordinary adult male recommendation rather than set by him. So the day reads
+  `fibre 11/28 g, 41%`.
+- Three numbers do not fit one wrist row, so the day so far is two rows rather than
+  one — `761 kcal, 85 g protein` / `fibre 11/28 g, 41%` — and the receipt is three
+  rows in all: what was eaten, then the day.
+
+This governs the receipt on a tracked meal. A nutrition question is already
+answered by the October 31, 2026 rule, which carries fibre among everything else.
