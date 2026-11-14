@@ -850,3 +850,28 @@ records --kind meal --from <today 00:00 -06:00> --to <today 23:59 -06:00> \
 
 This governs the receipt on a tracked meal. A nutrition question is already
 answered by the October 31, 2026 rule, which carries fibre among everything else.
+
+## Food, corrected
+
+**November 14, 2026 — the fibre target is 30 g, not 28.** Written by the weekly pass.
+The November 13 entry above put the day's fibre on every meal receipt "as a percentage
+of the 28 g target", and justified 28 as "the figure every fibre line on his rows has
+used." That premise was wrong. `kinds/nutrition_check.md` settled **30 g** on October 19,
+2026, and all 52 nutrition_check rows read against 30 — four of them this week ("18 of
+30", "15.1 of 30"). Two targets would mean a meal receipt and a nutrition answer give
+him different percentages for the same day: 11.4 g is 41 percent of 28 and 38 percent
+of 30.
+
+So **30 g** is the single fibre target, for meal receipts and for nutrition answers
+alike. Everything else about the November 13 entry stands — fibre on every receipt,
+read from the meal rows for his local day, `fiber_g` on every row, the day as two wrist
+rows. Both kind documents now say 30. Neither number is his: 30 g sits between the
+28 g label Daily Value and the 38 g DRI for a man of 42, and he has set none of them,
+so an answer that leans on it says it is derived. One word from him changes it.
+
+**And the calorie window is a deficit he has never held.** Not an instruction, a
+correction to a figure these rules lean on: `kinds/nutrition_check.md` has said since
+October that 1,600–1,700 kcal is maintenance rather than a deficit. Two more weeks say
+it is about 500 kcal *below* maintenance — logged 1,803 then 2,068 kcal a day while the
+morning average fell 141.43 → 140.73 → 140.27 lb, which puts maintenance-as-logged near
+2,200 kcal. The detail and the caveats are in that document.
