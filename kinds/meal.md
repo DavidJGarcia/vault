@@ -512,3 +512,10 @@ notes:  he opens with "Track" or "Log". A second helping of the same thing a few
         a sum and only the zero is true. 130 of the 182 rows of November 1-13, 2026
         carried it when the rule was made; older rows are left as they stand and
         their fibre estimated from items at answer time.
+
+November 14, 2026, the weekly pass: **the fibre line on a meal receipt reads against
+30 g, not 28.** The November 13 standing instruction set 28 g on the premise that it
+was the figure the rows already used; it was not — `kinds/nutrition_check.md` settled
+30 g on October 19, 2026 and every nutrition answer has used it. One target for both,
+so a receipt and a nutrition read agree on the same day. `instructions.md` carries the
+correction. To undo: say the target is 28.
