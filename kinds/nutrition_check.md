@@ -127,3 +127,31 @@ notes:  he asks in the early afternoon and again late afternoon, and the late on
         from the fortification on those two labels, with zinc and fibre left as the
         gaps. A re-ask inside a few minutes is a new row (`follows` and `delta_since`
         point at the one before), never an update to it.
+
+        November 14, 2026, the weekly pass, two corrections to the targets above.
+
+        **Fibre stays 30 g.** The November 13 standing instruction that put fibre on
+        every meal receipt set the target at 28 g and said that was "the figure every
+        fibre line on his rows has used" — which is not so. This document settled 30 g
+        on October 19, 2026 and all 52 rows of this kind have read against 30 ("18 of
+        30", "15.1 of 30", "19.5 of 30", four of them this week alone). Two numbers
+        meant a meal receipt and a nutrition answer would give him different
+        percentages for the same day — 11.4 g is 41 percent of 28 and 38 percent of
+        30. So 30 g is the one target for both, and `instructions.md` now carries that
+        correction. Neither figure is his: 30 g sits between the 28 g label Daily
+        Value and the 38 g DRI for a man of 42, and he has never set one. To undo:
+        say the target is 28.
+
+        **1,600–1,700 kcal is about 500 below maintenance, not at it.** The paragraph
+        above says three weeks at a logged 1,715 kcal left the weight flat, so the
+        window reads as maintenance. Two more weeks say otherwise: logged intake ran
+        1,803 kcal a day (Oct 31–Nov 6) and 2,068 (Nov 7–13), while the morning
+        average fell 141.43 → 140.73 → 140.27 lb. A 1.16 lb loss over 14 days at a
+        mean logged 1,936 kcal puts maintenance-as-logged near **2,200 kcal a day**,
+        not 1,700. Call it 2,200 ± 200: three mornings a week is a thin base, the scale
+        carries half a pound of noise, and logged intake is a floor rather than a
+        measurement, which pushes the true figure up rather than down. What would
+        change it: a week logged near 2,100 with the morning average flat or rising.
+        So when he asks what to eat to lose, the honest answer is that he has been
+        losing at about 1,900–2,000 and the 1,600–1,700 window is a deficit he has
+        never actually held.
